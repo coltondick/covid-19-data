@@ -16,6 +16,9 @@ jobs:
     # Step 1: run a standard checkout action, provided by github
     - name: Checkout target repo
       uses: actions/checkout@v2
+      with:
+        ref: master
+        repository: owid/covid-19-data
 
     # REQUIRED step
     # Step 2: run the sync action
