@@ -46,6 +46,7 @@ def click_jhu_generate(ctx):
 def click_jhu_db(ctx):
     feedback_log(
         func=main,
+        logger=ctx.obj["logger"],
         server=ctx.obj["server"],
         domain="JHU",
         step="grapher-db",
