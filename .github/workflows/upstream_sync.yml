@@ -16,12 +16,6 @@ jobs:
     # Step 1: run a standard checkout action, provided by github
     - name: Checkout target repo
       uses: actions/checkout@v2
-      with:
-        # optional: set the branch to checkout,
-        # sync action checks out your 'target_sync_branch' anyway
-        ref:  master
-        # REQUIRED if your upstream repo is private (see wiki)
-        persist-credentials: false
 
     # REQUIRED step
     # Step 2: run the sync action
@@ -36,8 +30,6 @@ jobs:
         upstream_sync_repo: owid/covid-19-data
 #        upstream_repo_access_token: ${{ secrets.UPSTREAM_REPO_SECRET }}
 
-        # Set test_mode true to run tests instead of the true action!!
-        test_mode: true
       
     # Step 3: Display a sample message based on the sync output var 'has_new_commits'
     - name: New commits found
