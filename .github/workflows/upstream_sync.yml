@@ -28,7 +28,7 @@ jobs:
       with:
         target_sync_branch: master
         # REQUIRED 'target_repo_token' exactly like this!
-        target_repo_token: ${{ secrets.ACTIONS_TOKEN }}
+        target_repo_token: ${{ secrets.GITHUB_TOKEN }}
         upstream_sync_branch: master
         upstream_sync_repo: owid/covid-19-data
 #        upstream_repo_access_token: ${{ secrets.UPSTREAM_REPO_SECRET }}
