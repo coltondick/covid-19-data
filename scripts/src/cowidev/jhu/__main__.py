@@ -407,6 +407,7 @@ def update_db():
         csv_path=os.path.join(OUTPUT_PATH, DATASET_NAME + ".csv"),
         default_variable_display={"yearIsDay": True, "zeroDay": ZERO_DAY},
         source_name="Johns Hopkins University CSSE COVID-19 Data",
+        slack_notifications=False,
     )
 
 

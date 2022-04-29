@@ -1,8 +1,9 @@
+from datetime import datetime, timedelta
 import pandas as pd
 
 from cowidev.utils.web import request_json
 from cowidev.utils.utils import check_known_columns
-from cowidev.vax.utils.utils import make_monotonic
+from cowidev.utils.clean.dates import DATE_FORMAT
 from cowidev.vax.utils.base import CountryVaxBase
 from cowidev.vax.utils.utils import build_vaccine_timeline
 
@@ -83,9 +84,12 @@ class Canada(CountryVaxBase):
         )
         return df
 
-    def pipe_filter_lastdate(self, df: pd.DataFrame):
+    def pipe_filter_lastdates(self, df: pd.DataFrame):
         # date = "2022-03-18"
-        df = df[~(df.date == df.date.max())]
+        last_date = datetime.strptime(df.date.max(), DATE_FORMAT)
+        margin_days = 1
+        remove_dates = [(last_date - timedelta(days=d)).strftime(DATE_FORMAT) for d in range(margin_days + 1)]
+        df = df[~(df.date.isin(remove_dates))]
         return df
 
     def pipeline(self, df: pd.DataFrame) -> pd.DataFrame:
@@ -94,7 +98,7 @@ class Canada(CountryVaxBase):
             .pipe(self.pipe_rename_columns)
             .pipe(self.pipe_metrics)
             .pipe(self.pipe_metadata)
-            .pipe(self.pipe_filter_lastdate)
+            .pipe(self.pipe_filter_lastdates)
             .pipe(self.make_monotonic)
             .sort_values("date")[
                 [

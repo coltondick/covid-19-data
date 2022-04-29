@@ -1,486 +1,487 @@
 location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
 Argentina,2020-12-29,Sputnik V,https://covidstats.com.ar/,20491,20485,5,1
 Argentina,2020-12-30,Sputnik V,https://covidstats.com.ar/,40593,40582,10,1
-Argentina,2020-12-31,Sputnik V,https://covidstats.com.ar/,43398,43387,10,1
-Argentina,2021-01-01,Sputnik V,https://covidstats.com.ar/,43525,43514,10,1
-Argentina,2021-01-02,Sputnik V,https://covidstats.com.ar/,46837,46824,12,1
-Argentina,2021-01-03,Sputnik V,https://covidstats.com.ar/,47279,47264,13,2
-Argentina,2021-01-04,Sputnik V,https://covidstats.com.ar/,57739,57718,17,4
-Argentina,2021-01-05,Sputnik V,https://covidstats.com.ar/,68465,68441,20,4
-Argentina,2021-01-06,Sputnik V,https://covidstats.com.ar/,78573,78549,20,4
-Argentina,2021-01-07,Sputnik V,https://covidstats.com.ar/,96795,96769,22,4
-Argentina,2021-01-08,Sputnik V,https://covidstats.com.ar/,124678,124646,28,4
-Argentina,2021-01-09,Sputnik V,https://covidstats.com.ar/,134886,134853,29,4
-Argentina,2021-01-10,Sputnik V,https://covidstats.com.ar/,136061,136026,29,6
-Argentina,2021-01-11,Sputnik V,https://covidstats.com.ar/,155885,155845,33,7
-Argentina,2021-01-12,Sputnik V,https://covidstats.com.ar/,175273,175215,43,15
-Argentina,2021-01-13,Sputnik V,https://covidstats.com.ar/,192039,191980,44,15
-Argentina,2021-01-14,Sputnik V,https://covidstats.com.ar/,208684,208624,44,16
-Argentina,2021-01-15,Sputnik V,https://covidstats.com.ar/,226123,226057,50,16
-Argentina,2021-01-16,Sputnik V,https://covidstats.com.ar/,232006,231939,51,16
-Argentina,2021-01-17,Sputnik V,https://covidstats.com.ar/,233067,232996,54,17
-Argentina,2021-01-18,Sputnik V,https://covidstats.com.ar/,242899,242817,58,24
-Argentina,2021-01-19,Sputnik V,https://covidstats.com.ar/,256145,250632,5488,25
-Argentina,2021-01-20,Sputnik V,https://covidstats.com.ar/,275568,256541,19002,25
-Argentina,2021-01-21,Sputnik V,https://covidstats.com.ar/,289684,261338,28321,25
-Argentina,2021-01-22,Sputnik V,https://covidstats.com.ar/,298902,266361,32515,26
-Argentina,2021-01-23,Sputnik V,https://covidstats.com.ar/,302846,267473,35346,27
-Argentina,2021-01-24,Sputnik V,https://covidstats.com.ar/,303149,267564,35558,27
-Argentina,2021-01-25,Sputnik V,https://covidstats.com.ar/,317359,274686,42646,27
-Argentina,2021-01-26,Sputnik V,https://covidstats.com.ar/,330167,280004,50136,27
-Argentina,2021-01-27,Sputnik V,https://covidstats.com.ar/,340272,284095,56150,27
-Argentina,2021-01-28,Sputnik V,https://covidstats.com.ar/,356321,285538,70755,28
-Argentina,2021-01-29,Sputnik V,https://covidstats.com.ar/,379818,287000,92790,28
-Argentina,2021-01-30,Sputnik V,https://covidstats.com.ar/,389130,287202,101900,28
-Argentina,2021-01-31,Sputnik V,https://covidstats.com.ar/,389754,287210,102516,28
-Argentina,2021-02-01,Sputnik V,https://covidstats.com.ar/,409276,289483,119764,29
-Argentina,2021-02-02,Sputnik V,https://covidstats.com.ar/,433148,295125,137993,30
-Argentina,2021-02-03,Sputnik V,https://covidstats.com.ar/,459757,305532,154195,30
-Argentina,2021-02-04,Sputnik V,https://covidstats.com.ar/,487878,315850,171998,30
-Argentina,2021-02-05,Sputnik V,https://covidstats.com.ar/,520904,329734,191142,30
-Argentina,2021-02-06,Sputnik V,https://covidstats.com.ar/,531829,332810,198991,30
-Argentina,2021-02-07,Sputnik V,https://covidstats.com.ar/,533212,333381,199803,30
-Argentina,2021-02-08,Sputnik V,https://covidstats.com.ar/,556629,349847,206754,30
-Argentina,2021-02-09,Sputnik V,https://covidstats.com.ar/,576825,364113,212684,30
-Argentina,2021-02-10,Sputnik V,https://covidstats.com.ar/,592447,375121,217298,30
-Argentina,2021-02-11,Sputnik V,https://covidstats.com.ar/,610298,379788,230482,30
-Argentina,2021-02-12,Sputnik V,https://covidstats.com.ar/,626128,384046,242054,30
-Argentina,2021-02-13,Sputnik V,https://covidstats.com.ar/,629164,384409,244727,30
-Argentina,2021-02-14,Sputnik V,https://covidstats.com.ar/,629316,384433,244855,30
-Argentina,2021-02-15,Sputnik V,https://covidstats.com.ar/,630631,385513,245090,30
-Argentina,2021-02-16,Sputnik V,https://covidstats.com.ar/,631942,386550,245364,30
-Argentina,2021-02-17,Sputnik V,https://covidstats.com.ar/,656330,406192,250110,30
-Argentina,2021-02-18,Sputnik V,https://covidstats.com.ar/,720143,458453,261662,30
-Argentina,2021-02-19,Sputnik V,https://covidstats.com.ar/,788015,518782,269204,31
-Argentina,2021-02-20,Sputnik V,https://covidstats.com.ar/,820630,549855,270746,31
-Argentina,2021-02-21,Sputnik V,https://covidstats.com.ar/,840805,569994,270782,31
-Argentina,2021-02-22,Sputnik V,https://covidstats.com.ar/,908343,635810,272504,31
-Argentina,2021-02-23,Sputnik V,https://covidstats.com.ar/,995278,718633,276616,31
-Argentina,2021-02-24,Sputnik V,https://covidstats.com.ar/,1089059,805950,283078,33
-Argentina,2021-02-25,Sputnik V,https://covidstats.com.ar/,1168548,873950,294511,89
-Argentina,2021-02-26,Sputnik V,https://covidstats.com.ar/,1250211,944598,305526,89
-Argentina,2021-02-27,Sputnik V,https://covidstats.com.ar/,1268095,960472,307536,89
-Argentina,2021-02-28,Sputnik V,https://covidstats.com.ar/,1274215,966277,307851,89
-Argentina,2021-03-01,Sputnik V,https://covidstats.com.ar/,1348758,1033491,315180,89
-Argentina,2021-03-02,Sputnik V,https://covidstats.com.ar/,1424356,1101890,322379,89
-Argentina,2021-03-03,Sputnik V,https://covidstats.com.ar/,1495807,1166165,329555,89
-Argentina,2021-03-04,Sputnik V,https://covidstats.com.ar/,1607860,1264598,343174,90
-Argentina,2021-03-05,Sputnik V,https://covidstats.com.ar/,1719586,1363498,356000,90
-Argentina,2021-03-06,Sputnik V,https://covidstats.com.ar/,1774517,1414641,359788,90
-Argentina,2021-03-07,Sputnik V,https://covidstats.com.ar/,1786303,1426346,359869,90
-Argentina,2021-03-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,1888771,1526323,362360,90
-Argentina,2021-03-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,2004554,1639790,364675,91
-Argentina,2021-03-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,2168498,1797410,370999,91
-Argentina,2021-03-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,2355307,1951435,403782,92
-Argentina,2021-03-12,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,2516921,2069501,447330,92
-Argentina,2021-03-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,2563298,2088609,474599,92
-Argentina,2021-03-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,2572466,2096538,475838,92
-Argentina,2021-03-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,2710029,2205515,504423,93
-Argentina,2021-03-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,2843727,2317107,526529,93
-Argentina,2021-03-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,2983269,2438455,544723,93
-Argentina,2021-03-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,3122192,2533980,588120,94
-Argentina,2021-03-19,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,3248356,2624076,624188,94
-Argentina,2021-03-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,3299217,2662154,636971,94
-Argentina,2021-03-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,3318844,2680463,638287,96
-Argentina,2021-03-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,3401877,2750723,651059,97
-Argentina,2021-03-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,3508318,2844651,663572,97
-Argentina,2021-03-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,3545773,2880866,664812,97
-Argentina,2021-03-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,3648940,2968634,680211,97
-Argentina,2021-03-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,3742485,3051799,690591,97
-Argentina,2021-03-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,3797560,3103730,693735,97
-Argentina,2021-03-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,3818376,3124490,693791,97
-Argentina,2021-03-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,3938550,3239883,698570,99
-Argentina,2021-03-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,4101543,3397568,703876,101
-Argentina,2021-03-31,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,4276447,3567614,708733,102
-Argentina,2021-04-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,4393567,3682625,710842,102
-Argentina,2021-04-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,4461709,3749755,711854,102
-Argentina,2021-04-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,4536197,3823707,712390,102
-Argentina,2021-04-04,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,4584673,3872086,712487,102
-Argentina,2021-04-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,4750636,4028444,722091,103
-Argentina,2021-04-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,4944598,4214309,730188,103
-Argentina,2021-04-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,5182970,4446132,736736,104
-Argentina,2021-04-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,5418866,4677123,741640,105
-Argentina,2021-04-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,5659228,4905321,753801,108
-Argentina,2021-04-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,5752156,4992909,759140,109
-Argentina,2021-04-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,5800464,5039701,760656,109
-Argentina,2021-04-12,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,5982237,5212860,769270,109
-Argentina,2021-04-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,6168243,5374287,793848,110
-Argentina,2021-04-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,6339883,5531046,808729,110
-Argentina,2021-04-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,6490934,5660990,829835,111
-Argentina,2021-04-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,6614613,5776504,837999,112
-Argentina,2021-04-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,6660313,5816801,843402,112
-Argentina,2021-04-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,6680212,5836570,843532,112
-Argentina,2021-04-19,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,6770666,5912647,857908,113
-Argentina,2021-04-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,6893353,6019626,873615,114
-Argentina,2021-04-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,7067271,6178800,888360,114
-Argentina,2021-04-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,7245385,6343193,902081,116
-Argentina,2021-04-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,7439900,6525282,914505,118
-Argentina,2021-04-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,7532114,6616084,915917,118
-Argentina,2021-04-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,7581427,6665207,916107,118
-Argentina,2021-04-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,7753518,6831290,922115,118
-Argentina,2021-04-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,7907209,6979820,927274,120
-Argentina,2021-04-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,8066168,7115423,950630,120
-Argentina,2021-04-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,8222386,7237969,984301,121
-Argentina,2021-04-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,8337300,7320021,1017158,126
-Argentina,2021-05-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,8357596,7336817,1020658,126
-Argentina,2021-05-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,8397758,7362930,1034707,126
-Argentina,2021-05-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,8572410,7460579,1111709,127
-Argentina,2021-05-04,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,8804399,7597371,1206905,128
-Argentina,2021-05-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,9049281,7762213,1286941,132
-Argentina,2021-05-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,9252017,7900440,1351449,133
-Argentina,2021-05-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,9457299,8009706,1447465,134
-Argentina,2021-05-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,9531561,8042136,1489297,134
-Argentina,2021-05-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,9550247,8057727,1492391,135
-Argentina,2021-05-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,9691861,8135126,1556605,136
-Argentina,2021-05-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,9832247,8211110,1621005,138
-Argentina,2021-05-12,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,10029783,8263504,1766145,140
-Argentina,2021-05-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,10221858,8301141,1920581,142
-Argentina,2021-05-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,10418288,8341545,2076605,144
-Argentina,2021-05-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,10513344,8386161,2127044,145
-Argentina,2021-05-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,10580935,8410471,2170325,145
-Argentina,2021-05-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,10767854,8500545,2267167,148
-Argentina,2021-05-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,10965940,8654641,2311155,150
-Argentina,2021-05-19,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,11133592,8785907,2347536,155
-Argentina,2021-05-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,11316087,8926299,2389634,160
-Argentina,2021-05-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,11493282,9017818,2475308,162
-Argentina,2021-05-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,11593708,9074717,2518833,164
-Argentina,2021-05-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,11638958,9097076,2541722,166
-Argentina,2021-05-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,11727310,9165484,2561666,166
-Argentina,2021-05-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,11790708,9202395,2588151,168
-Argentina,2021-05-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,11943696,9291215,2652316,171
-Argentina,2021-05-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,12113009,9379063,2733777,175
-Argentina,2021-05-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,12358955,9503643,2855140,178
-Argentina,2021-05-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,12586389,9669796,2916419,180
-Argentina,2021-05-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,12715199,9782025,2932999,181
-Argentina,2021-05-31,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,13014102,10018753,2995171,184
-Argentina,2021-06-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,13328867,10281685,3046996,192
-Argentina,2021-06-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,13638074,10539693,3098192,195
-Argentina,2021-06-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,13987575,10853850,3133532,199
-Argentina,2021-06-04,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,14395566,11217288,3178068,216
-Argentina,2021-06-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,14722307,11523925,3198142,246
-Argentina,2021-06-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,14939586,11728496,3210848,248
-Argentina,2021-06-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,15292601,12033920,3258435,252
-Argentina,2021-06-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,15662374,12368610,3293513,257
-Argentina,2021-06-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,16034640,12717988,3316397,261
-Argentina,2021-06-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,16369549,13034524,3334763,268
-Argentina,2021-06-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,16736225,13354971,3380989,271
-Argentina,2021-06-12,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,16921227,13459976,3460982,275
-Argentina,2021-06-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,17003867,13498945,3504649,279
-Argentina,2021-06-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,17241741,13653060,3588402,285
-Argentina,2021-06-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,17499399,13826482,3672629,294
-Argentina,2021-06-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,17786151,14039984,3745871,302
-Argentina,2021-06-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,18100441,14289151,3810991,305
-Argentina,2021-06-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,18499577,14643060,3856213,310
-Argentina,2021-06-19,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,18732106,14854938,3876861,313
-Argentina,2021-06-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,18831302,14949959,3881035,314
-Argentina,2021-06-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,19000939,15095805,3904826,314
-Argentina,2021-06-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,19288670,15345363,3942995,318
-Argentina,2021-06-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,19551721,15579260,3972148,319
-Argentina,2021-06-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,19856146,15849682,4006149,321
-Argentina,2021-06-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,20232683,16155757,4076608,324
-Argentina,2021-06-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,20548692,16394014,4154359,325
-Argentina,2021-06-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,20724860,16549125,4175416,325
-Argentina,2021-06-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,21097759,16870020,4227397,348
-Argentina,2021-06-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,21472078,17196482,4275252,350
-Argentina,2021-06-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,21847681,17535856,4311480,351
-Argentina,2021-07-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,22279464,17850799,4428319,352
-Argentina,2021-07-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,22694958,18181892,4512716,356
-Argentina,2021-07-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,23031490,18433961,4597173,362
-Argentina,2021-07-04,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,23227919,18608578,4618981,366
-Argentina,2021-07-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,23637614,18844820,4792427,373
-Argentina,2021-07-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,24054338,19118122,4935840,382
-Argentina,2021-07-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,24458296,19409419,5048491,392
-Argentina,2021-07-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,24868651,19779363,5088895,399
-Argentina,2021-07-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,25226080,20032338,5193347,401
-Argentina,2021-07-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,25557864,20333021,5224443,406
-Argentina,2021-07-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,25723386,20490513,5232473,406
-Argentina,2021-07-12,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,26110395,20848513,5261480,408
-Argentina,2021-07-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,26503870,21213856,5289604,416
-Argentina,2021-07-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,26902097,21577916,5323765,422
-Argentina,2021-07-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,27301899,21921971,5379507,427
-Argentina,2021-07-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,27758054,22277774,5479856,430
-Argentina,2021-07-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,28080447,22506940,5573077,436
-Argentina,2021-07-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,28248579,22637820,5610327,438
-Argentina,2021-07-19,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,28667133,22970970,5695728,441
-Argentina,2021-07-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,29115482,23211061,5903978,449
-Argentina,2021-07-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,29535291,23533590,6001250,457
-Argentina,2021-07-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,29921998,23853990,6067555,459
-Argentina,2021-07-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,30329440,24171802,6157181,463
-Argentina,2021-07-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,30566934,24358191,6208284,465
-Argentina,2021-07-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,30700758,24483764,6216535,465
-Argentina,2021-07-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,31108314,24728097,6379754,469
-Argentina,2021-07-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,31536316,24930496,6605352,474
-Argentina,2021-07-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,31996191,25184799,6810916,482
-Argentina,2021-07-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,32421002,25417241,7003281,486
-Argentina,2021-07-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,32847816,25635620,7211710,492
-Argentina,2021-07-31,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,33122350,25758083,7363776,497
-Argentina,2021-08-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,33289689,25831886,7457308,501
-Argentina,2021-08-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,33706627,26008717,7697412,504
-Argentina,2021-08-03,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,34114456,26217029,7896928,505
-Argentina,2021-08-04,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,34531633,26395734,8135394,511
-Argentina,2021-08-05,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,34961803,26549122,8412172,515
-Argentina,2021-08-06,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,35375558,26680140,8694903,521
-Argentina,2021-08-07,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,35653600,26752639,8900437,530
-Argentina,2021-08-08,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,35815232,26786191,9028514,533
-Argentina,2021-08-09,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,36205935,26897267,9308125,549
-Argentina,2021-08-10,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,36576133,26999825,9575754,560
-Argentina,2021-08-11,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,36988651,27091432,9896644,581
-Argentina,2021-08-12,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,37380862,27170391,10209882,595
-Argentina,2021-08-13,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,37797362,27241103,10555631,634
-Argentina,2021-08-14,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,38053515,27278034,10774845,642
-Argentina,2021-08-15,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,38215921,27307806,10907477,644
-Argentina,2021-08-16,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,38406775,27356372,11049755,654
-Argentina,2021-08-17,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,38846331,27475197,11370469,671
-Argentina,2021-08-18,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,39281294,27582938,11697646,716
-Argentina,2021-08-19,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,39707058,27699324,12007007,733
-Argentina,2021-08-20,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,40142838,27818643,12323451,750
-Argentina,2021-08-21,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,40399966,27872925,12526291,756
-Argentina,2021-08-22,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,40569935,27896316,12672867,758
-Argentina,2021-08-23,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,40978159,28018601,12958791,773
-Argentina,2021-08-24,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,41426841,28110454,13315597,796
-Argentina,2021-08-25,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,41853152,28185422,13666931,805
-Argentina,2021-08-26,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,42295518,28258207,14036495,822
-Argentina,2021-08-27,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,42762794,28335738,14426213,849
-Argentina,2021-08-28,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,43006235,28378213,14627166,862
-Argentina,2021-08-29,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,43174970,28400162,14773948,866
-Argentina,2021-08-30,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,43592448,28492332,15099239,883
-Argentina,2021-08-31,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,44052092,28589041,15462159,898
-Argentina,2021-09-01,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,44507534,28671486,15835140,914
-Argentina,2021-09-02,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,44955302,28750369,16204016,923
-Argentina,2021-09-03,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,45389664,28815467,16573265,938
-Argentina,2021-09-04,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,45685520,28854841,16829741,944
-Argentina,2021-09-05,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,45882069,28871427,17009698,950
-Argentina,2021-09-06,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,46323280,28922921,17399403,962
-Argentina,2021-09-07,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,46786497,28977355,17808216,979
-Argentina,2021-09-08,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,47160000,29036278,18122819,993
-Argentina,2021-09-09,"CanSino, Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,47557449,29086034,18470484,1028
-Argentina,2021-09-10,"CanSino, Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,47899559,29135662,18762950,1046
-Argentina,2021-09-11,"CanSino, Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,48098214,29161269,18936251,1068
-Argentina,2021-09-12,"CanSino, Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,48107948,29163696,18943928,1070
-Argentina,2021-09-13,"CanSino, Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,48410283,29215549,19208509,1087
-Argentina,2021-09-14,"CanSino, Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,48689725,29261947,19442736,1099
-Argentina,2021-09-15,"CanSino, Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,49019884,29297565,19738349,1151
-Argentina,2021-09-16,"CanSino, Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,49380980,29336227,20062050,1189
-Argentina,2021-09-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,49743125,29385443,20383467,1252
-Argentina,2021-09-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,49964198,29418907,20571535,1264
-Argentina,2021-09-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,50101685,29438768,20689203,1266
-Argentina,2021-09-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,50447281,29485838,20990202,1281
-Argentina,2021-09-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,50756467,29535443,21252259,1296
-Argentina,2021-09-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,51084753,29592570,21526638,1333
-Argentina,2021-09-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,51396041,29763008,21671339,1348
-Argentina,2021-09-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,51657115,29833694,21865985,1368
-Argentina,2021-09-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,51785221,29865351,21964935,1377
-Argentina,2021-09-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,51873196,29878431,22040435,1387
-Argentina,2021-09-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,52155492,29932862,22273871,1416
-Argentina,2021-09-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,52456051,29992780,22519804,1430
-Argentina,2021-09-29,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,52711153,30043390,22728180,1460
-Argentina,2021-09-30,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,53047388,30111986,22998959,1560
-Argentina,2021-10-01,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,53351155,30174283,23244154,1604
-Argentina,2021-10-02,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,53529992,30201578,23396817,1637
-Argentina,2021-10-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,53638462,30223207,23483792,1670
-Argentina,2021-10-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,53868224,30288830,23650646,1710
-Argentina,2021-10-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,54134627,30397814,23811623,1782
-Argentina,2021-10-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,54382107,30462879,23997937,1804
-Argentina,2021-10-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,54646744,30552106,24176000,1843
-Argentina,2021-10-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,54767980,30581073,24269123,1899
-Argentina,2021-10-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,54883743,30595086,24371656,1932
-Argentina,2021-10-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,54961908,30606137,24438955,1982
-Argentina,2021-10-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,55038060,30624323,24497121,2011
-Argentina,2021-10-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,55385019,30844123,24626410,2052
-Argentina,2021-10-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,55764639,31106202,24746013,2101
-Argentina,2021-10-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,56188649,31378063,24900380,2158
-Argentina,2021-10-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,56614559,31641850,25064999,2248
-Argentina,2021-10-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,56868239,31776183,25185057,2294
-Argentina,2021-10-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,56971837,31828185,25236716,2315
-Argentina,2021-10-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,57394793,32127526,25362572,2339
-Argentina,2021-10-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,57818401,32441031,25475423,2373
-Argentina,2021-10-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,58232504,32759391,25573697,2429
-Argentina,2021-10-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,58651860,33047632,25707470,2489
-Argentina,2021-10-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,59115017,33396198,25824072,2554
-Argentina,2021-10-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,59331518,33554402,25882844,2604
-Argentina,2021-10-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,59477216,33676615,25906450,2619
-Argentina,2021-10-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,59841582,33927978,26021023,2676
-Argentina,2021-10-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,60250234,34193233,26166121,2732
-Argentina,2021-10-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,60578063,34426800,26261293,3557
-Argentina,2021-10-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,60930105,34656584,26374502,14075
-Argentina,2021-10-29,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,61254427,34859715,26473837,37561
-Argentina,2021-10-30,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,61383679,34933138,26512673,54839
-Argentina,2021-10-31,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,61533592,35051328,26537850,61519
-Argentina,2021-11-01,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,61831813,35232124,26620425,97909
-Argentina,2021-11-02,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,62152172,35359265,26766321,147035
-Argentina,2021-11-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,62501911,35500585,26927397,196279
-Argentina,2021-11-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,62861161,35672695,27077763,234850
-Argentina,2021-11-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,63171738,35812251,27195168,289861
-Argentina,2021-11-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,63338434,35874507,27276634,313402
-Argentina,2021-11-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,63466053,35933611,27330887,327835
-Argentina,2021-11-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,63715632,36044989,27423521,374574
-Argentina,2021-11-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,64067219,36205645,27554379,435917
-Argentina,2021-11-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,64436099,36296539,27675738,593743
-Argentina,2021-11-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,64817866,36393245,27792275,763542
-Argentina,2021-11-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,65213149,36478697,27949818,916864
-Argentina,2021-11-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,65402507,36515506,28009763,1009685
-Argentina,2021-11-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,65412112,36517688,28015436,1011440
-Argentina,2021-11-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,65748914,36571029,28217636,1093553
-Argentina,2021-11-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,66125874,36631636,28446859,1181638
-Argentina,2021-11-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,66492376,36691619,28665920,1270093
-Argentina,2021-11-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,66852828,36756429,28875020,1357714
-Argentina,2021-11-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,67241840,36813711,29122445,1443034
-Argentina,2021-11-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,67415159,36850181,29208614,1493875
-Argentina,2021-11-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,67508303,36868860,29259150,1517876
-Argentina,2021-11-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,67615220,36894596,29314464,1543842
-Argentina,2021-11-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,67950804,36968061,29495279,1626048
-Argentina,2021-11-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,68297586,37038826,29683070,1715190
-Argentina,2021-11-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,68617254,37096334,29854967,1806363
-Argentina,2021-11-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,68948721,37159022,30025565,1905701
-Argentina,2021-11-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,69105225,37194960,30097917,1954177
-Argentina,2021-11-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,69194467,37209914,30147101,1979408
-Argentina,2021-11-29,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,69551095,37275001,30326453,2092824
-Argentina,2021-11-30,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,69920588,37347144,30501500,2216329
-Argentina,2021-12-01,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,70299115,37429696,30634786,2380316
-Argentina,2021-12-02,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,70693583,37508884,30802049,2529837
-Argentina,2021-12-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,71008048,37578992,30937297,2640070
-Argentina,2021-12-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,71171272,37610706,31000536,2708819
-Argentina,2021-12-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,71267584,37629802,31045860,2740846
-Argentina,2021-12-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,71579231,37696480,31198425,2834486
-Argentina,2021-12-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,71913541,37762587,31367153,2935322
-Argentina,2021-12-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,72048059,37789002,31421547,2989290
-Argentina,2021-12-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,72347931,37844684,31546695,3110363
-Argentina,2021-12-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,72661066,37898811,31679745,3238892
-Argentina,2021-12-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,72815814,37927632,31739860,3306471
-Argentina,2021-12-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,72912826,37940969,31775226,3354862
-Argentina,2021-12-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,73237200,37995217,31899033,3503793
-Argentina,2021-12-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,73574018,38055880,32029139,3652250
-Argentina,2021-12-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,73954822,38110974,32149924,3858491
-Argentina,2021-12-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,74319559,38166891,32266552,4052153
-Argentina,2021-12-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,74649219,38217430,32366226,4233042
-Argentina,2021-12-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,74810827,38241825,32424140,4312592
-Argentina,2021-12-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,74902949,38254247,32454157,4362378
-Argentina,2021-12-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,75247404,38304750,32558497,4553469
-Argentina,2021-12-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,75598145,38364157,32679700,4725155
-Argentina,2021-12-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,75923850,38422698,32797432,4876188
-Argentina,2021-12-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,76161154,38463156,32883435,4988400
-Argentina,2021-12-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,76173925,38465469,32887929,4994551
-Argentina,2021-12-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,76174644,38465638,32888174,4994860
-Argentina,2021-12-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,76227525,38477042,32904991,5019842
-Argentina,2021-12-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,76658584,38551897,33042281,5241631
-Argentina,2021-12-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,77180155,38627982,33170581,5562089
-Argentina,2021-12-29,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,77676222,38704000,33293445,5863397
-Argentina,2021-12-30,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,78100118,38766712,33394880,6126638
-Argentina,2021-12-31,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,78131930,38770897,33403173,6146099
-Argentina,2022-01-01,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,78136387,38771525,33403936,6149198
-Argentina,2022-01-02,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,78239503,38786133,33424463,6218205
-Argentina,2022-01-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,78727228,38859638,33526115,6536455
-Argentina,2022-01-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,79275049,38943842,33637624,6894641
-Argentina,2022-01-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,79817069,39032000,33757219,7235181
-Argentina,2022-01-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,80360066,39125128,33875412,7573043
-Argentina,2022-01-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,80927121,39216888,33999338,7930232
-Argentina,2022-01-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,81196689,39255938,34049866,8113085
-Argentina,2022-01-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,81360140,39277426,34078564,8228268
-Argentina,2022-01-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,81872583,39357815,34174895,8568202
-Argentina,2022-01-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,82370929,39429356,34264312,8908763
-Argentina,2022-01-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,82869014,39498034,34351116,9254437
-Argentina,2022-01-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,83332794,39559763,34431710,9577949
-Argentina,2022-01-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,83750971,39612418,34500005,9877351
-Argentina,2022-01-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,83937989,39632038,34527783,10017731
-Argentina,2022-01-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,84071409,39644311,34544817,10122070
-Argentina,2022-01-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,84490491,39698019,34616339,10418211
-Argentina,2022-01-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,84896148,39746238,34684468,10709436
-Argentina,2022-01-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,85281587,39792265,34750969,10984237
-Argentina,2022-01-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,85663471,39838003,34816886,11256533
-Argentina,2022-01-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,86033809,39880583,34879436,11523941
-Argentina,2022-01-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,86206805,39898344,34905406,11653866
-Argentina,2022-01-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,86325275,39908434,34921195,11746742
-Argentina,2022-01-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,86691291,39952892,34988284,12003646
-Argentina,2022-01-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,87037631,39994362,35052534,12246359
-Argentina,2022-01-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,87380679,40034230,35117339,12487014
-Argentina,2022-01-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,87731942,40077509,35187749,12726803
-Argentina,2022-01-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,88077724,40117098,35255951,12967034
-Argentina,2022-01-29,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,88235161,40133297,35284243,13080568
-Argentina,2022-01-30,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,88331434,40141765,35299253,13153634
-Argentina,2022-01-31,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,88688639,40180619,35365882,13407501
-Argentina,2022-02-01,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,89029072,40218872,35429107,13648257
-Argentina,2022-02-02,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,89344380,40252374,35487366,13873600
-Argentina,2022-02-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,89622658,40282517,35543919,14066811
-Argentina,2022-02-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,89943652,40316256,35604975,14294639
-Argentina,2022-02-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,90078479,40327583,35626758,14396671
-Argentina,2022-02-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,90169646,40334860,35641218,14466232
-Argentina,2022-02-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,90455771,40367746,35703251,14659201
-Argentina,2022-02-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,90726898,40400546,35765772,14836654
-Argentina,2022-02-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,91026321,40432832,35824124,15047014
-Argentina,2022-02-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,91293313,40462183,35881666,15228490
-Argentina,2022-02-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,91533385,40486635,35932526,15394487
-Argentina,2022-02-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,91656462,40496985,35955215,15484894
-Argentina,2022-02-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,91733567,40502719,35968146,15543462
-Argentina,2022-02-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,91962943,40528422,36020971,15695671
-Argentina,2022-02-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,92179150,40554235,36071729,15836860
-Argentina,2022-02-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,92394007,40579638,36121567,15978096
-Argentina,2022-02-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,92604900,40605350,36173533,16112706
-Argentina,2022-02-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,92819550,40629796,36223943,16253795
-Argentina,2022-02-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,92907119,40637197,36241223,16316955
-Argentina,2022-02-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,92960973,40640426,36249934,16358961
-Argentina,2022-02-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,93163721,40664149,36299673,16489593
-Argentina,2022-02-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,93366841,40688930,36351744,16617282
-Argentina,2022-02-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,93571922,40712924,36402744,16748731
-Argentina,2022-02-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,93742861,40731888,36444822,16859817
-Argentina,2022-02-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,93948673,40753809,36494844,16994709
-Argentina,2022-02-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,94021193,40759815,36511508,17044778
-Argentina,2022-02-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,94056297,40762310,36519026,17069962
-Argentina,2022-02-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,94101085,40766188,36529409,17100609
-Argentina,2022-03-01,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,94144842,40770101,36539240,17130744
-Argentina,2022-03-02,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,94278449,40783279,36569265,17222098
-Argentina,2022-03-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,94405331,40795077,36597723,17309513
-Argentina,2022-03-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,94530140,40807156,36626434,17394267
-Argentina,2022-03-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,94588548,40811094,36637570,17437756
-Argentina,2022-03-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,94643346,40812947,36643773,17484551
-Argentina,2022-03-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,94795465,40823185,36669181,17601709
-Argentina,2022-03-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,94899073,40830182,36687491,17680416
-Argentina,2022-03-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,95018037,40837611,36706938,17773011
-Argentina,2022-03-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,95134121,40848445,36727887,17857800
-Argentina,2022-03-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,95261023,40857709,36751309,17952539
-Argentina,2022-03-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,95317773,40860932,36760787,17996686
-Argentina,2022-03-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,95345981,40862232,36765018,18019397
-Argentina,2022-03-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,95451271,40870709,36786253,18095576
-Argentina,2022-03-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,95576796,40878904,36807967,18191860
-Argentina,2022-03-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,95695197,40886885,36828303,18282524
-Argentina,2022-03-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,95809175,40894529,36848742,18368937
-Argentina,2022-03-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,95931622,40901393,36868196,18465493
-Argentina,2022-03-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,95998505,40904136,36877041,18520880
-Argentina,2022-03-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,96030146,40905097,36880766,18547852
-Argentina,2022-03-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,96146270,40911219,36898280,18640802
-Argentina,2022-03-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,96253371,40917319,36914999,18725501
-Argentina,2022-03-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,96368963,40923768,36932382,18817633
-Argentina,2022-03-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,96393169,40924778,36935754,18837492
-Argentina,2022-03-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,96503414,40930293,36951606,18926707
-Argentina,2022-03-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,96552671,40932379,36958159,18967409
-Argentina,2022-03-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,96574477,40933143,36960949,18985688
-Argentina,2022-03-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,96680180,40938749,36976816,19070282
-Argentina,2022-03-29,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,96774355,40943927,36991702,19144700
-Argentina,2022-03-30,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,96866028,40948365,37004344,19219542
-Argentina,2022-03-31,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,96961895,40953343,37018588,19296496
-Argentina,2022-04-01,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97048497,40958022,37032383,19364883
-Argentina,2022-04-02,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97072755,40959314,37036256,19384008
-Argentina,2022-04-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97087219,40960003,37038765,19395289
-Argentina,2022-04-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97162233,40964132,37050491,19454731
-Argentina,2022-04-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97233565,40968141,37062198,19510632
-Argentina,2022-04-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97294414,40972020,37072842,19557156
-Argentina,2022-04-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97353121,40975458,37082510,19602946
-Argentina,2022-04-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97418568,40978961,37092683,19654954
-Argentina,2022-04-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97445093,40980380,37097257,19675528
-Argentina,2022-04-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97455968,40980952,37099399,19683703
-Argentina,2022-04-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97518070,40983897,37108157,19734317
-Argentina,2022-04-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97580575,40987183,37117372,19784527
-Argentina,2022-04-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97646917,40990737,37127529,19837405
-Argentina,2022-04-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97667763,40991595,37130063,19854892
-Argentina,2022-04-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97678823,40992070,37131540,19864015
-Argentina,2022-04-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97699384,40992761,37133782,19881662
-Argentina,2022-04-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97705520,40992980,37134522,19886844
-Argentina,2022-04-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97789027,40996116,37143389,19958569
-Argentina,2022-04-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97879413,40999203,37152331,20037232
-Argentina,2022-04-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97977179,41002222,37162059,20122533
-Argentina,2022-04-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,98068305,41005080,37170885,20202323
-Argentina,2022-04-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,98163346,41007833,37178976,20286703
-Argentina,2022-04-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,98200678,41008934,37182504,20319434
-Argentina,2022-04-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,98214158,41009348,37183955,20331063
-Argentina,2022-04-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,98310899,41011875,37191290,20418244
-Argentina,2022-04-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,98385149,41013873,37197339,20484621
-Argentina,2022-04-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,98385150,41013873,37197339,20484622
+Argentina,2020-12-31,Sputnik V,https://covidstats.com.ar/,43399,43388,10,1
+Argentina,2021-01-01,Sputnik V,https://covidstats.com.ar/,43526,43515,10,1
+Argentina,2021-01-02,Sputnik V,https://covidstats.com.ar/,46838,46825,12,1
+Argentina,2021-01-03,Sputnik V,https://covidstats.com.ar/,47280,47265,13,2
+Argentina,2021-01-04,Sputnik V,https://covidstats.com.ar/,57740,57719,17,4
+Argentina,2021-01-05,Sputnik V,https://covidstats.com.ar/,68466,68442,20,4
+Argentina,2021-01-06,Sputnik V,https://covidstats.com.ar/,78574,78550,20,4
+Argentina,2021-01-07,Sputnik V,https://covidstats.com.ar/,96796,96770,22,4
+Argentina,2021-01-08,Sputnik V,https://covidstats.com.ar/,124679,124647,28,4
+Argentina,2021-01-09,Sputnik V,https://covidstats.com.ar/,134887,134854,29,4
+Argentina,2021-01-10,Sputnik V,https://covidstats.com.ar/,136062,136027,29,6
+Argentina,2021-01-11,Sputnik V,https://covidstats.com.ar/,155886,155846,33,7
+Argentina,2021-01-12,Sputnik V,https://covidstats.com.ar/,175274,175216,43,15
+Argentina,2021-01-13,Sputnik V,https://covidstats.com.ar/,192040,191981,44,15
+Argentina,2021-01-14,Sputnik V,https://covidstats.com.ar/,208685,208625,44,16
+Argentina,2021-01-15,Sputnik V,https://covidstats.com.ar/,226124,226058,50,16
+Argentina,2021-01-16,Sputnik V,https://covidstats.com.ar/,232007,231940,51,16
+Argentina,2021-01-17,Sputnik V,https://covidstats.com.ar/,233068,232997,54,17
+Argentina,2021-01-18,Sputnik V,https://covidstats.com.ar/,242900,242818,58,24
+Argentina,2021-01-19,Sputnik V,https://covidstats.com.ar/,256146,250633,5488,25
+Argentina,2021-01-20,Sputnik V,https://covidstats.com.ar/,275569,256542,19002,25
+Argentina,2021-01-21,Sputnik V,https://covidstats.com.ar/,289685,261339,28321,25
+Argentina,2021-01-22,Sputnik V,https://covidstats.com.ar/,298903,266362,32515,26
+Argentina,2021-01-23,Sputnik V,https://covidstats.com.ar/,302847,267474,35346,27
+Argentina,2021-01-24,Sputnik V,https://covidstats.com.ar/,303150,267565,35558,27
+Argentina,2021-01-25,Sputnik V,https://covidstats.com.ar/,317360,274687,42646,27
+Argentina,2021-01-26,Sputnik V,https://covidstats.com.ar/,330168,280005,50136,27
+Argentina,2021-01-27,Sputnik V,https://covidstats.com.ar/,340273,284096,56150,27
+Argentina,2021-01-28,Sputnik V,https://covidstats.com.ar/,356322,285539,70755,28
+Argentina,2021-01-29,Sputnik V,https://covidstats.com.ar/,379819,287001,92790,28
+Argentina,2021-01-30,Sputnik V,https://covidstats.com.ar/,389131,287203,101900,28
+Argentina,2021-01-31,Sputnik V,https://covidstats.com.ar/,389755,287211,102516,28
+Argentina,2021-02-01,Sputnik V,https://covidstats.com.ar/,409278,289484,119765,29
+Argentina,2021-02-02,Sputnik V,https://covidstats.com.ar/,433150,295126,137994,30
+Argentina,2021-02-03,Sputnik V,https://covidstats.com.ar/,459759,305533,154196,30
+Argentina,2021-02-04,Sputnik V,https://covidstats.com.ar/,487880,315851,171999,30
+Argentina,2021-02-05,Sputnik V,https://covidstats.com.ar/,520906,329735,191143,30
+Argentina,2021-02-06,Sputnik V,https://covidstats.com.ar/,531831,332811,198992,30
+Argentina,2021-02-07,Sputnik V,https://covidstats.com.ar/,533214,333382,199804,30
+Argentina,2021-02-08,Sputnik V,https://covidstats.com.ar/,556632,349848,206756,30
+Argentina,2021-02-09,Sputnik V,https://covidstats.com.ar/,576828,364114,212686,30
+Argentina,2021-02-10,Sputnik V,https://covidstats.com.ar/,592450,375122,217300,30
+Argentina,2021-02-11,Sputnik V,https://covidstats.com.ar/,610301,379789,230484,30
+Argentina,2021-02-12,Sputnik V,https://covidstats.com.ar/,626131,384047,242056,30
+Argentina,2021-02-13,Sputnik V,https://covidstats.com.ar/,629167,384410,244729,30
+Argentina,2021-02-14,Sputnik V,https://covidstats.com.ar/,629319,384434,244857,30
+Argentina,2021-02-15,Sputnik V,https://covidstats.com.ar/,630634,385514,245092,30
+Argentina,2021-02-16,Sputnik V,https://covidstats.com.ar/,631945,386551,245366,30
+Argentina,2021-02-17,Sputnik V,https://covidstats.com.ar/,656333,406193,250112,30
+Argentina,2021-02-18,Sputnik V,https://covidstats.com.ar/,720147,458455,261664,30
+Argentina,2021-02-19,Sputnik V,https://covidstats.com.ar/,788019,518784,269206,31
+Argentina,2021-02-20,Sputnik V,https://covidstats.com.ar/,820634,549857,270748,31
+Argentina,2021-02-21,Sputnik V,https://covidstats.com.ar/,840809,569996,270784,31
+Argentina,2021-02-22,Sputnik V,https://covidstats.com.ar/,908348,635813,272506,31
+Argentina,2021-02-23,Sputnik V,https://covidstats.com.ar/,995284,718637,276618,31
+Argentina,2021-02-24,Sputnik V,https://covidstats.com.ar/,1089065,805954,283080,33
+Argentina,2021-02-25,Sputnik V,https://covidstats.com.ar/,1168555,873955,294513,89
+Argentina,2021-02-26,Sputnik V,https://covidstats.com.ar/,1250218,944603,305528,89
+Argentina,2021-02-27,Sputnik V,https://covidstats.com.ar/,1268102,960477,307538,89
+Argentina,2021-02-28,Sputnik V,https://covidstats.com.ar/,1274222,966282,307853,89
+Argentina,2021-03-01,Sputnik V,https://covidstats.com.ar/,1348766,1033497,315182,89
+Argentina,2021-03-02,Sputnik V,https://covidstats.com.ar/,1424364,1101896,322381,89
+Argentina,2021-03-03,Sputnik V,https://covidstats.com.ar/,1495815,1166171,329557,89
+Argentina,2021-03-04,Sputnik V,https://covidstats.com.ar/,1607870,1264606,343176,90
+Argentina,2021-03-05,Sputnik V,https://covidstats.com.ar/,1719596,1363506,356002,90
+Argentina,2021-03-06,Sputnik V,https://covidstats.com.ar/,1774527,1414649,359790,90
+Argentina,2021-03-07,Sputnik V,https://covidstats.com.ar/,1786313,1426354,359871,90
+Argentina,2021-03-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,1888781,1526331,362362,90
+Argentina,2021-03-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,2004564,1639798,364677,91
+Argentina,2021-03-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,2168507,1797417,371001,91
+Argentina,2021-03-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,2355314,1951440,403784,92
+Argentina,2021-03-12,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,2516936,2069506,447340,92
+Argentina,2021-03-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,2563313,2088614,474609,92
+Argentina,2021-03-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,2572481,2096543,475848,92
+Argentina,2021-03-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,2710047,2205521,504435,93
+Argentina,2021-03-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,2843749,2317115,526543,93
+Argentina,2021-03-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,2983292,2438463,544738,93
+Argentina,2021-03-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,3122216,2533988,588136,94
+Argentina,2021-03-19,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,3248379,2624083,624204,94
+Argentina,2021-03-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,3299240,2662161,636987,94
+Argentina,2021-03-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,3318867,2680470,638303,96
+Argentina,2021-03-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,3401900,2750730,651075,97
+Argentina,2021-03-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,3508342,2844659,663588,97
+Argentina,2021-03-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,3545797,2880874,664828,97
+Argentina,2021-03-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,3648967,2968645,680227,97
+Argentina,2021-03-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,3742512,3051810,690607,97
+Argentina,2021-03-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,3797587,3103741,693751,97
+Argentina,2021-03-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,3818403,3124501,693807,97
+Argentina,2021-03-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,3938577,3239894,698586,99
+Argentina,2021-03-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,4101570,3397579,703892,101
+Argentina,2021-03-31,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,4276474,3567625,708749,102
+Argentina,2021-04-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,4393594,3682636,710858,102
+Argentina,2021-04-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,4461736,3749766,711870,102
+Argentina,2021-04-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,4536224,3823718,712406,102
+Argentina,2021-04-04,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,4584700,3872097,712503,102
+Argentina,2021-04-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,4750663,4028455,722107,103
+Argentina,2021-04-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,4944627,4214321,730205,103
+Argentina,2021-04-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,5182998,4446143,736753,104
+Argentina,2021-04-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,5418894,4677134,741657,105
+Argentina,2021-04-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,5659256,4905332,753818,108
+Argentina,2021-04-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,5752184,4992920,759157,109
+Argentina,2021-04-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,5800492,5039712,760673,109
+Argentina,2021-04-12,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,5982267,5212873,769287,109
+Argentina,2021-04-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,6168278,5374304,793866,110
+Argentina,2021-04-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,6339918,5531062,808748,110
+Argentina,2021-04-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,6490969,5661006,829854,111
+Argentina,2021-04-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,6614648,5776520,838018,112
+Argentina,2021-04-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,6660348,5816817,843421,112
+Argentina,2021-04-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,6680247,5836586,843551,112
+Argentina,2021-04-19,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,6770701,5912663,857927,113
+Argentina,2021-04-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,6893391,6019642,873637,114
+Argentina,2021-04-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,7067308,6178816,888381,114
+Argentina,2021-04-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,7245429,6343216,902102,116
+Argentina,2021-04-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,7439943,6525304,914526,118
+Argentina,2021-04-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,7532157,6616106,915938,118
+Argentina,2021-04-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,7581470,6665229,916128,118
+Argentina,2021-04-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,7753562,6831313,922136,118
+Argentina,2021-04-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,7907255,6979845,927295,120
+Argentina,2021-04-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,8066214,7115448,950651,120
+Argentina,2021-04-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,8222433,7237994,984323,121
+Argentina,2021-04-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,8337347,7320046,1017180,126
+Argentina,2021-05-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,8357643,7336842,1020680,126
+Argentina,2021-05-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,8397805,7362955,1034729,126
+Argentina,2021-05-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,8572459,7460603,1111734,127
+Argentina,2021-05-04,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,8804448,7597395,1206930,128
+Argentina,2021-05-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,9049332,7762237,1286968,132
+Argentina,2021-05-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,9252068,7900464,1351476,133
+Argentina,2021-05-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,9457351,8009731,1447492,134
+Argentina,2021-05-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,9531614,8042162,1489324,134
+Argentina,2021-05-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,9550300,8057753,1492418,135
+Argentina,2021-05-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,9691915,8135152,1556633,136
+Argentina,2021-05-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,9832301,8211136,1621033,138
+Argentina,2021-05-12,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,10029838,8263530,1766174,140
+Argentina,2021-05-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,10221914,8301167,1920611,142
+Argentina,2021-05-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,10418345,8341572,2076635,144
+Argentina,2021-05-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,10513401,8386188,2127074,145
+Argentina,2021-05-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,10580992,8410498,2170355,145
+Argentina,2021-05-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,10767912,8500573,2267197,148
+Argentina,2021-05-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,10966001,8654670,2311187,150
+Argentina,2021-05-19,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,11133653,8785936,2347568,155
+Argentina,2021-05-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,11316149,8926328,2389667,160
+Argentina,2021-05-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,11493345,9017848,2475341,162
+Argentina,2021-05-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,11593771,9074747,2518866,164
+Argentina,2021-05-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,11639022,9097106,2541756,166
+Argentina,2021-05-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,11727374,9165514,2561700,166
+Argentina,2021-05-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,11790778,9202431,2588185,168
+Argentina,2021-05-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,11943782,9291251,2652367,170
+Argentina,2021-05-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,12113095,9379099,2733828,174
+Argentina,2021-05-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,12359046,9503681,2855194,177
+Argentina,2021-05-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,12586480,9669834,2916473,179
+Argentina,2021-05-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,12715290,9782063,2933053,180
+Argentina,2021-05-31,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,13014195,10018791,2995227,183
+Argentina,2021-06-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,13328972,10281731,3047056,191
+Argentina,2021-06-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,13638181,10539742,3098251,194
+Argentina,2021-06-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,13987683,10853899,3133592,198
+Argentina,2021-06-04,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,14395677,11217338,3178130,215
+Argentina,2021-06-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,14722418,11523975,3198204,245
+Argentina,2021-06-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,14939699,11728547,3210911,247
+Argentina,2021-06-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,15292715,12033971,3258499,251
+Argentina,2021-06-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,15662490,12368661,3293579,256
+Argentina,2021-06-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,16034756,12718039,3316463,260
+Argentina,2021-06-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,16369668,13034576,3334831,267
+Argentina,2021-06-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,16736347,13355024,3381059,270
+Argentina,2021-06-12,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,16921352,13460030,3461053,275
+Argentina,2021-06-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,17003992,13498999,3504720,279
+Argentina,2021-06-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,17241868,13653114,3588475,285
+Argentina,2021-06-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,17499526,13826536,3672702,294
+Argentina,2021-06-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,17786279,14040039,3745944,302
+Argentina,2021-06-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,18100570,14289206,3811065,305
+Argentina,2021-06-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,18499708,14643116,3856288,310
+Argentina,2021-06-19,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,18732238,14854994,3876937,313
+Argentina,2021-06-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,18831434,14950015,3881111,314
+Argentina,2021-06-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,19001074,15095863,3904903,314
+Argentina,2021-06-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,19288805,15345421,3943072,318
+Argentina,2021-06-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,19551857,15579319,3972225,319
+Argentina,2021-06-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,19856283,15849742,4006226,321
+Argentina,2021-06-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,20232822,16155818,4076686,324
+Argentina,2021-06-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,20548840,16394082,4154439,325
+Argentina,2021-06-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,20725008,16549193,4175496,325
+Argentina,2021-06-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,21097904,16870085,4227477,348
+Argentina,2021-06-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,21472223,17196546,4275333,350
+Argentina,2021-06-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,21847829,17535921,4311563,351
+Argentina,2021-07-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,22279618,17850869,4428403,352
+Argentina,2021-07-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,22695112,18181962,4512800,356
+Argentina,2021-07-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,23031646,18434033,4597257,362
+Argentina,2021-07-04,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,23228075,18608650,4619065,366
+Argentina,2021-07-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,23637771,18844893,4792511,373
+Argentina,2021-07-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,24054497,19118196,4935925,382
+Argentina,2021-07-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,24458459,19409495,5048578,392
+Argentina,2021-07-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,24868815,19779440,5088982,399
+Argentina,2021-07-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,25226251,20032421,5193435,401
+Argentina,2021-07-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,25558035,20333104,5224531,406
+Argentina,2021-07-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,25723557,20490596,5232561,406
+Argentina,2021-07-12,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,26110569,20848597,5261570,408
+Argentina,2021-07-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,26504045,21213940,5289695,416
+Argentina,2021-07-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,26902273,21578001,5323856,422
+Argentina,2021-07-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,27302079,21922060,5379598,427
+Argentina,2021-07-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,27758236,22277865,5479947,430
+Argentina,2021-07-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,28080630,22507032,5573168,436
+Argentina,2021-07-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,28248764,22637913,5610419,438
+Argentina,2021-07-19,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,28667321,22971065,5695821,441
+Argentina,2021-07-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,29115671,23211156,5904072,449
+Argentina,2021-07-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,29535481,23533686,6001344,457
+Argentina,2021-07-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,29922197,23854095,6067649,459
+Argentina,2021-07-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,30329659,24171910,6157292,463
+Argentina,2021-07-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,30567152,24358299,6208394,465
+Argentina,2021-07-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,30700976,24483872,6216645,465
+Argentina,2021-07-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,31108518,24728206,6379849,469
+Argentina,2021-07-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,31536523,24930608,6605447,474
+Argentina,2021-07-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,31996400,25184911,6811013,482
+Argentina,2021-07-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,32421213,25417354,7003379,486
+Argentina,2021-07-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,32848034,25635737,7211811,492
+Argentina,2021-07-31,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,33122570,25758202,7363877,497
+Argentina,2021-08-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,33289912,25832007,7457410,501
+Argentina,2021-08-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,33706852,26008837,7697517,504
+Argentina,2021-08-03,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,34114683,26217151,7897033,505
+Argentina,2021-08-04,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,34531863,26395855,8135503,511
+Argentina,2021-08-05,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,34962037,26549245,8412283,515
+Argentina,2021-08-06,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,35375800,26680264,8695021,521
+Argentina,2021-08-07,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,35653842,26752763,8900555,530
+Argentina,2021-08-08,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,35815474,26786315,9028632,533
+Argentina,2021-08-09,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,36206178,26897392,9308243,549
+Argentina,2021-08-10,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,36576379,26999950,9575875,560
+Argentina,2021-08-11,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,36988899,27091557,9896767,581
+Argentina,2021-08-12,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,37381111,27170517,10210005,595
+Argentina,2021-08-13,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,37797615,27241231,10555756,634
+Argentina,2021-08-14,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,38053769,27278163,10774970,642
+Argentina,2021-08-15,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,38216175,27307935,10907602,644
+Argentina,2021-08-16,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,38407033,27356503,11049882,654
+Argentina,2021-08-17,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,38846591,27475328,11370598,671
+Argentina,2021-08-18,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,39281560,27583071,11697779,716
+Argentina,2021-08-19,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,39707397,27699528,12007142,733
+Argentina,2021-08-20,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,40143180,27818849,12323587,750
+Argentina,2021-08-21,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,40400310,27873131,12526429,756
+Argentina,2021-08-22,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,40570280,27896523,12673005,758
+Argentina,2021-08-23,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,40978505,28018808,12958930,773
+Argentina,2021-08-24,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,41427189,28110661,13315738,796
+Argentina,2021-08-25,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,41853502,28185629,13667074,805
+Argentina,2021-08-26,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,42295869,28258414,14036639,822
+Argentina,2021-08-27,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,42763155,28335945,14426367,849
+Argentina,2021-08-28,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,43006601,28378420,14627325,862
+Argentina,2021-08-29,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,43175337,28400369,14774108,866
+Argentina,2021-08-30,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,43592827,28492539,15099411,883
+Argentina,2021-08-31,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,44052478,28589248,15462338,898
+Argentina,2021-09-01,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,44507926,28671692,15835325,915
+Argentina,2021-09-02,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,44955704,28750575,16204211,924
+Argentina,2021-09-03,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,45390071,28815674,16573464,939
+Argentina,2021-09-04,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,45685931,28855049,16829943,945
+Argentina,2021-09-05,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,45882480,28871636,17009899,951
+Argentina,2021-09-06,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,46323693,28923130,17399606,963
+Argentina,2021-09-07,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,46786916,28977566,17808423,980
+Argentina,2021-09-08,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,47160423,29036489,18123030,994
+Argentina,2021-09-09,"CanSino, Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,47557879,29086247,18470700,1029
+Argentina,2021-09-10,"CanSino, Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,47899994,29135876,18763170,1047
+Argentina,2021-09-11,"CanSino, Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,48098651,29161485,18936471,1069
+Argentina,2021-09-12,"CanSino, Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,48108385,29163912,18944148,1071
+Argentina,2021-09-13,"CanSino, Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,48410721,29215765,19208729,1088
+Argentina,2021-09-14,"CanSino, Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,48690164,29262161,19442959,1100
+Argentina,2021-09-15,"CanSino, Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,49020328,29297780,19738576,1152
+Argentina,2021-09-16,"CanSino, Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,49381429,29336442,20062282,1190
+Argentina,2021-09-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,49743579,29385658,20383704,1253
+Argentina,2021-09-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,49964663,29419127,20571778,1265
+Argentina,2021-09-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,50102152,29438988,20689448,1267
+Argentina,2021-09-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,50447755,29486059,20990453,1282
+Argentina,2021-09-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,50756955,29535667,21252521,1297
+Argentina,2021-09-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,51085250,29592795,21526908,1334
+Argentina,2021-09-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,51396542,29763233,21671613,1349
+Argentina,2021-09-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,51657623,29833919,21866266,1369
+Argentina,2021-09-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,51785731,29865576,21965218,1378
+Argentina,2021-09-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,51873707,29878656,22040719,1388
+Argentina,2021-09-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,52156011,29933088,22274162,1417
+Argentina,2021-09-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,52456594,29993008,22520115,1433
+Argentina,2021-09-29,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,52711700,30043622,22728491,1463
+Argentina,2021-09-30,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,53047938,30112219,22999272,1563
+Argentina,2021-10-01,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,53351706,30174517,23244467,1607
+Argentina,2021-10-02,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,53530544,30201811,23397132,1640
+Argentina,2021-10-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,53639014,30223440,23484107,1673
+Argentina,2021-10-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,53868781,30289065,23650964,1713
+Argentina,2021-10-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,54135190,30398051,23811945,1785
+Argentina,2021-10-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,54382676,30463118,23998264,1807
+Argentina,2021-10-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,54647315,30552347,24176327,1846
+Argentina,2021-10-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,54768558,30581319,24269452,1902
+Argentina,2021-10-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,54884321,30595332,24371985,1935
+Argentina,2021-10-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,54962488,30606384,24439285,1985
+Argentina,2021-10-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,55038641,30624571,24497451,2014
+Argentina,2021-10-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,55385606,30844371,24626746,2055
+Argentina,2021-10-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,55765231,31106452,24746351,2105
+Argentina,2021-10-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,56189261,31378321,24900732,2162
+Argentina,2021-10-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,56615175,31642108,25065356,2252
+Argentina,2021-10-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,56868858,31776442,25185416,2298
+Argentina,2021-10-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,56972456,31828444,25237075,2319
+Argentina,2021-10-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,57395417,32127788,25362933,2343
+Argentina,2021-10-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,57819029,32441295,25475786,2377
+Argentina,2021-10-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,58233136,32759659,25574060,2433
+Argentina,2021-10-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,58652501,33047907,25707834,2494
+Argentina,2021-10-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,59115663,33396474,25824440,2559
+Argentina,2021-10-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,59332171,33554684,25883213,2609
+Argentina,2021-10-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,59477874,33676902,25906819,2624
+Argentina,2021-10-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,59842262,33928285,26021394,2681
+Argentina,2021-10-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,60250918,34193542,26166493,2738
+Argentina,2021-10-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,60578751,34427113,26261664,3564
+Argentina,2021-10-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,60930800,34656900,26374876,14083
+Argentina,2021-10-29,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,61255140,34860041,26474217,37571
+Argentina,2021-10-30,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,61384395,34933464,26513055,54850
+Argentina,2021-10-31,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,61534308,35051654,26538232,61530
+Argentina,2021-11-01,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,61832547,35232466,26620808,97921
+Argentina,2021-11-02,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,62152910,35359608,26766705,147049
+Argentina,2021-11-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,62502670,35500944,26927786,196293
+Argentina,2021-11-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,62861926,35673058,27078152,234866
+Argentina,2021-11-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,63172507,35812615,27195557,289880
+Argentina,2021-11-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,63339205,35874871,27277023,313423
+Argentina,2021-11-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,63466825,35933975,27331276,327857
+Argentina,2021-11-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,63716412,36045356,27423913,374598
+Argentina,2021-11-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,64068009,36206015,27554772,435947
+Argentina,2021-11-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,64436903,36296915,27676134,593778
+Argentina,2021-11-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,64818679,36393623,27792675,763580
+Argentina,2021-11-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,65213971,36479075,27950222,916907
+Argentina,2021-11-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,65403332,36515884,28010169,1009729
+Argentina,2021-11-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,65412937,36518066,28015842,1011484
+Argentina,2021-11-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,65749741,36571408,28218042,1093598
+Argentina,2021-11-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,66126743,36632017,28447299,1181689
+Argentina,2021-11-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,66493260,36692000,28666372,1270147
+Argentina,2021-11-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,66853726,36756811,28875481,1357772
+Argentina,2021-11-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,67242747,36814096,29122906,1443098
+Argentina,2021-11-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,67416073,36850565,29209081,1493941
+Argentina,2021-11-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,67509236,36869244,29259618,1517960
+Argentina,2021-11-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,67616161,36894980,29314937,1543929
+Argentina,2021-11-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,67951756,36968446,29495754,1626143
+Argentina,2021-11-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,68298557,37039214,29683555,1715291
+Argentina,2021-11-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,68618236,37096723,29855455,1806471
+Argentina,2021-11-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,68949716,37159409,30026061,1905816
+Argentina,2021-11-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,69106222,37195348,30098412,1954294
+Argentina,2021-11-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,69195467,37210303,30147598,1979525
+Argentina,2021-11-29,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,69552110,37275392,30326956,2092948
+Argentina,2021-11-30,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,69921668,37347542,30502037,2216477
+Argentina,2021-12-01,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,70300223,37430094,30635342,2380473
+Argentina,2021-12-02,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,70694710,37509283,30802611,2530006
+Argentina,2021-12-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,71009177,37579391,30937859,2640241
+Argentina,2021-12-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,71172405,37611105,31001100,2708992
+Argentina,2021-12-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,71268719,37630202,31046425,2741019
+Argentina,2021-12-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,71580378,37696886,31198990,2834665
+Argentina,2021-12-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,71914746,37763000,31367765,2935505
+Argentina,2021-12-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,72049265,37789415,31422159,2989474
+Argentina,2021-12-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,72349159,37845101,31547318,3110554
+Argentina,2021-12-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,72662316,37899229,31680374,3239098
+Argentina,2021-12-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,72817068,37928052,31740490,3306678
+Argentina,2021-12-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,72914081,37941389,31775857,3355069
+Argentina,2021-12-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,73238507,37995637,31899706,3504010
+Argentina,2021-12-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,73575335,38056299,32029815,3652475
+Argentina,2021-12-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,73956186,38111404,32150625,3858728
+Argentina,2021-12-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,74320959,38167324,32267262,4052414
+Argentina,2021-12-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,74650640,38217863,32366938,4233322
+Argentina,2021-12-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,74812256,38242259,32424856,4312875
+Argentina,2021-12-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,74904388,38254684,32454873,4362668
+Argentina,2021-12-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,75248864,38305188,32559220,4553772
+Argentina,2021-12-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,75599618,38364595,32680428,4725466
+Argentina,2021-12-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,75925328,38423137,32798162,4876501
+Argentina,2021-12-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,76162647,38463598,32884168,4988722
+Argentina,2021-12-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,76175418,38465911,32888662,4994873
+Argentina,2021-12-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,76176137,38466080,32888907,4995182
+Argentina,2021-12-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,76229025,38477486,32905726,5020167
+Argentina,2021-12-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,76660112,38552346,33043031,5241964
+Argentina,2021-12-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,77181696,38628432,33171335,5562430
+Argentina,2021-12-29,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,77677782,38704453,33294205,5863748
+Argentina,2021-12-30,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,78101690,38767168,33395645,6126993
+Argentina,2021-12-31,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,78133504,38771353,33403938,6146456
+Argentina,2022-01-01,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,78137960,38771981,33404700,6149555
+Argentina,2022-01-02,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,78241082,38786589,33425231,6218564
+Argentina,2022-01-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,78728841,38860106,33526888,6536831
+Argentina,2022-01-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,79276698,38944315,33638406,6895039
+Argentina,2022-01-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,79818818,39032508,33758047,7235598
+Argentina,2022-01-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,80361872,39125651,33876261,7573481
+Argentina,2022-01-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,80929005,39217426,34000209,7930712
+Argentina,2022-01-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,81198587,39256481,34050738,8113573
+Argentina,2022-01-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,81362043,39277972,34079436,8228758
+Argentina,2022-01-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,81874516,39358369,34175774,8568707
+Argentina,2022-01-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,82372897,39429920,34265200,8909286
+Argentina,2022-01-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,82871004,39498600,34352009,9254975
+Argentina,2022-01-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,83334837,39560335,34432620,9578518
+Argentina,2022-01-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,83753051,39612998,34500922,9877942
+Argentina,2022-01-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,83940120,39632626,34528724,10018341
+Argentina,2022-01-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,84073544,39644899,34545760,10122682
+Argentina,2022-01-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,84492663,39698631,34617282,10418836
+Argentina,2022-01-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,84898376,39746859,34685421,10710101
+Argentina,2022-01-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,85283872,39792894,34751949,10984928
+Argentina,2022-01-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,85665812,39838639,34817890,11257255
+Argentina,2022-01-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,86036199,39881229,34880452,11524694
+Argentina,2022-01-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,86209197,39898991,34906423,11654619
+Argentina,2022-01-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,86327672,39909081,34922216,11747496
+Argentina,2022-01-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,86693693,39953540,34989307,12004402
+Argentina,2022-01-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,87040042,39995012,35053560,12247119
+Argentina,2022-01-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,87383132,40034882,35118368,12487811
+Argentina,2022-01-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,87734410,40078165,35188784,12727606
+Argentina,2022-01-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,88080215,40117755,35256994,12967851
+Argentina,2022-01-29,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,88237650,40133954,35285286,13081383
+Argentina,2022-01-30,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,88333923,40142422,35300296,13154449
+Argentina,2022-01-31,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,88691365,40181301,35366963,13408491
+Argentina,2022-02-01,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,89031810,40219561,35430193,13649247
+Argentina,2022-02-02,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,89347156,40253088,35488458,13874597
+Argentina,2022-02-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,89625444,40283233,35545016,14067811
+Argentina,2022-02-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,89946443,40316973,35606075,14295640
+Argentina,2022-02-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,90081275,40328299,35627858,14397678
+Argentina,2022-02-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,90172444,40335576,35642318,14467241
+Argentina,2022-02-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,90458585,40368466,35704359,14660214
+Argentina,2022-02-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,90729719,40401267,35766882,14837671
+Argentina,2022-02-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,91029411,40433560,35825264,15048263
+Argentina,2022-02-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,91296412,40462915,35882807,15229743
+Argentina,2022-02-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,91536593,40487418,35933715,15395752
+Argentina,2022-02-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,91659672,40497769,35956405,15486159
+Argentina,2022-02-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,91736779,40503504,35969336,15544728
+Argentina,2022-02-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,91966193,40529210,36022169,15696964
+Argentina,2022-02-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,92182474,40555035,36072944,15838199
+Argentina,2022-02-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,92397416,40580441,36122785,15979514
+Argentina,2022-02-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,92608312,40606154,36174750,16114127
+Argentina,2022-02-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,92822966,40630606,36225164,16255210
+Argentina,2022-02-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,92910544,40638012,36242444,16318374
+Argentina,2022-02-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,92964399,40641242,36251155,16360380
+Argentina,2022-02-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,93167179,40664966,36300914,16491023
+Argentina,2022-02-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,93370303,40689749,36352987,16618713
+Argentina,2022-02-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,93575414,40713744,36404011,16750168
+Argentina,2022-02-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,93746359,40732710,36446093,16861254
+Argentina,2022-02-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,93952282,40754645,36496133,16996226
+Argentina,2022-02-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,94024803,40760651,36512798,17046295
+Argentina,2022-02-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,94059908,40763146,36520316,17071480
+Argentina,2022-02-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,94104696,40767024,36530699,17102127
+Argentina,2022-03-01,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,94148458,40770938,36540532,17132264
+Argentina,2022-03-02,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,94282085,40784121,36570561,17223629
+Argentina,2022-03-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,94408993,40795924,36599030,17311054
+Argentina,2022-03-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,94533832,40808006,36627745,17395831
+Argentina,2022-03-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,94592242,40811945,36638881,17439321
+Argentina,2022-03-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,94647041,40813798,36645084,17486117
+Argentina,2022-03-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,94799169,40824037,36670496,17603279
+Argentina,2022-03-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,94902838,40831044,36688833,17682010
+Argentina,2022-03-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,95021803,40838473,36708280,17774606
+Argentina,2022-03-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,95137931,40849310,36729249,17859416
+Argentina,2022-03-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,95264884,40858586,36752700,17954165
+Argentina,2022-03-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,95321639,40861810,36762179,17998315
+Argentina,2022-03-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,95349848,40863110,36766410,18021027
+Argentina,2022-03-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,95455150,40871594,36787647,18097209
+Argentina,2022-03-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,95580710,40879793,36809373,18193513
+Argentina,2022-03-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,95699144,40887786,36829727,18284181
+Argentina,2022-03-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,95813144,40895434,36850172,18370607
+Argentina,2022-03-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,95935680,40902306,36869660,18467211
+Argentina,2022-03-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,96002595,40905049,36878511,18522624
+Argentina,2022-03-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,96034246,40906010,36882237,18549605
+Argentina,2022-03-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,96150415,40912144,36899774,18642565
+Argentina,2022-03-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,96257534,40918247,36916498,18727274
+Argentina,2022-03-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,96373221,40924706,36933897,18819476
+Argentina,2022-03-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,96397445,40925717,36937270,18839351
+Argentina,2022-03-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,96507743,40931251,36953145,18928577
+Argentina,2022-03-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,96557012,40933339,36959704,18969283
+Argentina,2022-03-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,96578822,40934103,36962495,18987565
+Argentina,2022-03-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,96684554,40939708,36978368,19072184
+Argentina,2022-03-29,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,96778931,40944894,36993293,19146758
+Argentina,2022-03-30,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,96870669,40949339,37005940,19221653
+Argentina,2022-03-31,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,96966622,40954320,37020194,19298681
+Argentina,2022-04-01,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97053310,40959014,37034013,19367115
+Argentina,2022-04-02,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97077569,40960307,37037886,19386240
+Argentina,2022-04-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97092036,40960996,37040396,19397523
+Argentina,2022-04-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97167084,40965128,37052129,19456989
+Argentina,2022-04-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97238564,40969140,37063843,19513028
+Argentina,2022-04-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97299569,40973020,37074505,19559689
+Argentina,2022-04-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97358499,40976461,37084194,19605678
+Argentina,2022-04-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97424259,40979975,37094397,19657960
+Argentina,2022-04-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97450808,40981394,37098973,19678556
+Argentina,2022-04-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97461689,40981966,37101116,19686736
+Argentina,2022-04-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97524046,40984925,37109893,19737572
+Argentina,2022-04-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97586659,40988221,37119121,19787867
+Argentina,2022-04-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97653144,40991788,37129317,19840837
+Argentina,2022-04-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97674023,40992646,37131853,19858355
+Argentina,2022-04-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97685104,40993121,37133330,19867499
+Argentina,2022-04-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97705681,40993815,37135572,19885159
+Argentina,2022-04-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97711848,40994034,37136314,19890370
+Argentina,2022-04-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97795608,40997183,37145216,19962301
+Argentina,2022-04-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97886309,41000297,37154242,20041176
+Argentina,2022-04-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,97984666,41003342,37164051,20126962
+Argentina,2022-04-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,98076564,41006222,37172949,20207432
+Argentina,2022-04-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,98172987,41009032,37181213,20292970
+Argentina,2022-04-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,98210575,41010151,37184790,20325893
+Argentina,2022-04-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,98224101,41010567,37186249,20337558
+Argentina,2022-04-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,98323507,41013202,37193893,20426998
+Argentina,2022-04-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,98414125,41015586,37201129,20508190
+Argentina,2022-04-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,98484285,41017421,37207194,20570656
+Argentina,2022-04-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covidstats.com.ar/,98484288,41017421,37207194,20570659

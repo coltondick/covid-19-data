@@ -48,7 +48,7 @@ class Barbados(CountryTestBase):
         """Parse metrics from soup"""
         text = soup.get_text()
         text = re.sub(r"(\d),(\d)", r"\1\2", text)
-        count = re.search(self.regex["count"], text).group(2)
+        count = re.search(self.regex["count"], text).group(1)
         return clean_count(count)
 
     def _parse_date(self, soup: BeautifulSoup) -> str:

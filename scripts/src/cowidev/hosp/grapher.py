@@ -55,5 +55,5 @@ def run_db_updater():
         dataset_name=dataset_name,
         source_name=f"Official data collated by Our World in Data – Last updated {time_str_grapher()}",
         zero_day=ZERO_DAY,
-        slack_notifications=True,
+        slack_notifications=False,
     ).run()

@@ -53,6 +53,8 @@ Malta,2022-03-18,Johnson&Johnson,32305
 Malta,2022-03-25,Johnson&Johnson,32308
 Malta,2022-04-01,Johnson&Johnson,32311
 Malta,2022-04-08,Johnson&Johnson,32311
+Malta,2022-04-15,Johnson&Johnson,32315
+Malta,2022-04-22,Johnson&Johnson,32317
 Malta,2021-01-15,Moderna,2
 Malta,2021-01-22,Moderna,3
 Malta,2021-02-05,Moderna,48
@@ -117,6 +119,8 @@ Malta,2022-03-18,Moderna,236334
 Malta,2022-03-25,Moderna,236934
 Malta,2022-04-01,Moderna,237630
 Malta,2022-04-08,Moderna,238180
+Malta,2022-04-15,Moderna,238355
+Malta,2022-04-22,Moderna,239118
 Malta,2021-01-08,Oxford/AstraZeneca,3
 Malta,2021-01-15,Oxford/AstraZeneca,6
 Malta,2021-01-22,Oxford/AstraZeneca,13
@@ -182,6 +186,8 @@ Malta,2022-03-18,Oxford/AstraZeneca,227809
 Malta,2022-03-25,Oxford/AstraZeneca,227811
 Malta,2022-04-01,Oxford/AstraZeneca,227813
 Malta,2022-04-08,Oxford/AstraZeneca,227815
+Malta,2022-04-15,Oxford/AstraZeneca,227816
+Malta,2022-04-22,Oxford/AstraZeneca,227820
 Malta,2021-01-01,Pfizer/BioNTech,57
 Malta,2021-01-08,Pfizer/BioNTech,4543
 Malta,2021-01-15,Pfizer/BioNTech,11024
@@ -249,3 +255,5 @@ Malta,2022-03-18,Pfizer/BioNTech,705757
 Malta,2022-03-25,Pfizer/BioNTech,706840
 Malta,2022-04-01,Pfizer/BioNTech,707624
 Malta,2022-04-08,Pfizer/BioNTech,708258
+Malta,2022-04-15,Pfizer/BioNTech,709040
+Malta,2022-04-22,Pfizer/BioNTech,709095

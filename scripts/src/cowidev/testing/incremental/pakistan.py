@@ -46,12 +46,12 @@ class Pakistan:
 
     def _get_relevant_element(self, soup: BeautifulSoup) -> element.Tag:
         """Get the relevant element from soup."""
-        elem = soup.find(text=self.regex["count"]).parent.find_next_sibling(class_="counter")
+        elem = soup.find(text=self.regex["count"]).parent.parent.find_next_sibling(class_="new-cases")
         return elem
 
     def _parse_metrics(self, elem: element.Tag) -> int:
         """Get metrics from element."""
-        count = elem.text.replace(",", "")
+        count = elem.text.replace("\n", "").replace(",", "").replace("Last 24 hours: ", "")
         return clean_count(count)
 
     def _parse_date_from_soup(self, soup: BeautifulSoup) -> str:

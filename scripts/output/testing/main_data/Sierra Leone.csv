@@ -1,4 +1,5 @@
-Country,Units,Date,Source URL,Source label,Notes,Cumulative total
-Sierra Leone,tests performed,2022-03-07,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,,381468
-Sierra Leone,tests performed,2022-03-20,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,,390698
-Sierra Leone,tests performed,2022-04-07,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,,405779
+Country,Date,Cumulative total,Units,Source URL,Source label,Notes
+Sierra Leone,2022-03-07,381468,tests performed,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,
+Sierra Leone,2022-03-20,390698,tests performed,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,
+Sierra Leone,2022-04-07,405779,tests performed,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,
+Sierra Leone,2022-04-28,412416,tests performed,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,

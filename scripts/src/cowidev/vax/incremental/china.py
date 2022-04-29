@@ -26,7 +26,7 @@ class China(CountryVaxBase):
         "vaccinated": r"(?:接种|疫苗)的?总人数(?:达到?|为)([\d\.亿零]+万)",
         "boosters": r"加强免疫(?:已经)?接种的?是?([\d\.亿零]+万)人",
     }
-    num_links_complete = 6
+    num_links_complete = 3
     timeout = 30
 
     def read(self, last_update: str):
@@ -37,7 +37,6 @@ class China(CountryVaxBase):
             driver.get(self.source_url)
             time.sleep(random.randint(1, 2))
             Wait(driver, self.timeout).until(EC.presence_of_element_located((By.CLASS_NAME, "zxxx_list")))
-            time.sleep(random.randint(2, 3))
             driver.execute_script("window.stop();")
             links = self._get_links(driver)
             for link in links:
@@ -45,13 +44,13 @@ class China(CountryVaxBase):
                 if data_["date"] <= last_update:
                     break
                 data.append(data_)
+            assert data_["date"] <= last_update, "Only read data back to: " + data_["date"]
         return pd.DataFrame(data)
 
     def _parse_data(self, driver, url):
         driver.get(url)
         time.sleep(random.randint(1, 2))
-        Wait(driver, self.timeout).until(EC.presence_of_element_located((By.ID, "xw_box")))
-        time.sleep(random.randint(2, 3))
+        Wait(driver, self.timeout).until(EC.text_to_be_present_in_element((By.ID, "xw_box"), "万剂次"))
         driver.execute_script("window.stop();")
         elem = driver.find_element_by_id("xw_box")
         return {
@@ -72,11 +71,14 @@ class China(CountryVaxBase):
             driver.get(self.source_url_complete)
             time.sleep(random.randint(1, 2))
             Wait(driver, self.timeout).until(EC.presence_of_element_located((By.CLASS_NAME, "zxxx_list")))
-            time.sleep(random.randint(2, 3))
             driver.execute_script("window.stop();")
             links = self._get_links_complete(driver)
             for link in links[: self.num_links_complete]:
-                record = self._parse_data_complete(driver, link)
+                try:
+                    record = self._parse_data_complete(driver, link)
+                except:
+                    print("Failed to parse:", link)
+                    continue
                 if record:
                     records.append(record)
         return pd.DataFrame(records)
@@ -95,8 +97,7 @@ class China(CountryVaxBase):
 
         driver.get(url)
         time.sleep(random.randint(1, 2))
-        Wait(driver, self.timeout).until(EC.presence_of_element_located((By.ID, "xw_box")))
-        time.sleep(random.randint(2, 3))
+        Wait(driver, self.timeout).until(EC.text_to_be_present_in_element((By.ID, "xw_box"), "到此结束"))
         driver.execute_script("window.stop();")
         elem = driver.find_element_by_id("xw_box")
         # Apply regex

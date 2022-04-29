@@ -45,14 +45,12 @@ def click_jhu_generate(ctx):
 @click.pass_context
 def click_jhu_db(ctx):
     feedback_log(
-        func=main,
-        logger=ctx.obj["logger"],
+        func=update_db,
         server=ctx.obj["server"],
         domain="JHU",
         step="grapher-db",
         text_success="Files uploaded to the database.",
     )
-    update_db()
 
 
 click_jhu.add_command(click_jhu_download)

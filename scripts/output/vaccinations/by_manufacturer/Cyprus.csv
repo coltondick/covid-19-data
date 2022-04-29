@@ -49,6 +49,7 @@ Cyprus,2022-03-25,Johnson&Johnson,30091
 Cyprus,2022-04-01,Johnson&Johnson,30099
 Cyprus,2022-04-08,Johnson&Johnson,30189
 Cyprus,2022-04-15,Johnson&Johnson,30224
+Cyprus,2022-04-22,Johnson&Johnson,30231
 Cyprus,2021-01-15,Moderna,0
 Cyprus,2021-01-22,Moderna,210
 Cyprus,2021-01-29,Moderna,420
@@ -113,12 +114,14 @@ Cyprus,2022-03-25,Moderna,187835
 Cyprus,2022-04-01,Moderna,188718
 Cyprus,2022-04-08,Moderna,189786
 Cyprus,2022-04-15,Moderna,190666
+Cyprus,2022-04-22,Moderna,191087
 Cyprus,2022-03-11,Novavax,14
 Cyprus,2022-03-18,Novavax,45
 Cyprus,2022-03-25,Novavax,45
 Cyprus,2022-04-01,Novavax,58
 Cyprus,2022-04-08,Novavax,91
 Cyprus,2022-04-15,Novavax,105
+Cyprus,2022-04-22,Novavax,112
 Cyprus,2021-02-12,Oxford/AstraZeneca,584
 Cyprus,2021-02-19,Oxford/AstraZeneca,6126
 Cyprus,2021-02-26,Oxford/AstraZeneca,18136
@@ -181,6 +184,7 @@ Cyprus,2022-03-25,Oxford/AstraZeneca,254527
 Cyprus,2022-04-01,Oxford/AstraZeneca,254527
 Cyprus,2022-04-08,Oxford/AstraZeneca,254527
 Cyprus,2022-04-15,Oxford/AstraZeneca,254527
+Cyprus,2022-04-22,Oxford/AstraZeneca,254527
 Cyprus,2021-01-01,Pfizer/BioNTech,369
 Cyprus,2021-01-08,Pfizer/BioNTech,6116
 Cyprus,2021-01-15,Pfizer/BioNTech,10863
@@ -249,3 +253,4 @@ Cyprus,2022-03-25,Pfizer/BioNTech,1198861
 Cyprus,2022-04-01,Pfizer/BioNTech,1202468
 Cyprus,2022-04-08,Pfizer/BioNTech,1205998
 Cyprus,2022-04-15,Pfizer/BioNTech,1208012
+Cyprus,2022-04-22,Pfizer/BioNTech,1209157

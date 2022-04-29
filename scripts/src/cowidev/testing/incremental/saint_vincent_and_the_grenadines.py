@@ -22,7 +22,7 @@ class SaintVincentAndTheGrenadines(CountryTestBase):
         "pdf": r"Please click for full details",
         "date": r"(\w+ \d{1,2} 20\d{2})",
         "pcr": r"Total PCR Tests done  ([\d,]+)",
-        "ag": r"today  Total Rapid Ag \(.*?\)  ([\d,]+)",
+        "ag": r"today  Total Rapid Ag \(.*?\)  [\d,]+  ([\d,]+)",
     }
 
     def read(self) -> pd.DataFrame:

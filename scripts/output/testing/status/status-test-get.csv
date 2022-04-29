@@ -1,143 +1,159 @@
 module,execution_time (sec),success,timestamp,error,error_short
-cowidev.testing.batch.andorra,,,2022-04-25T11:23:46,,
-cowidev.testing.batch.argentina,122.81,True,2022-04-25T11:25:49,,
-cowidev.testing.batch.armenia,3.17,True,2022-04-25T11:23:49,,
-cowidev.testing.batch.australia,0.85,True,2022-04-25T11:23:47,,
-cowidev.testing.batch.austria,1.42,True,2022-04-25T11:23:47,,
-cowidev.testing.batch.belgium,3.04,True,2022-04-25T11:23:49,,
-cowidev.testing.batch.bolivia,0.83,True,2022-04-25T11:23:47,,
-cowidev.testing.batch.bosnia_herzegovina,7.17,True,2022-04-25T11:23:53,,
-cowidev.testing.batch.brazil,6.45,True,2022-04-25T11:23:52,,
-cowidev.testing.batch.canada,35.79,True,2022-04-25T11:24:22,,
-cowidev.testing.batch.chile,0.84,True,2022-04-25T11:23:48,,
-cowidev.testing.batch.colombia,3.72,True,2022-04-25T11:23:50,,
-cowidev.testing.batch.costa_rica,1.07,False,2022-04-25T11:28:39,"Traceback (most recent call last):
+cowidev.testing.batch.andorra,,,2022-04-29T13:18:23,,
+cowidev.testing.batch.argentina,92.29,True,2022-04-29T13:19:55,,
+cowidev.testing.batch.armenia,1.21,True,2022-04-29T13:18:24,,
+cowidev.testing.batch.australia,0.26,True,2022-04-29T13:18:23,,
+cowidev.testing.batch.austria,3.0,True,2022-04-29T13:18:26,,
+cowidev.testing.batch.belgium,1.18,True,2022-04-29T13:18:24,,
+cowidev.testing.batch.bolivia,0.92,True,2022-04-29T13:18:24,,
+cowidev.testing.batch.bosnia_herzegovina,3.84,True,2022-04-29T13:18:27,,
+cowidev.testing.batch.brazil,2.78,True,2022-04-29T13:18:26,,
+cowidev.testing.batch.canada,39.48,True,2022-04-29T13:19:03,,
+cowidev.testing.batch.chile,1.16,True,2022-04-29T13:18:25,,
+cowidev.testing.batch.colombia,1.35,True,2022-04-29T13:18:25,,
+cowidev.testing.batch.costa_rica,3.9,True,2022-04-29T13:18:28,,
+cowidev.testing.batch.cuba,9.34,True,2022-04-29T13:18:34,,
+cowidev.testing.batch.cyprus,2.11,True,2022-04-29T13:18:27,,
+cowidev.testing.batch.czechia,0.43,True,2022-04-29T13:18:26,,
+cowidev.testing.batch.denmark,1.79,True,2022-04-29T13:18:28,,
+cowidev.testing.batch.ecdc,2.0,True,2022-04-29T13:18:28,,
+cowidev.testing.batch.ecuador,0.94,True,2022-04-29T13:18:27,,
+cowidev.testing.batch.estonia,20.04,True,2022-04-29T13:18:47,,
+cowidev.testing.batch.finland,0.74,True,2022-04-29T13:18:28,,
+cowidev.testing.batch.france,1.08,True,2022-04-29T13:18:28,,
+cowidev.testing.batch.germany,0.4,True,2022-04-29T13:18:28,,
+cowidev.testing.batch.guam,32.65,True,2022-04-29T13:19:00,,
+cowidev.testing.batch.guatemala,,,2022-04-29T13:18:28,,
+cowidev.testing.batch.hong_kong,2.35,True,2022-04-29T13:18:30,,
+cowidev.testing.batch.hungary,2.94,True,2022-04-29T13:18:31,,
+cowidev.testing.batch.iceland,0.28,True,2022-04-29T13:18:29,,
+cowidev.testing.batch.india,0.49,True,2022-04-29T13:18:29,,
+cowidev.testing.batch.indonesia,,,2022-04-29T13:18:29,,
+cowidev.testing.batch.ireland,0.3,True,2022-04-29T13:18:29,,
+cowidev.testing.batch.israel,0.67,True,2022-04-29T13:18:29,,
+cowidev.testing.batch.italy,0.14,True,2022-04-29T13:18:29,,
+cowidev.testing.batch.japan,0.11,True,2022-04-29T13:18:29,,
+cowidev.testing.batch.kazakhstan,,,2022-04-29T13:18:29,,
+cowidev.testing.batch.latvia,0.48,True,2022-04-29T13:18:30,,
+cowidev.testing.batch.liechtenstein,33.63,True,2022-04-29T13:19:03,,
+cowidev.testing.batch.lithuania,2.82,True,2022-04-29T13:18:32,,
+cowidev.testing.batch.luxembourg,39.94,True,2022-04-29T13:19:10,,
+cowidev.testing.batch.malaysia,0.39,True,2022-04-29T13:18:31,,
+cowidev.testing.batch.malta,0.38,True,2022-04-29T13:18:32,,
+cowidev.testing.batch.marshall_islands,31.0,True,2022-04-29T13:19:03,,
+cowidev.testing.batch.mexico,6.88,True,2022-04-29T13:18:39,,
+cowidev.testing.batch.netherlands,29.09,True,2022-04-29T13:19:03,,
+cowidev.testing.batch.northern_mariana_islands,24.09,True,2022-04-29T13:19:03,,
+cowidev.testing.batch.norway,0.75,True,2022-04-29T13:18:48,,
+cowidev.testing.batch.peru,7.21,True,2022-04-29T13:18:55,,
+cowidev.testing.batch.philippines,38.28,True,2022-04-29T13:19:33,,
+cowidev.testing.batch.portugal,0.78,True,2022-04-29T13:19:01,,
+cowidev.testing.batch.puerto_rico,11.9,True,2022-04-29T13:19:13,,
+cowidev.testing.batch.qatar,2.74,True,2022-04-29T13:19:05,,
+cowidev.testing.batch.rwanda,2.7,False,2022-04-29T13:20:19,"Traceback (most recent call last):
   File ""/Users/cam/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 47, in run
     module.main()
-  File ""/Users/cam/covid-19-data/scripts/src/cowidev/testing/batch/costa_rica.py"", line 60, in main
-    CostaRica().export()
-  File ""/Users/cam/covid-19-data/scripts/src/cowidev/testing/batch/costa_rica.py"", line 55, in export
+  File ""/Users/cam/covid-19-data/scripts/src/cowidev/testing/batch/rwanda.py"", line 69, in main
+    Rwanda().export()
+  File ""/Users/cam/covid-19-data/scripts/src/cowidev/testing/batch/rwanda.py"", line 64, in export
     df = self.read().pipe(self.pipeline)
-  File ""/Users/cam/covid-19-data/scripts/src/cowidev/testing/batch/costa_rica.py"", line 17, in read
-    df = pd.read_csv(self.source_url, delimiter="","", usecols=[""nue_posi"", ""conf_nexo"", ""nue_descar"", ""FECHA""])
-  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/pandas/util/_decorators.py"", line 311, in wrapper
-    return func(*args, **kwargs)
-  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py"", line 586, in read_csv
-    return _read(filepath_or_buffer, kwds)
-  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py"", line 482, in _read
-    parser = TextFileReader(filepath_or_buffer, **kwds)
-  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py"", line 811, in __init__
-    self._engine = self._make_engine(self.engine)
-  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py"", line 1040, in _make_engine
-    return mapping[engine](self.f, **self.options)  # type: ignore[call-arg]
-  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/pandas/io/parsers/c_parser_wrapper.py"", line 51, in __init__
-    self._open_handles(src, kwds)
-  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/pandas/io/parsers/base_parser.py"", line 222, in _open_handles
-    self.handles = get_handle(
-  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/pandas/io/common.py"", line 609, in get_handle
-    ioargs = _get_filepath_or_buffer(
-  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/pandas/io/common.py"", line 312, in _get_filepath_or_buffer
-    with urlopen(req_info) as req:
-  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/pandas/io/common.py"", line 212, in urlopen
-    return urllib.request.urlopen(*args, **kwargs)
-  File ""/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py"", line 216, in urlopen
-    return opener.open(url, data, timeout)
-  File ""/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py"", line 525, in open
-    response = meth(req, response)
-  File ""/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py"", line 634, in http_response
-    response = self.parent.error(
-  File ""/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py"", line 563, in error
-    return self._call_chain(*args)
-  File ""/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py"", line 496, in _call_chain
-    result = func(*args)
-  File ""/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py"", line 643, in http_error_default
-    raise HTTPError(req.full_url, code, msg, hdrs, fp)
-urllib.error.HTTPError: HTTP Error 404: 
-",HTTP Error 404: 
-cowidev.testing.batch.cuba,8.89,True,2022-04-25T11:23:56,,
-cowidev.testing.batch.cyprus,3.85,True,2022-04-25T11:23:52,,
-cowidev.testing.batch.czechia,0.61,True,2022-04-25T11:23:50,,
-cowidev.testing.batch.denmark,2.88,True,2022-04-25T11:23:52,,
-cowidev.testing.batch.ecdc,3.01,True,2022-04-25T11:23:53,,
-cowidev.testing.batch.ecuador,1.64,True,2022-04-25T11:23:52,,
-cowidev.testing.batch.estonia,10.65,True,2022-04-25T11:24:03,,
-cowidev.testing.batch.finland,1.02,True,2022-04-25T11:23:53,,
-cowidev.testing.batch.france,4.24,True,2022-04-25T11:23:57,,
-cowidev.testing.batch.germany,0.59,True,2022-04-25T11:23:53,,
-cowidev.testing.batch.guam,97.67,True,2022-04-25T11:25:30,,
-cowidev.testing.batch.guatemala,,,2022-04-25T11:23:53,,
-cowidev.testing.batch.hong_kong,2.15,True,2022-04-25T11:23:55,,
-cowidev.testing.batch.hungary,2.03,True,2022-04-25T11:23:55,,
-cowidev.testing.batch.iceland,1.0,True,2022-04-25T11:23:54,,
-cowidev.testing.batch.india,1.58,True,2022-04-25T11:23:56,,
-cowidev.testing.batch.indonesia,,,2022-04-25T11:23:55,,
-cowidev.testing.batch.ireland,0.32,True,2022-04-25T11:23:55,,
-cowidev.testing.batch.israel,1.37,True,2022-04-25T11:23:56,,
-cowidev.testing.batch.italy,0.33,True,2022-04-25T11:23:56,,
-cowidev.testing.batch.japan,0.73,True,2022-04-25T11:23:56,,
-cowidev.testing.batch.kazakhstan,,,2022-04-25T11:23:56,,
-cowidev.testing.batch.latvia,0.73,True,2022-04-25T11:23:56,,
-cowidev.testing.batch.liechtenstein,66.13,True,2022-04-25T11:25:03,,
-cowidev.testing.batch.lithuania,1.53,True,2022-04-25T11:23:58,,
-cowidev.testing.batch.luxembourg,44.13,True,2022-04-25T11:24:41,,
-cowidev.testing.batch.malaysia,0.25,True,2022-04-25T11:23:57,,
-cowidev.testing.batch.malta,0.25,True,2022-04-25T11:23:57,,
-cowidev.testing.batch.marshall_islands,39.35,True,2022-04-25T11:24:36,,
-cowidev.testing.batch.mexico,5.52,True,2022-04-25T11:24:02,,
-cowidev.testing.batch.netherlands,25.49,True,2022-04-25T11:24:23,,
-cowidev.testing.batch.northern_mariana_islands,38.92,True,2022-04-25T11:24:41,,
-cowidev.testing.batch.norway,0.63,True,2022-04-25T11:24:03,,
-cowidev.testing.batch.peru,6.07,True,2022-04-25T11:24:09,,
-cowidev.testing.batch.philippines,75.82,True,2022-04-25T11:25:25,,
-cowidev.testing.batch.portugal,0.63,True,2022-04-25T11:24:22,,
-cowidev.testing.batch.puerto_rico,48.04,True,2022-04-25T11:25:10,,
-cowidev.testing.batch.qatar,3.5,True,2022-04-25T11:24:27,,
-cowidev.testing.batch.rwanda,3.9,True,2022-04-25T11:24:31,,
-cowidev.testing.batch.saudi_arabia,1.45,True,2022-04-25T11:24:32,,
-cowidev.testing.batch.senegal,0.82,True,2022-04-25T11:24:33,,
-cowidev.testing.batch.serbia,1.43,True,2022-04-25T11:24:35,,
-cowidev.testing.batch.slovakia,0.95,True,2022-04-25T11:24:36,,
-cowidev.testing.batch.slovenia,2.21,True,2022-04-25T11:24:38,,
-cowidev.testing.batch.south_africa,1.29,True,2022-04-25T11:24:37,,
-cowidev.testing.batch.south_korea,4.99,True,2022-04-25T11:44:26,,
-cowidev.testing.batch.spain,1.28,True,2022-04-25T11:47:11,,
-cowidev.testing.batch.sri_lanka,2.76,True,2022-04-25T11:24:41,,
-cowidev.testing.batch.switzerland,23.75,True,2022-04-25T11:25:04,,
-cowidev.testing.batch.taiwan,3.49,True,2022-04-25T11:24:45,,
-cowidev.testing.batch.thailand,3.6,True,2022-04-25T11:24:45,,
-cowidev.testing.batch.trinidad_and_tobago,0.78,True,2022-04-25T11:24:45,,
-cowidev.testing.batch.turkey,14.87,True,2022-04-25T11:25:00,,
-cowidev.testing.batch.united_arab_emirates,7.86,True,2022-04-25T11:24:53,,
-cowidev.testing.batch.united_kingdom,1.96,True,2022-04-25T11:24:47,,
-cowidev.testing.batch.united_states,32.67,True,2022-04-25T11:25:20,,
-cowidev.testing.batch.united_states_virgin_islands,29.07,True,2022-04-25T11:25:22,,
-cowidev.testing.batch.uruguay,2.04,True,2022-04-25T11:25:02,,
-cowidev.testing.batch.zambia,1.39,True,2022-04-25T11:25:03,,
-cowidev.testing.incremental.africacdc,1.48,True,2022-04-25T11:25:04,,
-cowidev.testing.incremental.albania,4.96,True,2022-04-25T11:25:08,,
-cowidev.testing.incremental.antigua_barbuda,12.82,True,2022-04-25T11:25:17,,
-cowidev.testing.incremental.azerbaijan,3.76,True,2022-04-25T11:25:08,,
-cowidev.testing.incremental.bahamas,17.3,True,2022-04-25T11:25:25,,
-cowidev.testing.incremental.bahrain,0.99,True,2022-04-25T11:25:09,,
-cowidev.testing.incremental.bangladesh,2.36,True,2022-04-25T11:25:11,,
-cowidev.testing.incremental.barbados,3.0,True,2022-04-25T11:58:52,,
-cowidev.testing.incremental.belarus,1.34,True,2022-04-25T11:25:13,,
-cowidev.testing.incremental.belize,4.7,True,2022-04-25T11:25:18,,
-cowidev.testing.incremental.benin,,,2022-04-25T11:25:17,,
-cowidev.testing.incremental.bulgaria,2.71,True,2022-04-25T11:25:20,,
-cowidev.testing.incremental.cambodia,8.13,False,2022-04-25T11:59:20,"Traceback (most recent call last):
-  File ""/Users/cam/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 47, in run
-    module.main()
-  File ""/Users/cam/covid-19-data/scripts/src/cowidev/testing/incremental/cambodia.py"", line 41, in main
-    Cambodia().export()
-  File ""/Users/cam/covid-19-data/scripts/src/cowidev/testing/incremental/cambodia.py"", line 19, in export
-    count = clean_count(soup.select(""p+ div strong:nth-child(1)"")[0].text)
-IndexError: list index out of range
-",list index out of range
-cowidev.testing.incremental.cape_verde,8.43,True,2022-04-25T11:25:27,,
-cowidev.testing.incremental.croatia,6.42,True,2022-04-25T11:25:26,,
-cowidev.testing.incremental.el_salvador,2.56,True,2022-04-25T11:25:23,,
-cowidev.testing.incremental.emro,12.63,False,2022-04-25T11:27:18,"Traceback (most recent call last):
+  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/pandas/core/generic.py"", line 5430, in pipe
+    return com.pipe(self, func, *args, **kwargs)
+  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/pandas/core/common.py"", line 471, in pipe
+    return func(obj, *args, **kwargs)
+  File ""/Users/cam/covid-19-data/scripts/src/cowidev/testing/batch/rwanda.py"", line 57, in pipeline
+    .pipe(make_monotonic)
+  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/pandas/core/generic.py"", line 5430, in pipe
+    return com.pipe(self, func, *args, **kwargs)
+  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/pandas/core/common.py"", line 471, in pipe
+    return func(obj, *args, **kwargs)
+  File ""/Users/cam/covid-19-data/scripts/src/cowidev/testing/utils/utils.py"", line 25, in make_monotonic
+    raise Exception(
+Exception: 20 rows have been removed. That is more than maximum allowed (10) by make_monotonic() - check the data. Check 
+    attributes.objectid                     attributes.globalid attributes.tested_traced  ...  Notes                           Source URL               Source label
+2                   190  {BD8F24C3-D547-4DCC-81CC-E5FC9AA70630}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+3                   189  {8D848DD5-8AA0-4FE3-84F6-E13643D9F6D1}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+4                   188  {15CF2266-1623-465F-BBC2-4A1DF4994C9F}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+5                   187  {18A65839-D2B7-4204-9282-26B5E4482DD4}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+6                   186  {F14ADD64-331B-4CB2-B7BF-45C9ADB13CCC}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+7                   185  {15C57754-6DC4-4AEE-A435-00639F247850}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+8                   184  {A9A2CC16-3F79-4B0E-AA88-B60D82D478F4}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+9                   183  {233F9A56-99AE-4C58-94CF-3AE0FF31756F}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+11                  181  {B41824CA-E74C-4CD1-8D54-C107079B2592}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+12                  180  {AFFEFCCC-30B1-41B5-87D1-7F85847AAAD2}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+13                  179  {67CCE1C6-D208-4052-856D-62B4703BC4D3}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+14                  178  {C7080ECA-86B5-4C94-BEA0-11BEDFB66617}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+15                  177  {57DE9A63-72CB-4A45-9460-DF134C0730BA}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+16                  176  {040E7895-E651-49FA-942F-D2D670090163}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+17                  175  {B09C17C3-B4EB-4DFA-B5C2-0F5D9A4FF947}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+18                  174  {61F7074E-5583-4A35-8D79-1825117C80E6}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+19                  173  {8C420B20-90AB-452F-8DAC-A20B788D0BCE}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+20                  172  {501AB29E-E8D1-4349-8D90-99DEDE6C0A7A}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+21                  171  {6D8C6A4E-4D0C-434E-B625-585E646FF240}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+22                  170  {88EAC29E-BAA4-49D0-B1CE-7583C6D8E6AD}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+
+[20 rows x 22 columns]
+","20 rows have been removed. That is more than maximum allowed (10) by make_monotonic() - check the data. Check 
+    attributes.objectid                     attributes.globalid attributes.tested_traced  ...  Notes                           Source URL               Source label
+2                   190  {BD8F24C3-D547-4DCC-81CC-E5FC9AA70630}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+3                   189  {8D848DD5-8AA0-4FE3-84F6-E13643D9F6D1}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+4                   188  {15CF2266-1623-465F-BBC2-4A1DF4994C9F}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+5                   187  {18A65839-D2B7-4204-9282-26B5E4482DD4}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+6                   186  {F14ADD64-331B-4CB2-B7BF-45C9ADB13CCC}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+7                   185  {15C57754-6DC4-4AEE-A435-00639F247850}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+8                   184  {A9A2CC16-3F79-4B0E-AA88-B60D82D478F4}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+9                   183  {233F9A56-99AE-4C58-94CF-3AE0FF31756F}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+11                  181  {B41824CA-E74C-4CD1-8D54-C107079B2592}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+12                  180  {AFFEFCCC-30B1-41B5-87D1-7F85847AAAD2}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+13                  179  {67CCE1C6-D208-4052-856D-62B4703BC4D3}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+14                  178  {C7080ECA-86B5-4C94-BEA0-11BEDFB66617}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+15                  177  {57DE9A63-72CB-4A45-9460-DF134C0730BA}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+16                  176  {040E7895-E651-49FA-942F-D2D670090163}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+17                  175  {B09C17C3-B4EB-4DFA-B5C2-0F5D9A4FF947}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+18                  174  {61F7074E-5583-4A35-8D79-1825117C80E6}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+19                  173  {8C420B20-90AB-452F-8DAC-A20B788D0BCE}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+20                  172  {501AB29E-E8D1-4349-8D90-99DEDE6C0A7A}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+21                  171  {6D8C6A4E-4D0C-434E-B625-585E646FF240}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+22                  170  {88EAC29E-BAA4-49D0-B1CE-7583C6D8E6AD}            tested_traced  ...   <NA>  https://rbc.gov.rw/index.php?id=707  Rwanda Ministry of Health
+
+[20 rows x 22 columns]"
+cowidev.testing.batch.saudi_arabia,0.52,True,2022-04-29T13:19:03,,
+cowidev.testing.batch.senegal,0.79,True,2022-04-29T13:19:04,,
+cowidev.testing.batch.serbia,0.77,True,2022-04-29T13:19:04,,
+cowidev.testing.batch.slovakia,0.91,True,2022-04-29T13:19:04,,
+cowidev.testing.batch.slovenia,1.62,True,2022-04-29T13:19:05,,
+cowidev.testing.batch.south_africa,0.78,True,2022-04-29T13:19:05,,
+cowidev.testing.batch.south_korea,2.2,True,2022-04-29T13:19:06,,
+cowidev.testing.batch.spain,7.44,True,2022-04-29T13:19:12,,
+cowidev.testing.batch.sri_lanka,3.75,True,2022-04-29T13:19:09,,
+cowidev.testing.batch.switzerland,14.55,True,2022-04-29T13:19:20,,
+cowidev.testing.batch.taiwan,2.97,True,2022-04-29T13:19:09,,
+cowidev.testing.batch.thailand,2.82,True,2022-04-29T13:19:12,,
+cowidev.testing.batch.trinidad_and_tobago,0.41,True,2022-04-29T13:19:10,,
+cowidev.testing.batch.turkey,14.07,True,2022-04-29T13:19:24,,
+cowidev.testing.batch.united_arab_emirates,5.88,True,2022-04-29T13:19:16,,
+cowidev.testing.batch.united_kingdom,1.74,True,2022-04-29T13:19:12,,
+cowidev.testing.batch.united_states,14.95,True,2022-04-29T13:19:27,,
+cowidev.testing.batch.united_states_virgin_islands,15.46,True,2022-04-29T13:19:27,,
+cowidev.testing.batch.uruguay,0.67,True,2022-04-29T13:19:13,,
+cowidev.testing.batch.zambia,0.77,True,2022-04-29T13:19:14,,
+cowidev.testing.incremental.africacdc,2.11,True,2022-04-29T13:19:15,,
+cowidev.testing.incremental.albania,7.97,True,2022-04-29T13:19:22,,
+cowidev.testing.incremental.antigua_barbuda,4.99,True,2022-04-29T13:19:20,,
+cowidev.testing.incremental.azerbaijan,4.55,True,2022-04-29T13:19:21,,
+cowidev.testing.incremental.bahamas,14.4,True,2022-04-29T13:19:34,,
+cowidev.testing.incremental.bahrain,0.8,True,2022-04-29T13:19:21,,
+cowidev.testing.incremental.bangladesh,1.2,True,2022-04-29T13:19:22,,
+cowidev.testing.incremental.barbados,2.16,True,2022-04-29T13:46:31,,
+cowidev.testing.incremental.belarus,1.03,True,2022-04-29T13:19:23,,
+cowidev.testing.incremental.belize,4.32,True,2022-04-29T13:19:26,,
+cowidev.testing.incremental.benin,,,2022-04-29T13:19:23,,
+cowidev.testing.incremental.bulgaria,1.26,True,2022-04-29T13:19:24,,
+cowidev.testing.incremental.cambodia,4.95,True,2022-04-29T13:19:29,,
+cowidev.testing.incremental.cape_verde,8.42,True,2022-04-29T13:19:32,,
+cowidev.testing.incremental.croatia,5.62,True,2022-04-29T13:19:30,,
+cowidev.testing.incremental.el_salvador,0.99,True,2022-04-29T13:19:27,,
+cowidev.testing.incremental.emro,11.93,False,2022-04-29T13:20:31,"Traceback (most recent call last):
   File ""/Users/cam/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 47, in run
     module.main()
   File ""/Users/cam/covid-19-data/scripts/src/cowidev/testing/incremental/emro.py"", line 155, in main
@@ -154,10 +170,10 @@ cowidev.testing.incremental.emro,12.63,False,2022-04-25T11:27:18,"Traceback (mos
     date_raw = re.search(regex, text).groups()
 AttributeError: 'NoneType' object has no attribute 'groups'
 ",'NoneType' object has no attribute 'groups'
-cowidev.testing.incremental.equatorial_guinea,3.73,True,2022-04-25T11:25:26,,
-cowidev.testing.incremental.faeroe_islands,0.9,True,2022-04-25T11:25:26,,
-cowidev.testing.incremental.fiji,4.24,True,2022-04-25T11:25:30,,
-cowidev.testing.incremental.georgia,4.29,False,2022-04-25T12:07:54,"Traceback (most recent call last):
+cowidev.testing.incremental.equatorial_guinea,1.46,True,2022-04-29T13:19:29,,
+cowidev.testing.incremental.faeroe_islands,0.6,True,2022-04-29T13:19:28,,
+cowidev.testing.incremental.fiji,3.91,True,2022-04-29T13:19:32,,
+cowidev.testing.incremental.georgia,3.75,False,2022-04-29T13:20:34,"Traceback (most recent call last):
   File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/pandas/core/indexes/base.py"", line 3361, in get_loc
     return self._engine.get_loc(casted_key)
   File ""pandas/_libs/index.pyx"", line 76, in pandas._libs.index.IndexEngine.get_loc
@@ -183,50 +199,116 @@ Traceback (most recent call last):
     raise KeyError(key) from err
 KeyError: 'date'
 ",'date'
-cowidev.testing.incremental.gibraltar,,,2022-04-25T11:25:26,,
-cowidev.testing.incremental.greece,1.04,True,2022-04-25T11:25:27,,
-cowidev.testing.incremental.haiti,11.17,True,2022-04-25T11:25:38,,
-cowidev.testing.incremental.iran,2.59,True,2022-04-25T11:25:29,,
-cowidev.testing.incremental.jordan,0.9,True,2022-04-25T11:25:28,,
-cowidev.testing.incremental.kosovo,19.5,True,2022-04-25T11:25:47,,
-cowidev.testing.incremental.laos,3.52,True,2022-04-25T11:25:31,,
-cowidev.testing.incremental.lebanon,0.66,True,2022-04-25T11:25:30,,
-cowidev.testing.incremental.libya,2.89,True,2022-04-25T12:15:17,,
-cowidev.testing.incremental.maldives,1.69,True,2022-04-25T11:25:32,,
-cowidev.testing.incremental.moldova,1.27,True,2022-04-25T12:18:08,,
-cowidev.testing.incremental.mongolia,2.41,True,2022-04-25T11:25:33,,
-cowidev.testing.incremental.morocco,1.07,True,2022-04-25T11:25:33,,
-cowidev.testing.incremental.myanmar,12.62,True,2022-04-25T11:25:44,,
-cowidev.testing.incremental.nepal,15.13,True,2022-04-25T11:25:48,,
-cowidev.testing.incremental.new_zealand,4.16,True,2022-04-25T11:25:38,,
-cowidev.testing.incremental.nicaragua,6.26,True,2022-04-25T11:25:42,,
-cowidev.testing.incremental.north_macedonia,2.56,True,2022-04-25T11:25:40,,
-cowidev.testing.incremental.pakistan,3.49,False,2022-04-25T12:18:27,"Traceback (most recent call last):
+cowidev.testing.incremental.gibraltar,,,2022-04-29T13:19:29,,
+cowidev.testing.incremental.greece,1.06,True,2022-04-29T13:19:30,,
+cowidev.testing.incremental.haiti,6.52,True,2022-04-29T13:19:36,,
+cowidev.testing.incremental.iran,1.99,True,2022-04-29T13:19:32,,
+cowidev.testing.incremental.jordan,1.8,True,2022-04-29T13:19:34,,
+cowidev.testing.incremental.kosovo,37.02,True,2022-04-29T13:28:24,,
+cowidev.testing.incremental.laos,4.03,True,2022-04-29T13:19:36,,
+cowidev.testing.incremental.lebanon,0.28,True,2022-04-29T13:19:33,,
+cowidev.testing.incremental.libya,3.49,True,2022-04-29T13:19:36,,
+cowidev.testing.incremental.maldives,1.21,True,2022-04-29T13:19:34,,
+cowidev.testing.incremental.moldova,1.95,False,2022-04-29T13:21:08,"Traceback (most recent call last):
   File ""/Users/cam/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 47, in run
     module.main()
-  File ""/Users/cam/covid-19-data/scripts/src/cowidev/testing/incremental/pakistan.py"", line 77, in main
-    Pakistan().export()
-  File ""/Users/cam/covid-19-data/scripts/src/cowidev/testing/incremental/pakistan.py"", line 65, in export
-    increment(
-  File ""/Users/cam/covid-19-data/scripts/src/cowidev/testing/utils/incremental.py"", line 50, in increment
-    _check_fields(df_current, country, source_url, source_label, units, date, count, daily_change)
-  File ""/Users/cam/covid-19-data/scripts/src/cowidev/testing/utils/incremental.py"", line 111, in _check_fields
-    raise ValueError(f""`cumulative_total` can't be lower than currently highers 'Cumulative total' value."")
-ValueError: `cumulative_total` can't be lower than currently highers 'Cumulative total' value.
-",`cumulative_total` can't be lower than currently highers 'Cumulative total' value.
-cowidev.testing.incremental.papua_new_guinea,6.36,True,2022-04-25T11:25:44,,
-cowidev.testing.incremental.paraguay,2.95,True,2022-04-25T11:25:43,,
-cowidev.testing.incremental.russia,0.78,True,2022-04-25T11:25:43,,
-cowidev.testing.incremental.saint_kitts_nevis,0.45,True,2022-04-25T11:25:43,,
-cowidev.testing.incremental.saint_lucia,1.02,True,2022-04-25T11:25:44,,
-cowidev.testing.incremental.saint_vincent_and_the_grenadines,3.63,True,2022-04-25T11:25:47,,
-cowidev.testing.incremental.singapore,1.32,True,2022-04-25T11:25:44,,
-cowidev.testing.incremental.suriname,4.38,True,2022-04-25T11:25:48,,
-cowidev.testing.incremental.sweden,0.62,True,2022-04-25T11:25:44,,
-cowidev.testing.incremental.syria,6.5,True,2022-04-25T11:25:51,,
-cowidev.testing.incremental.timor,3.46,True,2022-04-25T11:25:48,,
-cowidev.testing.incremental.togo,3.28,True,2022-04-25T11:25:48,,
-cowidev.testing.incremental.tunisia,3.23,True,2022-04-25T11:25:48,,
-cowidev.testing.incremental.ukraine,,,2022-04-25T11:25:47,,
-cowidev.testing.incremental.vanuatu,,,2022-04-25T11:25:47,,
-cowidev.testing.incremental.vietnam,4.83,True,2022-04-25T11:25:52,,
+  File ""/Users/cam/covid-19-data/scripts/src/cowidev/testing/incremental/moldova.py"", line 97, in main
+    Moldova().export()
+  File ""/Users/cam/covid-19-data/scripts/src/cowidev/testing/incremental/moldova.py"", line 83, in export
+    data = self.read()
+  File ""/Users/cam/covid-19-data/scripts/src/cowidev/testing/incremental/moldova.py"", line 27, in read
+    data = self._parse_data(soup)
+  File ""/Users/cam/covid-19-data/scripts/src/cowidev/testing/incremental/moldova.py"", line 41, in _parse_data
+    daily_change = self._parse_metrics(text)
+  File ""/Users/cam/covid-19-data/scripts/src/cowidev/testing/incremental/moldova.py"", line 78, in _parse_metrics
+    count = int(re.search(self.regex[""count""], text).group(1))
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+","int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+cowidev.testing.incremental.mongolia,1.41,True,2022-04-29T13:19:36,,
+cowidev.testing.incremental.morocco,1.86,True,2022-04-29T13:19:36,,
+cowidev.testing.incremental.myanmar,40.04,False,2022-04-29T13:21:48,"Traceback (most recent call last):
+  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/urllib3/connection.py"", line 174, in _new_conn
+    conn = connection.create_connection(
+  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/urllib3/util/connection.py"", line 95, in create_connection
+    raise err
+  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/urllib3/util/connection.py"", line 85, in create_connection
+    sock.connect(sa)
+TimeoutError: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/urllib3/connectionpool.py"", line 703, in urlopen
+    httplib_response = self._make_request(
+  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/urllib3/connectionpool.py"", line 386, in _make_request
+    self._validate_conn(conn)
+  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/urllib3/connectionpool.py"", line 1040, in _validate_conn
+    conn.connect()
+  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/urllib3/connection.py"", line 358, in connect
+    self.sock = conn = self._new_conn()
+  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/urllib3/connection.py"", line 179, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPSConnection object at 0x1274ea3b0>, 'Connection to mohs.gov.mm timed out. (connect timeout=20)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/requests/adapters.py"", line 440, in send
+    resp = conn.urlopen(
+  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/urllib3/connectionpool.py"", line 785, in urlopen
+    retries = retries.increment(
+  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/urllib3/util/retry.py"", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='mohs.gov.mm', port=443): Max retries exceeded with url: /Main/content/publication/2019-ncov (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1274ea3b0>, 'Connection to mohs.gov.mm timed out. (connect timeout=20)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""/Users/cam/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 47, in run
+    module.main()
+  File ""/Users/cam/covid-19-data/scripts/src/cowidev/testing/incremental/myanmar.py"", line 55, in main
+    Myanmar().export()
+  File ""/Users/cam/covid-19-data/scripts/src/cowidev/testing/incremental/myanmar.py"", line 50, in export
+    df = self.read().pipe(self.pipeline)
+  File ""/Users/cam/covid-19-data/scripts/src/cowidev/testing/incremental/myanmar.py"", line 23, in read
+    soup = get_soup(self.source_url_ref, verify=False)
+  File ""/Users/cam/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 83, in get_soup
+    response = get_response(source, request_method, use_proxy, **kwargs)
+  File ""/Users/cam/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 49, in get_response
+    raise err
+  File ""/Users/cam/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 43, in get_response
+    response = requests.get(source, **kwargs)
+  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/requests/api.py"", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/requests/api.py"", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/requests/sessions.py"", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/requests/sessions.py"", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File ""/Users/cam/covid-19-data/venv/lib/python3.10/site-packages/requests/adapters.py"", line 507, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='mohs.gov.mm', port=443): Max retries exceeded with url: /Main/content/publication/2019-ncov (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1274ea3b0>, 'Connection to mohs.gov.mm timed out. (connect timeout=20)'))
+","HTTPSConnectionPool(host='mohs.gov.mm', port=443): Max retries exceeded with url: /Main/content/publication/2019-ncov (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1274ea3b0>, 'Connection to mohs.gov.mm timed out. (connect timeout=20)'))"
+cowidev.testing.incremental.nepal,12.95,True,2022-04-29T13:19:49,,
+cowidev.testing.incremental.new_zealand,4.03,True,2022-04-29T13:19:40,,
+cowidev.testing.incremental.nicaragua,5.29,True,2022-04-29T13:19:42,,
+cowidev.testing.incremental.north_macedonia,1.32,True,2022-04-29T13:19:38,,
+cowidev.testing.incremental.pakistan,2.24,True,2022-04-29T13:43:51,,
+cowidev.testing.incremental.palau,3.2,True,2022-04-29T13:19:42,,
+cowidev.testing.incremental.papua_new_guinea,6.79,True,2022-04-29T13:19:47,,
+cowidev.testing.incremental.paraguay,2.52,True,2022-04-29T13:19:43,,
+cowidev.testing.incremental.russia,0.78,True,2022-04-29T13:19:42,,
+cowidev.testing.incremental.saint_kitts_nevis,0.42,True,2022-04-29T13:19:42,,
+cowidev.testing.incremental.saint_lucia,0.99,True,2022-04-29T13:19:43,,
+cowidev.testing.incremental.saint_vincent_and_the_grenadines,1.91,True,2022-04-29T14:00:49,,
+cowidev.testing.incremental.singapore,0.99,True,2022-04-29T13:19:43,,
+cowidev.testing.incremental.suriname,0.88,True,2022-04-29T13:19:44,,
+cowidev.testing.incremental.sweden,0.45,True,2022-04-29T13:19:44,,
+cowidev.testing.incremental.syria,2.64,True,2022-04-29T13:19:46,,
+cowidev.testing.incremental.timor,2.31,True,2022-04-29T13:19:46,,
+cowidev.testing.incremental.togo,0.47,True,2022-04-29T13:19:45,,
+cowidev.testing.incremental.tunisia,2.4,True,2022-04-29T13:19:47,,
+cowidev.testing.incremental.ukraine,,,2022-04-29T13:19:45,,
+cowidev.testing.incremental.vanuatu,,,2022-04-29T13:19:45,,
+cowidev.testing.incremental.vietnam,4.57,True,2022-04-29T13:19:49,,

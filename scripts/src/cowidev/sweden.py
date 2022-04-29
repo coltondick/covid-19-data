@@ -5,27 +5,22 @@ import pandas as pd
 import pytz
 import numpy as np
 
+from cowidev import PATHS
+from cowidev.grapher.db.utils.db_imports import import_dataset
 
-CURRENT_DIR = os.path.dirname(__file__)
-sys.path.append(CURRENT_DIR)
-
-from utils.db_imports import import_dataset
 
 DATASET_NAME = "COVID-19 - Swedish Public Health Agency"
-INPUT_PATH = os.path.join(CURRENT_DIR, "../input/sweden/")
-INPUT_FILE_PATH = os.path.join(INPUT_PATH, "sweden_deaths_per_day.csv")
-GRAPHER_PATH = os.path.join(CURRENT_DIR, "../grapher/")
 ZERO_DAY = "2020-01-01"
 URL = "https://www.arcgis.com/sharing/rest/content/items/b5e7488e117749c19881cce45db13f7e/data"
 
 
 def download_data():
     df = pd.read_excel(URL, sheet_name="Antal avlidna per dag")
-    df.to_csv(INPUT_FILE_PATH, index=False)
+    df.to_csv(PATHS.INTERNAL_INPUT_SWEDEN_DEATHS_FILE, index=False)
 
 
 def generate_dataset():
-    df = pd.read_csv(INPUT_FILE_PATH, usecols=["Datum_avliden", "Antal_avlidna"])
+    df = pd.read_csv(PATHS.INTERNAL_INPUT_SWEDEN_DEATHS_FILE, usecols=["Datum_avliden", "Antal_avlidna"])
     df = df.rename(columns={"Datum_avliden": "Date", "Antal_avlidna": "Deaths"})
     df = df.dropna()
     df = df[-df["Date"].str.contains("ppgift saknas")]
@@ -42,7 +37,7 @@ def generate_dataset():
     del df["Date"]
 
     df = df[["Country", "Year", "Deaths", "Incomplete deaths"]]
-    df.to_csv(os.path.join(GRAPHER_PATH, f"{DATASET_NAME}.csv"), index=False)
+    df.to_csv(os.path.join(PATHS.INTERNAL_GRAPHER_DIR, f"{DATASET_NAME}.csv"), index=False)
 
 
 def update_db():
@@ -51,7 +46,7 @@ def update_db():
     import_dataset(
         dataset_name=DATASET_NAME,
         namespace="owid",
-        csv_path=os.path.join(GRAPHER_PATH, DATASET_NAME + ".csv"),
+        csv_path=os.path.join(PATHS.INTERNAL_GRAPHER_DIR, DATASET_NAME + ".csv"),
         default_variable_display={"yearIsDay": True, "zeroDay": ZERO_DAY},
         source_name=source_name,
         slack_notifications=False,

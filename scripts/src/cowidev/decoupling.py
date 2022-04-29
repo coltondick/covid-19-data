@@ -4,13 +4,14 @@ import sys
 
 import pandas as pd
 
+from cowidev import PATHS
+from cowidev.grapher.db.utils.db_imports import import_dataset
+
 CURRENT_DIR = os.path.dirname(__file__)
 sys.path.append(CURRENT_DIR)
 
-from utils.db_imports import import_dataset
 
 DATASET_NAME = "COVID-19 - Decoupling of metrics"
-GRAPHER_PATH = os.path.join(CURRENT_DIR, "../grapher/")
 ZERO_DAY = "2020-01-01"
 
 SOURCE_USA_C_D = "https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=us_trend_by_USA"
@@ -262,17 +263,17 @@ def main():
             "confirmed_deaths",
         ]
     ]
-    df.to_csv(os.path.join(GRAPHER_PATH, f"{DATASET_NAME}.csv"), index=False)
+    df.to_csv(os.path.join(PATHS.INTERNAL_GRAPHER_DIR, f"{DATASET_NAME}.csv"), index=False)
 
 
 def update_db():
     import_dataset(
         dataset_name=DATASET_NAME,
         namespace="owid",
-        csv_path=os.path.join(GRAPHER_PATH, DATASET_NAME + ".csv"),
+        csv_path=os.path.join(PATHS.INTERNAL_GRAPHER_DIR, DATASET_NAME + ".csv"),
         default_variable_display={"yearIsDay": True, "zeroDay": ZERO_DAY},
         source_name="Official data collated by Our World in Data",
-        slack_notifications=True,
+        slack_notifications=False,
     )
 
 

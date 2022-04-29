@@ -139,6 +139,8 @@ INTERNAL_INPUT_UN_POPULATION_FILE = os.path.join(INTERNAL_INPUT_UN_DIR, "populat
 INTERNAL_INPUT_UN_POPULATION_AGE_FILE = os.path.join(INTERNAL_INPUT_UN_DIR, "population_age_latest.csv")
 INTERNAL_INPUT_WB_DIR = os.path.join(INTERNAL_INPUT_DIR, "wb")
 INTERNAL_INPUT_WB_INCOME_FILE = os.path.join(INTERNAL_INPUT_WB_DIR, "income_groups.csv")
+INTERNAL_INPUT_SWEDEN_DIR = os.path.join(INTERNAL_INPUT_DIR, "sweden")
+INTERNAL_INPUT_SWEDEN_DEATHS_FILE = os.path.join(INTERNAL_INPUT_SWEDEN_DIR, "sweden_deaths_per_day.csv")
 ### Input templates
 INTERNAL_INPUT_TEMPLATE = os.path.join(INTERNAL_INPUT_DIR, "templates")
 INTERNAL_INPUT_TEMPLATE_STATUS = os.path.join(INTERNAL_INPUT_TEMPLATE, "status.md")

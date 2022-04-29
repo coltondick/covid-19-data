@@ -1,11 +1,12 @@
-Country,Units,Date,Source URL,Source label,Notes,Cumulative total
-Central African Republic,tests performed,2022-01-14,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,,79140
-Central African Republic,tests performed,2022-01-20,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,,79902
-Central African Republic,tests performed,2022-01-24,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,,81294
-Central African Republic,tests performed,2022-02-03,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,,82526
-Central African Republic,tests performed,2022-02-08,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,,82793
-Central African Republic,tests performed,2022-03-02,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,,85587
-Central African Republic,tests performed,2022-03-20,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,,86960
-Central African Republic,tests performed,2022-03-24,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,,87537
-Central African Republic,tests performed,2022-04-10,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,,88886
-Central African Republic,tests performed,2022-04-18,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,,89503
+Country,Date,Cumulative total,Units,Source URL,Source label,Notes
+Central African Republic,2022-01-14,79140,tests performed,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,
+Central African Republic,2022-01-20,79902,tests performed,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,
+Central African Republic,2022-01-24,81294,tests performed,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,
+Central African Republic,2022-02-03,82526,tests performed,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,
+Central African Republic,2022-02-08,82793,tests performed,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,
+Central African Republic,2022-03-02,85587,tests performed,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,
+Central African Republic,2022-03-20,86960,tests performed,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,
+Central African Republic,2022-03-24,87537,tests performed,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,
+Central African Republic,2022-04-10,88886,tests performed,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,
+Central African Republic,2022-04-18,89503,tests performed,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,
+Central African Republic,2022-04-28,90715,tests performed,https://africacdc.org/covid-19/,Africa Centres for Disease Control and Prevention,
