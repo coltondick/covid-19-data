@@ -2269,6 +2269,7 @@ date,indicator,value,entity
 2022-04-22,Weekly new hospital admissions,205.0,Switzerland
 2022-04-23,Weekly new hospital admissions,183.0,Switzerland
 2022-04-24,Weekly new hospital admissions,160.0,Switzerland
+2022-04-25,Weekly new hospital admissions,135.0,Switzerland
 2020-03-01,Weekly new hospital admissions,52.0,Switzerland
 2020-03-02,Weekly new hospital admissions,60.0,Switzerland
 2020-03-03,Weekly new hospital admissions,73.0,Switzerland
@@ -2298,3 +2299,4 @@ date,indicator,value,entity
 2020-03-27,Weekly new hospital admissions,1182.0,Switzerland
 2020-03-28,Weekly new hospital admissions,1188.0,Switzerland
 2020-03-29,Weekly new hospital admissions,1174.0,Switzerland
+2022-04-26,Weekly new hospital admissions,99.0,Switzerland

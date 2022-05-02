@@ -81,6 +81,7 @@ def click_hosp_grapherdb(ctx):
         domain="Hospitalizations",
         step="grapher-db",
         text_success="Hospitalization files were correctly uploaded to the database.",
+        hide_success=True,
     )
 
 

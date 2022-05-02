@@ -146,7 +146,7 @@ def generate_megafile(logger):
     create_dataset(all_covid, macro_variables, logger)
 
     # Store the last updated time
-    export_timestamp(PATHS.DATA_TIMESTAMP_OLD_FILE, force_directory=PATHS.DATA_DIR)  # @deprecate
+    # export_timestamp(PATHS.DATA_TIMESTAMP_OLD_FILE, force_directory=PATHS.DATA_DIR)  # @deprecate
 
     # Update readme
     logger.info("Generating public/data/README.md")
@@ -161,6 +161,23 @@ def generate_megafile(logger):
     generate_htmls()
 
     # Export timestamp
-    export_timestamp(PATHS.DATA_TIMESTAMP_ROOT_FILE)
+    timestamp = generate_timestamp()
+    print(timestamp)
+    export_timestamp(PATHS.DATA_TIMESTAMP_ROOT_FILE, timestamp=timestamp)
 
     logger.info("All done!")
+
+
+def generate_timestamp():
+    files = [
+        PATHS.DATA_TIMESTAMP_HOSP_FILE,
+        PATHS.DATA_TIMESTAMP_TEST_FILE,
+        PATHS.DATA_TIMESTAMP_VAX_FILE,
+        PATHS.DATA_TIMESTAMP_XM_FILE,
+        PATHS.DATA_TIMESTAMP_JHU_FILE,
+    ]
+    timestamps = []
+    for f in files:
+        with open(f, "r") as f:
+            timestamps.append(f.read())
+    return max(timestamps)

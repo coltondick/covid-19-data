@@ -1,4 +1,6 @@
 import pandas as pd
+from cowidev.utils.web.download import read_csv_from_url
+
 
 METADATA = {
     "source_url": "https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=hospitalCases&metric=newAdmissions&metric=covidOccupiedMVBeds&format=csv",
@@ -9,7 +11,10 @@ METADATA = {
 
 
 def main():
-    df = pd.read_csv(METADATA["source_url"], usecols=["date", "hospitalCases", "newAdmissions", "covidOccupiedMVBeds"])
+    df = read_csv_from_url(
+        url=METADATA["source_url"],
+        usecols=["date", "hospitalCases", "newAdmissions", "covidOccupiedMVBeds"],
+    )
 
     df = df.sort_values("date")
 

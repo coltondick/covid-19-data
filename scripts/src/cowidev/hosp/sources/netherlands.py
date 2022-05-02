@@ -1,6 +1,7 @@
 import pandas as pd
 
 from cowidev.utils.clean import clean_date_series
+from cowidev.utils.web.download import read_csv_from_url
 
 
 METADATA = {

@@ -74,11 +74,7 @@ class China(CountryVaxBase):
             driver.execute_script("window.stop();")
             links = self._get_links_complete(driver)
             for link in links[: self.num_links_complete]:
-                try:
-                    record = self._parse_data_complete(driver, link)
-                except:
-                    print("Failed to parse:", link)
-                    continue
+                record = self._parse_data_complete(driver, link)
                 if record:
                     records.append(record)
         return pd.DataFrame(records)

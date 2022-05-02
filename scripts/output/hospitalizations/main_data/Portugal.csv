@@ -744,6 +744,7 @@ date,indicator,value,entity
 2022-04-05,Daily hospital occupancy,1110.0,Portugal
 2022-04-12,Daily hospital occupancy,1172.0,Portugal
 2022-04-19,Daily hospital occupancy,1207.0,Portugal
+2022-04-26,Daily hospital occupancy,1208.0,Portugal
 2020-03-14,Daily ICU occupancy,10.0,Portugal
 2020-03-15,Daily ICU occupancy,9.0,Portugal
 2020-03-16,Daily ICU occupancy,18.0,Portugal
@@ -1480,3 +1481,4 @@ date,indicator,value,entity
 2022-04-05,Daily ICU occupancy,60.0,Portugal
 2022-04-12,Daily ICU occupancy,60.0,Portugal
 2022-04-19,Daily ICU occupancy,46.0,Portugal
+2022-04-26,Daily ICU occupancy,49.0,Portugal

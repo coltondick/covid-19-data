@@ -86,22 +86,24 @@ date,indicator,value,entity
 2021-12-04,Weekly new hospital admissions,4208.0,South Africa
 2021-12-11,Weekly new hospital admissions,8183.0,South Africa
 2021-12-18,Weekly new hospital admissions,9797.0,South Africa
-2021-12-25,Weekly new hospital admissions,9776.0,South Africa
-2022-01-01,Weekly new hospital admissions,8518.0,South Africa
-2022-01-08,Weekly new hospital admissions,7306.0,South Africa
-2022-01-15,Weekly new hospital admissions,5372.0,South Africa
-2022-01-22,Weekly new hospital admissions,3599.0,South Africa
+2021-12-25,Weekly new hospital admissions,9823.0,South Africa
+2022-01-01,Weekly new hospital admissions,8550.0,South Africa
+2022-01-08,Weekly new hospital admissions,7321.0,South Africa
+2022-01-15,Weekly new hospital admissions,5376.0,South Africa
+2022-01-22,Weekly new hospital admissions,3591.0,South Africa
 2022-01-29,Weekly new hospital admissions,3080.0,South Africa
-2022-02-05,Weekly new hospital admissions,2495.0,South Africa
-2022-02-12,Weekly new hospital admissions,2159.0,South Africa
-2022-02-19,Weekly new hospital admissions,1816.0,South Africa
-2022-02-26,Weekly new hospital admissions,1534.0,South Africa
-2022-03-05,Weekly new hospital admissions,1232.0,South Africa
-2022-03-12,Weekly new hospital admissions,1106.0,South Africa
-2022-03-19,Weekly new hospital admissions,960.0,South Africa
-2022-03-26,Weekly new hospital admissions,932.0,South Africa
-2022-04-02,Weekly new hospital admissions,828.0,South Africa
-2022-04-09,Weekly new hospital admissions,542.0,South Africa
+2022-02-05,Weekly new hospital admissions,2501.0,South Africa
+2022-02-12,Weekly new hospital admissions,2166.0,South Africa
+2022-02-19,Weekly new hospital admissions,1823.0,South Africa
+2022-02-26,Weekly new hospital admissions,1540.0,South Africa
+2022-03-05,Weekly new hospital admissions,1250.0,South Africa
+2022-03-12,Weekly new hospital admissions,1125.0,South Africa
+2022-03-19,Weekly new hospital admissions,990.0,South Africa
+2022-03-26,Weekly new hospital admissions,977.0,South Africa
+2022-04-02,Weekly new hospital admissions,908.0,South Africa
+2022-04-09,Weekly new hospital admissions,904.0,South Africa
+2022-04-16,Weekly new hospital admissions,916.0,South Africa
+2022-04-23,Weekly new hospital admissions,1497.0,South Africa
 2020-04-25,Daily hospital occupancy,260.0,South Africa
 2020-05-02,Daily hospital occupancy,328.0,South Africa
 2020-05-09,Daily hospital occupancy,378.0,South Africa
@@ -205,6 +207,8 @@ date,indicator,value,entity
 2022-03-26,Daily hospital occupancy,1965.0,South Africa
 2022-04-02,Daily hospital occupancy,1849.0,South Africa
 2022-04-09,Daily hospital occupancy,2139.0,South Africa
+2022-04-16,Daily hospital occupancy,2085.0,South Africa
+2022-04-23,Daily hospital occupancy,2244.0,South Africa
 2020-04-25,Daily ICU occupancy,19.0,South Africa
 2020-05-02,Daily ICU occupancy,42.0,South Africa
 2020-05-09,Daily ICU occupancy,65.0,South Africa
@@ -308,3 +312,5 @@ date,indicator,value,entity
 2022-03-26,Daily ICU occupancy,189.0,South Africa
 2022-04-02,Daily ICU occupancy,161.0,South Africa
 2022-04-09,Daily ICU occupancy,163.0,South Africa
+2022-04-16,Daily ICU occupancy,167.0,South Africa
+2022-04-23,Daily ICU occupancy,173.0,South Africa

@@ -50,6 +50,7 @@ def click_jhu_db(ctx):
         domain="JHU",
         step="grapher-db",
         text_success="Files uploaded to the database.",
+        hide_success=True,
     )
 
 

@@ -50,6 +50,11 @@ scripts/*.ipynb
 scripts/notebooks/
 scripts/scripts/testing/automations/incremental/Untitled.ipynb
 Untitled*.ipynb
+iso-numeric.ipynb
+scripts/scripts/schedule.yaml
+who-owid-missmatch.ipynb
+scripts/config.yaml
+.gitignore
 
 # Misc (Cam)
 misc/
@@ -68,3 +73,4 @@ secrets.yaml
 # docs
 scripts/docs/_build/
 scripts/docs/cowidev/api/
+

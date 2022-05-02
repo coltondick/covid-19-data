@@ -1580,6 +1580,9 @@ date,indicator,value,entity
 2022-04-26,Daily ICU occupancy,409.0,Italy
 2022-04-27,Daily ICU occupancy,394.0,Italy
 2022-04-28,Daily ICU occupancy,382.0,Italy
+2022-04-29,Daily ICU occupancy,371.0,Italy
+2022-04-30,Daily ICU occupancy,366.0,Italy
+2022-05-01,Daily ICU occupancy,366.0,Italy
 2020-02-24,Daily hospital occupancy,127.0,Italy
 2020-02-25,Daily hospital occupancy,150.0,Italy
 2020-02-26,Daily hospital occupancy,164.0,Italy
@@ -2375,6 +2378,9 @@ date,indicator,value,entity
 2022-04-26,Daily hospital occupancy,10737.0,Italy
 2022-04-27,Daily hospital occupancy,10549.0,Italy
 2022-04-28,Daily hospital occupancy,10458.0,Italy
+2022-04-29,Daily hospital occupancy,10313.0,Italy
+2022-04-30,Daily hospital occupancy,10192.0,Italy
+2022-05-01,Daily hospital occupancy,10104.0,Italy
 2020-12-09,Weekly new ICU admissions,1248.0,Italy
 2020-12-10,Weekly new ICU admissions,1282.0,Italy
 2020-12-11,Weekly new ICU admissions,1289.0,Italy
@@ -2881,3 +2887,6 @@ date,indicator,value,entity
 2022-04-26,Weekly new ICU admissions,256.0,Italy
 2022-04-27,Weekly new ICU admissions,246.0,Italy
 2022-04-28,Weekly new ICU admissions,252.0,Italy
+2022-04-29,Weekly new ICU admissions,244.0,Italy
+2022-04-30,Weekly new ICU admissions,233.0,Italy
+2022-05-01,Weekly new ICU admissions,229.0,Italy

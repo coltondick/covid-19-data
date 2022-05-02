@@ -10,7 +10,7 @@ date,indicator,value,entity
 2020-07-23,Daily hospital occupancy,47824.0,United States
 2020-07-24,Daily hospital occupancy,46738.0,United States
 2020-07-25,Daily hospital occupancy,51819.0,United States
-2020-07-26,Daily hospital occupancy,43239.0,United States
+2020-07-26,Daily hospital occupancy,43135.0,United States
 2020-07-27,Daily hospital occupancy,47165.0,United States
 2020-07-28,Daily hospital occupancy,48110.0,United States
 2020-07-29,Daily hospital occupancy,45613.0,United States
@@ -54,14 +54,14 @@ date,indicator,value,entity
 2020-09-05,Daily hospital occupancy,28845.0,United States
 2020-09-06,Daily hospital occupancy,28369.0,United States
 2020-09-07,Daily hospital occupancy,28589.0,United States
-2020-09-08,Daily hospital occupancy,28951.0,United States
+2020-09-08,Daily hospital occupancy,28952.0,United States
 2020-09-09,Daily hospital occupancy,28775.0,United States
-2020-09-10,Daily hospital occupancy,28066.0,United States
+2020-09-10,Daily hospital occupancy,28065.0,United States
 2020-09-11,Daily hospital occupancy,27368.0,United States
 2020-09-12,Daily hospital occupancy,26496.0,United States
 2020-09-13,Daily hospital occupancy,26329.0,United States
 2020-09-14,Daily hospital occupancy,26787.0,United States
-2020-09-15,Daily hospital occupancy,26934.0,United States
+2020-09-15,Daily hospital occupancy,26935.0,United States
 2020-09-16,Daily hospital occupancy,26372.0,United States
 2020-09-17,Daily hospital occupancy,26085.0,United States
 2020-09-18,Daily hospital occupancy,25833.0,United States
@@ -75,7 +75,7 @@ date,indicator,value,entity
 2020-09-26,Daily hospital occupancy,25903.0,United States
 2020-09-27,Daily hospital occupancy,25970.0,United States
 2020-09-28,Daily hospital occupancy,27021.0,United States
-2020-09-29,Daily hospital occupancy,27508.0,United States
+2020-09-29,Daily hospital occupancy,27506.0,United States
 2020-09-30,Daily hospital occupancy,27668.0,United States
 2020-10-01,Daily hospital occupancy,27477.0,United States
 2020-10-02,Daily hospital occupancy,27408.0,United States
@@ -87,28 +87,28 @@ date,indicator,value,entity
 2020-10-08,Daily hospital occupancy,31014.0,United States
 2020-10-09,Daily hospital occupancy,31206.0,United States
 2020-10-10,Daily hospital occupancy,30982.0,United States
-2020-10-11,Daily hospital occupancy,31434.0,United States
-2020-10-12,Daily hospital occupancy,32779.0,United States
+2020-10-11,Daily hospital occupancy,31430.0,United States
+2020-10-12,Daily hospital occupancy,32758.0,United States
 2020-10-13,Daily hospital occupancy,33506.0,United States
-2020-10-14,Daily hospital occupancy,33907.0,United States
+2020-10-14,Daily hospital occupancy,33935.0,United States
 2020-10-15,Daily hospital occupancy,34387.0,United States
 2020-10-16,Daily hospital occupancy,34639.0,United States
 2020-10-17,Daily hospital occupancy,34319.0,United States
 2020-10-18,Daily hospital occupancy,35011.0,United States
 2020-10-19,Daily hospital occupancy,36431.0,United States
-2020-10-20,Daily hospital occupancy,37411.0,United States
-2020-10-21,Daily hospital occupancy,38151.0,United States
-2020-10-22,Daily hospital occupancy,38841.0,United States
-2020-10-23,Daily hospital occupancy,39080.0,United States
-2020-10-24,Daily hospital occupancy,39345.0,United States
+2020-10-20,Daily hospital occupancy,37408.0,United States
+2020-10-21,Daily hospital occupancy,38141.0,United States
+2020-10-22,Daily hospital occupancy,38848.0,United States
+2020-10-23,Daily hospital occupancy,39081.0,United States
+2020-10-24,Daily hospital occupancy,39346.0,United States
 2020-10-25,Daily hospital occupancy,39984.0,United States
-2020-10-26,Daily hospital occupancy,41334.0,United States
+2020-10-26,Daily hospital occupancy,41336.0,United States
 2020-10-27,Daily hospital occupancy,42272.0,United States
-2020-10-28,Daily hospital occupancy,43436.0,United States
-2020-10-29,Daily hospital occupancy,44162.0,United States
+2020-10-28,Daily hospital occupancy,43442.0,United States
+2020-10-29,Daily hospital occupancy,44166.0,United States
 2020-10-30,Daily hospital occupancy,45110.0,United States
-2020-10-31,Daily hospital occupancy,45137.0,United States
-2020-11-01,Daily hospital occupancy,46088.0,United States
+2020-10-31,Daily hospital occupancy,45086.0,United States
+2020-11-01,Daily hospital occupancy,46086.0,United States
 2020-11-02,Daily hospital occupancy,47971.0,United States
 2020-11-03,Daily hospital occupancy,49059.0,United States
 2020-11-04,Daily hospital occupancy,50465.0,United States
@@ -120,7 +120,7 @@ date,indicator,value,entity
 2020-11-10,Daily hospital occupancy,61415.0,United States
 2020-11-11,Daily hospital occupancy,63329.0,United States
 2020-11-12,Daily hospital occupancy,65199.0,United States
-2020-11-13,Daily hospital occupancy,66096.0,United States
+2020-11-13,Daily hospital occupancy,66089.0,United States
 2020-11-14,Daily hospital occupancy,67215.0,United States
 2020-11-15,Daily hospital occupancy,69513.0,United States
 2020-11-16,Daily hospital occupancy,73098.0,United States
@@ -191,7 +191,7 @@ date,indicator,value,entity
 2021-01-20,Daily hospital occupancy,117143.0,United States
 2021-01-21,Daily hospital occupancy,114100.0,United States
 2021-01-22,Daily hospital occupancy,111835.0,United States
-2021-01-23,Daily hospital occupancy,108126.0,United States
+2021-01-23,Daily hospital occupancy,108127.0,United States
 2021-01-24,Daily hospital occupancy,107008.0,United States
 2021-01-25,Daily hospital occupancy,106268.0,United States
 2021-01-26,Daily hospital occupancy,104627.0,United States
@@ -202,7 +202,7 @@ date,indicator,value,entity
 2021-01-31,Daily hospital occupancy,91438.0,United States
 2021-02-01,Daily hospital occupancy,90582.0,United States
 2021-02-02,Daily hospital occupancy,89004.0,United States
-2021-02-03,Daily hospital occupancy,87294.0,United States
+2021-02-03,Daily hospital occupancy,87290.0,United States
 2021-02-04,Daily hospital occupancy,84604.0,United States
 2021-02-05,Daily hospital occupancy,82139.0,United States
 2021-02-06,Daily hospital occupancy,79113.0,United States
@@ -488,7 +488,7 @@ date,indicator,value,entity
 2021-11-13,Daily hospital occupancy,41371.0,United States
 2021-11-14,Daily hospital occupancy,41871.0,United States
 2021-11-15,Daily hospital occupancy,43285.0,United States
-2021-11-16,Daily hospital occupancy,44007.0,United States
+2021-11-16,Daily hospital occupancy,44008.0,United States
 2021-11-17,Daily hospital occupancy,44369.0,United States
 2021-11-18,Daily hospital occupancy,45095.0,United States
 2021-11-19,Daily hospital occupancy,45157.0,United States
@@ -582,7 +582,7 @@ date,indicator,value,entity
 2022-02-15,Daily hospital occupancy,68741.0,United States
 2022-02-16,Daily hospital occupancy,65246.0,United States
 2022-02-17,Daily hospital occupancy,61873.0,United States
-2022-02-18,Daily hospital occupancy,58681.0,United States
+2022-02-18,Daily hospital occupancy,58685.0,United States
 2022-02-19,Daily hospital occupancy,54818.0,United States
 2022-02-20,Daily hospital occupancy,52978.0,United States
 2022-02-21,Daily hospital occupancy,51326.0,United States
@@ -641,26 +641,29 @@ date,indicator,value,entity
 2022-04-15,Daily hospital occupancy,10300.0,United States
 2022-04-16,Daily hospital occupancy,9960.0,United States
 2022-04-17,Daily hospital occupancy,10153.0,United States
-2022-04-18,Daily hospital occupancy,10415.0,United States
-2022-04-19,Daily hospital occupancy,10675.0,United States
-2022-04-20,Daily hospital occupancy,10918.0,United States
-2022-04-21,Daily hospital occupancy,11100.0,United States
-2022-04-22,Daily hospital occupancy,11210.0,United States
-2022-04-23,Daily hospital occupancy,11246.0,United States
-2022-04-24,Daily hospital occupancy,11459.0,United States
-2022-04-25,Daily hospital occupancy,11901.0,United States
-2022-04-26,Daily hospital occupancy,12245.0,United States
+2022-04-18,Daily hospital occupancy,10416.0,United States
+2022-04-19,Daily hospital occupancy,10676.0,United States
+2022-04-20,Daily hospital occupancy,10920.0,United States
+2022-04-21,Daily hospital occupancy,11101.0,United States
+2022-04-22,Daily hospital occupancy,11211.0,United States
+2022-04-23,Daily hospital occupancy,11239.0,United States
+2022-04-24,Daily hospital occupancy,11462.0,United States
+2022-04-25,Daily hospital occupancy,11909.0,United States
+2022-04-26,Daily hospital occupancy,12306.0,United States
+2022-04-27,Daily hospital occupancy,12633.0,United States
+2022-04-28,Daily hospital occupancy,12766.0,United States
+2022-04-29,Daily hospital occupancy,12784.0,United States
 2020-07-21,Weekly new hospital admissions,30554.0,United States
 2020-07-22,Weekly new hospital admissions,31354.0,United States
 2020-07-23,Weekly new hospital admissions,31681.0,United States
 2020-07-24,Weekly new hospital admissions,31872.0,United States
-2020-07-25,Weekly new hospital admissions,32807.0,United States
-2020-07-26,Weekly new hospital admissions,33652.0,United States
-2020-07-27,Weekly new hospital admissions,34623.0,United States
-2020-07-28,Weekly new hospital admissions,35636.0,United States
-2020-07-29,Weekly new hospital admissions,36272.0,United States
-2020-07-30,Weekly new hospital admissions,36796.0,United States
-2020-07-31,Weekly new hospital admissions,38016.0,United States
+2020-07-25,Weekly new hospital admissions,32806.0,United States
+2020-07-26,Weekly new hospital admissions,33651.0,United States
+2020-07-27,Weekly new hospital admissions,34622.0,United States
+2020-07-28,Weekly new hospital admissions,35635.0,United States
+2020-07-29,Weekly new hospital admissions,36271.0,United States
+2020-07-30,Weekly new hospital admissions,36795.0,United States
+2020-07-31,Weekly new hospital admissions,38015.0,United States
 2020-08-01,Weekly new hospital admissions,38568.0,United States
 2020-08-02,Weekly new hospital admissions,38555.0,United States
 2020-08-03,Weekly new hospital admissions,38036.0,United States
@@ -694,28 +697,28 @@ date,indicator,value,entity
 2020-08-31,Weekly new hospital admissions,30061.0,United States
 2020-09-01,Weekly new hospital admissions,29816.0,United States
 2020-09-02,Weekly new hospital admissions,29474.0,United States
-2020-09-03,Weekly new hospital admissions,29143.0,United States
-2020-09-04,Weekly new hospital admissions,28542.0,United States
-2020-09-05,Weekly new hospital admissions,27699.0,United States
-2020-09-06,Weekly new hospital admissions,27096.0,United States
-2020-09-07,Weekly new hospital admissions,26610.0,United States
-2020-09-08,Weekly new hospital admissions,26155.0,United States
-2020-09-09,Weekly new hospital admissions,26622.0,United States
-2020-09-10,Weekly new hospital admissions,27278.0,United States
-2020-09-11,Weekly new hospital admissions,27679.0,United States
-2020-09-12,Weekly new hospital admissions,27964.0,United States
-2020-09-13,Weekly new hospital admissions,28406.0,United States
-2020-09-14,Weekly new hospital admissions,28030.0,United States
-2020-09-15,Weekly new hospital admissions,28253.0,United States
-2020-09-16,Weekly new hospital admissions,27185.0,United States
+2020-09-03,Weekly new hospital admissions,29141.0,United States
+2020-09-04,Weekly new hospital admissions,28540.0,United States
+2020-09-05,Weekly new hospital admissions,27697.0,United States
+2020-09-06,Weekly new hospital admissions,27094.0,United States
+2020-09-07,Weekly new hospital admissions,26608.0,United States
+2020-09-08,Weekly new hospital admissions,26153.0,United States
+2020-09-09,Weekly new hospital admissions,26620.0,United States
+2020-09-10,Weekly new hospital admissions,27276.0,United States
+2020-09-11,Weekly new hospital admissions,27675.0,United States
+2020-09-12,Weekly new hospital admissions,27960.0,United States
+2020-09-13,Weekly new hospital admissions,28402.0,United States
+2020-09-14,Weekly new hospital admissions,28026.0,United States
+2020-09-15,Weekly new hospital admissions,28251.0,United States
+2020-09-16,Weekly new hospital admissions,27183.0,United States
 2020-09-17,Weekly new hospital admissions,26250.0,United States
-2020-09-18,Weekly new hospital admissions,25312.0,United States
-2020-09-19,Weekly new hospital admissions,24695.0,United States
-2020-09-20,Weekly new hospital admissions,24014.0,United States
-2020-09-21,Weekly new hospital admissions,24187.0,United States
-2020-09-22,Weekly new hospital admissions,24044.0,United States
-2020-09-23,Weekly new hospital admissions,24257.0,United States
-2020-09-24,Weekly new hospital admissions,24266.0,United States
+2020-09-18,Weekly new hospital admissions,25315.0,United States
+2020-09-19,Weekly new hospital admissions,24698.0,United States
+2020-09-20,Weekly new hospital admissions,24017.0,United States
+2020-09-21,Weekly new hospital admissions,24190.0,United States
+2020-09-22,Weekly new hospital admissions,24045.0,United States
+2020-09-23,Weekly new hospital admissions,24258.0,United States
+2020-09-24,Weekly new hospital admissions,24267.0,United States
 2020-09-25,Weekly new hospital admissions,24380.0,United States
 2020-09-26,Weekly new hospital admissions,24655.0,United States
 2020-09-27,Weekly new hospital admissions,24876.0,United States
@@ -733,45 +736,45 @@ date,indicator,value,entity
 2020-10-09,Weekly new hospital admissions,32250.0,United States
 2020-10-10,Weekly new hospital admissions,32788.0,United States
 2020-10-11,Weekly new hospital admissions,33669.0,United States
-2020-10-12,Weekly new hospital admissions,33745.0,United States
-2020-10-13,Weekly new hospital admissions,33796.0,United States
+2020-10-12,Weekly new hospital admissions,33744.0,United States
+2020-10-13,Weekly new hospital admissions,33795.0,United States
 2020-10-14,Weekly new hospital admissions,34341.0,United States
 2020-10-15,Weekly new hospital admissions,34786.0,United States
 2020-10-16,Weekly new hospital admissions,35602.0,United States
 2020-10-17,Weekly new hospital admissions,36369.0,United States
 2020-10-18,Weekly new hospital admissions,36996.0,United States
-2020-10-19,Weekly new hospital admissions,37557.0,United States
-2020-10-20,Weekly new hospital admissions,38327.0,United States
-2020-10-21,Weekly new hospital admissions,38974.0,United States
-2020-10-22,Weekly new hospital admissions,39854.0,United States
-2020-10-23,Weekly new hospital admissions,40412.0,United States
-2020-10-24,Weekly new hospital admissions,41145.0,United States
-2020-10-25,Weekly new hospital admissions,41402.0,United States
-2020-10-26,Weekly new hospital admissions,41727.0,United States
-2020-10-27,Weekly new hospital admissions,42151.0,United States
-2020-10-28,Weekly new hospital admissions,43168.0,United States
-2020-10-29,Weekly new hospital admissions,44179.0,United States
-2020-10-30,Weekly new hospital admissions,45485.0,United States
-2020-10-31,Weekly new hospital admissions,46126.0,United States
-2020-11-01,Weekly new hospital admissions,47055.0,United States
-2020-11-02,Weekly new hospital admissions,48350.0,United States
-2020-11-03,Weekly new hospital admissions,49645.0,United States
-2020-11-04,Weekly new hospital admissions,50714.0,United States
-2020-11-05,Weekly new hospital admissions,52022.0,United States
-2020-11-06,Weekly new hospital admissions,53391.0,United States
-2020-11-07,Weekly new hospital admissions,55465.0,United States
-2020-11-08,Weekly new hospital admissions,57427.0,United States
-2020-11-09,Weekly new hospital admissions,59229.0,United States
+2020-10-19,Weekly new hospital admissions,37558.0,United States
+2020-10-20,Weekly new hospital admissions,38334.0,United States
+2020-10-21,Weekly new hospital admissions,38980.0,United States
+2020-10-22,Weekly new hospital admissions,39860.0,United States
+2020-10-23,Weekly new hospital admissions,40418.0,United States
+2020-10-24,Weekly new hospital admissions,41150.0,United States
+2020-10-25,Weekly new hospital admissions,41407.0,United States
+2020-10-26,Weekly new hospital admissions,41731.0,United States
+2020-10-27,Weekly new hospital admissions,42149.0,United States
+2020-10-28,Weekly new hospital admissions,43158.0,United States
+2020-10-29,Weekly new hospital admissions,44172.0,United States
+2020-10-30,Weekly new hospital admissions,45472.0,United States
+2020-10-31,Weekly new hospital admissions,46104.0,United States
+2020-11-01,Weekly new hospital admissions,47026.0,United States
+2020-11-02,Weekly new hospital admissions,48316.0,United States
+2020-11-03,Weekly new hospital admissions,49605.0,United States
+2020-11-04,Weekly new hospital admissions,50682.0,United States
+2020-11-05,Weekly new hospital admissions,51987.0,United States
+2020-11-06,Weekly new hospital admissions,53362.0,United States
+2020-11-07,Weekly new hospital admissions,55446.0,United States
+2020-11-08,Weekly new hospital admissions,57415.0,United States
+2020-11-09,Weekly new hospital admissions,59223.0,United States
 2020-11-10,Weekly new hospital admissions,61656.0,United States
 2020-11-11,Weekly new hospital admissions,64015.0,United States
 2020-11-12,Weekly new hospital admissions,66110.0,United States
-2020-11-13,Weekly new hospital admissions,68041.0,United States
-2020-11-14,Weekly new hospital admissions,69820.0,United States
-2020-11-15,Weekly new hospital admissions,71645.0,United States
-2020-11-16,Weekly new hospital admissions,73396.0,United States
-2020-11-17,Weekly new hospital admissions,75258.0,United States
-2020-11-18,Weekly new hospital admissions,76928.0,United States
-2020-11-19,Weekly new hospital admissions,78514.0,United States
+2020-11-13,Weekly new hospital admissions,68034.0,United States
+2020-11-14,Weekly new hospital admissions,69813.0,United States
+2020-11-15,Weekly new hospital admissions,71638.0,United States
+2020-11-16,Weekly new hospital admissions,73389.0,United States
+2020-11-17,Weekly new hospital admissions,75251.0,United States
+2020-11-18,Weekly new hospital admissions,76921.0,United States
+2020-11-19,Weekly new hospital admissions,78507.0,United States
 2020-11-20,Weekly new hospital admissions,80283.0,United States
 2020-11-21,Weekly new hospital admissions,81657.0,United States
 2020-11-22,Weekly new hospital admissions,82545.0,United States
@@ -836,13 +839,13 @@ date,indicator,value,entity
 2021-01-20,Weekly new hospital admissions,103154.0,United States
 2021-01-21,Weekly new hospital admissions,100805.0,United States
 2021-01-22,Weekly new hospital admissions,98767.0,United States
-2021-01-23,Weekly new hospital admissions,96481.0,United States
-2021-01-24,Weekly new hospital admissions,94452.0,United States
-2021-01-25,Weekly new hospital admissions,92178.0,United States
-2021-01-26,Weekly new hospital admissions,90895.0,United States
-2021-01-27,Weekly new hospital admissions,89328.0,United States
-2021-01-28,Weekly new hospital admissions,87640.0,United States
-2021-01-29,Weekly new hospital admissions,84648.0,United States
+2021-01-23,Weekly new hospital admissions,96480.0,United States
+2021-01-24,Weekly new hospital admissions,94451.0,United States
+2021-01-25,Weekly new hospital admissions,92177.0,United States
+2021-01-26,Weekly new hospital admissions,90894.0,United States
+2021-01-27,Weekly new hospital admissions,89327.0,United States
+2021-01-28,Weekly new hospital admissions,87639.0,United States
+2021-01-29,Weekly new hospital admissions,84647.0,United States
 2021-01-30,Weekly new hospital admissions,82400.0,United States
 2021-01-31,Weekly new hospital admissions,80527.0,United States
 2021-02-01,Weekly new hospital admissions,79093.0,United States
@@ -1133,13 +1136,13 @@ date,indicator,value,entity
 2021-11-13,Weekly new hospital admissions,37795.0,United States
 2021-11-14,Weekly new hospital admissions,38105.0,United States
 2021-11-15,Weekly new hospital admissions,38431.0,United States
-2021-11-16,Weekly new hospital admissions,39084.0,United States
-2021-11-17,Weekly new hospital admissions,39749.0,United States
-2021-11-18,Weekly new hospital admissions,40608.0,United States
-2021-11-19,Weekly new hospital admissions,41013.0,United States
-2021-11-20,Weekly new hospital admissions,41397.0,United States
-2021-11-21,Weekly new hospital admissions,41824.0,United States
-2021-11-22,Weekly new hospital admissions,42572.0,United States
+2021-11-16,Weekly new hospital admissions,39079.0,United States
+2021-11-17,Weekly new hospital admissions,39744.0,United States
+2021-11-18,Weekly new hospital admissions,40603.0,United States
+2021-11-19,Weekly new hospital admissions,41008.0,United States
+2021-11-20,Weekly new hospital admissions,41392.0,United States
+2021-11-21,Weekly new hospital admissions,41819.0,United States
+2021-11-22,Weekly new hospital admissions,42567.0,United States
 2021-11-23,Weekly new hospital admissions,43166.0,United States
 2021-11-24,Weekly new hospital admissions,43629.0,United States
 2021-11-25,Weekly new hospital admissions,43698.0,United States
@@ -1227,13 +1230,13 @@ date,indicator,value,entity
 2022-02-15,Weekly new hospital admissions,62791.0,United States
 2022-02-16,Weekly new hospital admissions,59338.0,United States
 2022-02-17,Weekly new hospital admissions,56177.0,United States
-2022-02-18,Weekly new hospital admissions,53024.0,United States
-2022-02-19,Weekly new hospital admissions,49966.0,United States
-2022-02-20,Weekly new hospital admissions,47672.0,United States
-2022-02-21,Weekly new hospital admissions,45718.0,United States
-2022-02-22,Weekly new hospital admissions,43488.0,United States
-2022-02-23,Weekly new hospital admissions,41236.0,United States
-2022-02-24,Weekly new hospital admissions,39158.0,United States
+2022-02-18,Weekly new hospital admissions,53025.0,United States
+2022-02-19,Weekly new hospital admissions,49967.0,United States
+2022-02-20,Weekly new hospital admissions,47673.0,United States
+2022-02-21,Weekly new hospital admissions,45719.0,United States
+2022-02-22,Weekly new hospital admissions,43489.0,United States
+2022-02-23,Weekly new hospital admissions,41237.0,United States
+2022-02-24,Weekly new hospital admissions,39159.0,United States
 2022-02-25,Weekly new hospital admissions,37431.0,United States
 2022-02-26,Weekly new hospital admissions,35952.0,United States
 2022-02-27,Weekly new hospital admissions,34728.0,United States
@@ -1286,15 +1289,18 @@ date,indicator,value,entity
 2022-04-15,Weekly new hospital admissions,10886.0,United States
 2022-04-16,Weekly new hospital admissions,11018.0,United States
 2022-04-17,Weekly new hospital admissions,11062.0,United States
-2022-04-18,Weekly new hospital admissions,11268.0,United States
-2022-04-19,Weekly new hospital admissions,11457.0,United States
-2022-04-20,Weekly new hospital admissions,11788.0,United States
-2022-04-21,Weekly new hospital admissions,12068.0,United States
-2022-04-22,Weekly new hospital admissions,12341.0,United States
-2022-04-23,Weekly new hospital admissions,12751.0,United States
-2022-04-24,Weekly new hospital admissions,13077.0,United States
-2022-04-25,Weekly new hospital admissions,13373.0,United States
-2022-04-26,Weekly new hospital admissions,13786.0,United States
+2022-04-18,Weekly new hospital admissions,11269.0,United States
+2022-04-19,Weekly new hospital admissions,11459.0,United States
+2022-04-20,Weekly new hospital admissions,11791.0,United States
+2022-04-21,Weekly new hospital admissions,12072.0,United States
+2022-04-22,Weekly new hospital admissions,12345.0,United States
+2022-04-23,Weekly new hospital admissions,12752.0,United States
+2022-04-24,Weekly new hospital admissions,13081.0,United States
+2022-04-25,Weekly new hospital admissions,13375.0,United States
+2022-04-26,Weekly new hospital admissions,13769.0,United States
+2022-04-27,Weekly new hospital admissions,14229.0,United States
+2022-04-28,Weekly new hospital admissions,14630.0,United States
+2022-04-29,Weekly new hospital admissions,14931.0,United States
 2020-07-15,Daily ICU occupancy,9245.0,United States
 2020-07-16,Daily ICU occupancy,9797.0,United States
 2020-07-17,Daily ICU occupancy,10700.0,United States
@@ -1343,9 +1349,9 @@ date,indicator,value,entity
 2020-08-29,Daily ICU occupancy,9697.0,United States
 2020-08-30,Daily ICU occupancy,9549.0,United States
 2020-08-31,Daily ICU occupancy,9509.0,United States
-2020-09-01,Daily ICU occupancy,9471.0,United States
+2020-09-01,Daily ICU occupancy,9472.0,United States
 2020-09-02,Daily ICU occupancy,9362.0,United States
-2020-09-03,Daily ICU occupancy,9233.0,United States
+2020-09-03,Daily ICU occupancy,9234.0,United States
 2020-09-04,Daily ICU occupancy,9228.0,United States
 2020-09-05,Daily ICU occupancy,9091.0,United States
 2020-09-06,Daily ICU occupancy,9010.0,United States
@@ -1371,7 +1377,7 @@ date,indicator,value,entity
 2020-09-26,Daily ICU occupancy,7796.0,United States
 2020-09-27,Daily ICU occupancy,8067.0,United States
 2020-09-28,Daily ICU occupancy,7915.0,United States
-2020-09-29,Daily ICU occupancy,8044.0,United States
+2020-09-29,Daily ICU occupancy,8043.0,United States
 2020-09-30,Daily ICU occupancy,8070.0,United States
 2020-10-01,Daily ICU occupancy,8005.0,United States
 2020-10-02,Daily ICU occupancy,7957.0,United States
@@ -1384,29 +1390,29 @@ date,indicator,value,entity
 2020-10-09,Daily ICU occupancy,8723.0,United States
 2020-10-10,Daily ICU occupancy,8730.0,United States
 2020-10-11,Daily ICU occupancy,8819.0,United States
-2020-10-12,Daily ICU occupancy,9057.0,United States
+2020-10-12,Daily ICU occupancy,9047.0,United States
 2020-10-13,Daily ICU occupancy,9411.0,United States
-2020-10-14,Daily ICU occupancy,9291.0,United States
+2020-10-14,Daily ICU occupancy,9303.0,United States
 2020-10-15,Daily ICU occupancy,9478.0,United States
 2020-10-16,Daily ICU occupancy,9538.0,United States
 2020-10-17,Daily ICU occupancy,9516.0,United States
 2020-10-18,Daily ICU occupancy,9725.0,United States
 2020-10-19,Daily ICU occupancy,10075.0,United States
-2020-10-20,Daily ICU occupancy,10215.0,United States
+2020-10-20,Daily ICU occupancy,10214.0,United States
 2020-10-21,Daily ICU occupancy,10453.0,United States
-2020-10-22,Daily ICU occupancy,10650.0,United States
+2020-10-22,Daily ICU occupancy,10648.0,United States
 2020-10-23,Daily ICU occupancy,10712.0,United States
-2020-10-24,Daily ICU occupancy,10712.0,United States
+2020-10-24,Daily ICU occupancy,10710.0,United States
 2020-10-25,Daily ICU occupancy,10853.0,United States
 2020-10-26,Daily ICU occupancy,11111.0,United States
 2020-10-27,Daily ICU occupancy,11431.0,United States
-2020-10-28,Daily ICU occupancy,11647.0,United States
+2020-10-28,Daily ICU occupancy,11648.0,United States
 2020-10-29,Daily ICU occupancy,11824.0,United States
-2020-10-30,Daily ICU occupancy,11851.0,United States
-2020-10-31,Daily ICU occupancy,11900.0,United States
-2020-11-01,Daily ICU occupancy,12128.0,United States
-2020-11-02,Daily ICU occupancy,12591.0,United States
-2020-11-03,Daily ICU occupancy,12906.0,United States
+2020-10-30,Daily ICU occupancy,11854.0,United States
+2020-10-31,Daily ICU occupancy,11887.0,United States
+2020-11-01,Daily ICU occupancy,12131.0,United States
+2020-11-02,Daily ICU occupancy,12594.0,United States
+2020-11-03,Daily ICU occupancy,12909.0,United States
 2020-11-04,Daily ICU occupancy,13003.0,United States
 2020-11-05,Daily ICU occupancy,13228.0,United States
 2020-11-06,Daily ICU occupancy,13357.0,United States
@@ -1416,7 +1422,7 @@ date,indicator,value,entity
 2020-11-10,Daily ICU occupancy,14835.0,United States
 2020-11-11,Daily ICU occupancy,15116.0,United States
 2020-11-12,Daily ICU occupancy,15592.0,United States
-2020-11-13,Daily ICU occupancy,15866.0,United States
+2020-11-13,Daily ICU occupancy,15861.0,United States
 2020-11-14,Daily ICU occupancy,16238.0,United States
 2020-11-15,Daily ICU occupancy,16808.0,United States
 2020-11-16,Daily ICU occupancy,17538.0,United States
@@ -1498,7 +1504,7 @@ date,indicator,value,entity
 2021-01-31,Daily ICU occupancy,22503.0,United States
 2021-02-01,Daily ICU occupancy,22230.0,United States
 2021-02-02,Daily ICU occupancy,21767.0,United States
-2021-02-03,Daily ICU occupancy,21405.0,United States
+2021-02-03,Daily ICU occupancy,21406.0,United States
 2021-02-04,Daily ICU occupancy,20872.0,United States
 2021-02-05,Daily ICU occupancy,20354.0,United States
 2021-02-06,Daily ICU occupancy,19863.0,United States
@@ -1784,7 +1790,7 @@ date,indicator,value,entity
 2021-11-13,Daily ICU occupancy,11296.0,United States
 2021-11-14,Daily ICU occupancy,11264.0,United States
 2021-11-15,Daily ICU occupancy,11534.0,United States
-2021-11-16,Daily ICU occupancy,11600.0,United States
+2021-11-16,Daily ICU occupancy,11599.0,United States
 2021-11-17,Daily ICU occupancy,11665.0,United States
 2021-11-18,Daily ICU occupancy,11792.0,United States
 2021-11-19,Daily ICU occupancy,11823.0,United States
@@ -1878,7 +1884,7 @@ date,indicator,value,entity
 2022-02-15,Daily ICU occupancy,13827.0,United States
 2022-02-16,Daily ICU occupancy,13154.0,United States
 2022-02-17,Daily ICU occupancy,12551.0,United States
-2022-02-18,Daily ICU occupancy,11923.0,United States
+2022-02-18,Daily ICU occupancy,11926.0,United States
 2022-02-19,Daily ICU occupancy,11238.0,United States
 2022-02-20,Daily ICU occupancy,10778.0,United States
 2022-02-21,Daily ICU occupancy,10456.0,United States
@@ -1938,11 +1944,14 @@ date,indicator,value,entity
 2022-04-16,Daily ICU occupancy,1457.0,United States
 2022-04-17,Daily ICU occupancy,1432.0,United States
 2022-04-18,Daily ICU occupancy,1450.0,United States
-2022-04-19,Daily ICU occupancy,1484.0,United States
+2022-04-19,Daily ICU occupancy,1485.0,United States
 2022-04-20,Daily ICU occupancy,1446.0,United States
 2022-04-21,Daily ICU occupancy,1486.0,United States
 2022-04-22,Daily ICU occupancy,1491.0,United States
-2022-04-23,Daily ICU occupancy,1458.0,United States
-2022-04-24,Daily ICU occupancy,1452.0,United States
-2022-04-25,Daily ICU occupancy,1511.0,United States
-2022-04-26,Daily ICU occupancy,1583.0,United States
+2022-04-23,Daily ICU occupancy,1455.0,United States
+2022-04-24,Daily ICU occupancy,1449.0,United States
+2022-04-25,Daily ICU occupancy,1509.0,United States
+2022-04-26,Daily ICU occupancy,1585.0,United States
+2022-04-27,Daily ICU occupancy,1571.0,United States
+2022-04-28,Daily ICU occupancy,1583.0,United States
+2022-04-29,Daily ICU occupancy,1597.0,United States

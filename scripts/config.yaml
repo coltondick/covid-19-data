@@ -81,5 +81,8 @@ pipeline:
     generate:
       countries:
       skip_countries:
-        - South Africa
-        - Israel
+        # - South Africa
+        # - Israel
+        - Spain
+        - Argentina
+  

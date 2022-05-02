@@ -9,4 +9,11 @@ from cowidev.cmd.commons.utils import feedback_log
 )
 @click.pass_context
 def click_vax_icer(ctx):
-    feedback_log(func=main, logger=ctx.obj["logger"], domain="Vaccinations", step="icer", hide_success=True)
+    feedback_log(
+        func=main,
+        logger=ctx.obj["logger"],
+        server=ctx.obj["server"],
+        domain="Vaccinations",
+        step="icer",
+        hide_success=True,
+    )

@@ -756,6 +756,7 @@ date,indicator,value,entity
 2022-04-26,Daily hospital occupancy,733.0,Denmark
 2022-04-27,Daily hospital occupancy,717.0,Denmark
 2022-04-28,Daily hospital occupancy,685.0,Denmark
+2022-04-29,Daily hospital occupancy,646.0,Denmark
 2020-03-10,Weekly new hospital admissions,34.0,Denmark
 2020-03-11,Weekly new hospital admissions,43.0,Denmark
 2020-03-12,Weekly new hospital admissions,60.0,Denmark
@@ -1416,13 +1417,13 @@ date,indicator,value,entity
 2021-12-30,Weekly new hospital admissions,1030.0,Denmark
 2021-12-31,Weekly new hospital admissions,1061.0,Denmark
 2022-01-01,Weekly new hospital admissions,1113.0,Denmark
-2022-01-02,Weekly new hospital admissions,1182.0,Denmark
-2022-01-03,Weekly new hospital admissions,1228.0,Denmark
-2022-01-04,Weekly new hospital admissions,1242.0,Denmark
-2022-01-05,Weekly new hospital admissions,1218.0,Denmark
-2022-01-06,Weekly new hospital admissions,1223.0,Denmark
-2022-01-07,Weekly new hospital admissions,1250.0,Denmark
-2022-01-08,Weekly new hospital admissions,1206.0,Denmark
+2022-01-02,Weekly new hospital admissions,1181.0,Denmark
+2022-01-03,Weekly new hospital admissions,1227.0,Denmark
+2022-01-04,Weekly new hospital admissions,1241.0,Denmark
+2022-01-05,Weekly new hospital admissions,1217.0,Denmark
+2022-01-06,Weekly new hospital admissions,1222.0,Denmark
+2022-01-07,Weekly new hospital admissions,1249.0,Denmark
+2022-01-08,Weekly new hospital admissions,1205.0,Denmark
 2022-01-09,Weekly new hospital admissions,1184.0,Denmark
 2022-01-10,Weekly new hospital admissions,1155.0,Denmark
 2022-01-11,Weekly new hospital admissions,1178.0,Denmark
@@ -1466,72 +1467,73 @@ date,indicator,value,entity
 2022-02-18,Weekly new hospital admissions,2900.0,Denmark
 2022-02-19,Weekly new hospital admissions,2907.0,Denmark
 2022-02-20,Weekly new hospital admissions,2898.0,Denmark
-2022-02-21,Weekly new hospital admissions,2910.0,Denmark
-2022-02-22,Weekly new hospital admissions,2870.0,Denmark
-2022-02-23,Weekly new hospital admissions,2810.0,Denmark
-2022-02-24,Weekly new hospital admissions,2739.0,Denmark
-2022-02-25,Weekly new hospital admissions,2700.0,Denmark
-2022-02-26,Weekly new hospital admissions,2639.0,Denmark
-2022-02-27,Weekly new hospital admissions,2553.0,Denmark
-2022-02-28,Weekly new hospital admissions,2475.0,Denmark
-2022-03-01,Weekly new hospital admissions,2411.0,Denmark
+2022-02-21,Weekly new hospital admissions,2909.0,Denmark
+2022-02-22,Weekly new hospital admissions,2869.0,Denmark
+2022-02-23,Weekly new hospital admissions,2808.0,Denmark
+2022-02-24,Weekly new hospital admissions,2738.0,Denmark
+2022-02-25,Weekly new hospital admissions,2698.0,Denmark
+2022-02-26,Weekly new hospital admissions,2637.0,Denmark
+2022-02-27,Weekly new hospital admissions,2552.0,Denmark
+2022-02-28,Weekly new hospital admissions,2474.0,Denmark
+2022-03-01,Weekly new hospital admissions,2410.0,Denmark
 2022-03-02,Weekly new hospital admissions,2316.0,Denmark
-2022-03-03,Weekly new hospital admissions,2235.0,Denmark
+2022-03-03,Weekly new hospital admissions,2234.0,Denmark
 2022-03-04,Weekly new hospital admissions,2235.0,Denmark
 2022-03-05,Weekly new hospital admissions,2207.0,Denmark
-2022-03-06,Weekly new hospital admissions,2183.0,Denmark
-2022-03-07,Weekly new hospital admissions,2087.0,Denmark
-2022-03-08,Weekly new hospital admissions,2030.0,Denmark
-2022-03-09,Weekly new hospital admissions,2011.0,Denmark
-2022-03-10,Weekly new hospital admissions,1944.0,Denmark
+2022-03-06,Weekly new hospital admissions,2181.0,Denmark
+2022-03-07,Weekly new hospital admissions,2086.0,Denmark
+2022-03-08,Weekly new hospital admissions,2029.0,Denmark
+2022-03-09,Weekly new hospital admissions,2010.0,Denmark
+2022-03-10,Weekly new hospital admissions,1943.0,Denmark
 2022-03-11,Weekly new hospital admissions,1838.0,Denmark
 2022-03-12,Weekly new hospital admissions,1822.0,Denmark
-2022-03-13,Weekly new hospital admissions,1766.0,Denmark
+2022-03-13,Weekly new hospital admissions,1767.0,Denmark
 2022-03-14,Weekly new hospital admissions,1740.0,Denmark
 2022-03-15,Weekly new hospital admissions,1702.0,Denmark
 2022-03-16,Weekly new hospital admissions,1647.0,Denmark
 2022-03-17,Weekly new hospital admissions,1619.0,Denmark
-2022-03-18,Weekly new hospital admissions,1559.0,Denmark
-2022-03-19,Weekly new hospital admissions,1528.0,Denmark
+2022-03-18,Weekly new hospital admissions,1558.0,Denmark
+2022-03-19,Weekly new hospital admissions,1527.0,Denmark
 2022-03-20,Weekly new hospital admissions,1490.0,Denmark
-2022-03-21,Weekly new hospital admissions,1417.0,Denmark
-2022-03-22,Weekly new hospital admissions,1364.0,Denmark
-2022-03-23,Weekly new hospital admissions,1372.0,Denmark
-2022-03-24,Weekly new hospital admissions,1314.0,Denmark
-2022-03-25,Weekly new hospital admissions,1281.0,Denmark
-2022-03-26,Weekly new hospital admissions,1224.0,Denmark
-2022-03-27,Weekly new hospital admissions,1190.0,Denmark
-2022-03-28,Weekly new hospital admissions,1154.0,Denmark
-2022-03-29,Weekly new hospital admissions,1116.0,Denmark
-2022-03-30,Weekly new hospital admissions,1028.0,Denmark
-2022-03-31,Weekly new hospital admissions,1017.0,Denmark
-2022-04-01,Weekly new hospital admissions,993.0,Denmark
-2022-04-02,Weekly new hospital admissions,980.0,Denmark
-2022-04-03,Weekly new hospital admissions,968.0,Denmark
+2022-03-21,Weekly new hospital admissions,1418.0,Denmark
+2022-03-22,Weekly new hospital admissions,1366.0,Denmark
+2022-03-23,Weekly new hospital admissions,1375.0,Denmark
+2022-03-24,Weekly new hospital admissions,1317.0,Denmark
+2022-03-25,Weekly new hospital admissions,1284.0,Denmark
+2022-03-26,Weekly new hospital admissions,1227.0,Denmark
+2022-03-27,Weekly new hospital admissions,1192.0,Denmark
+2022-03-28,Weekly new hospital admissions,1158.0,Denmark
+2022-03-29,Weekly new hospital admissions,1119.0,Denmark
+2022-03-30,Weekly new hospital admissions,1030.0,Denmark
+2022-03-31,Weekly new hospital admissions,1019.0,Denmark
+2022-04-01,Weekly new hospital admissions,996.0,Denmark
+2022-04-02,Weekly new hospital admissions,982.0,Denmark
+2022-04-03,Weekly new hospital admissions,970.0,Denmark
 2022-04-04,Weekly new hospital admissions,941.0,Denmark
 2022-04-05,Weekly new hospital admissions,925.0,Denmark
 2022-04-06,Weekly new hospital admissions,915.0,Denmark
 2022-04-07,Weekly new hospital admissions,879.0,Denmark
-2022-04-08,Weekly new hospital admissions,858.0,Denmark
+2022-04-08,Weekly new hospital admissions,857.0,Denmark
 2022-04-09,Weekly new hospital admissions,856.0,Denmark
 2022-04-10,Weekly new hospital admissions,839.0,Denmark
-2022-04-11,Weekly new hospital admissions,802.0,Denmark
-2022-04-12,Weekly new hospital admissions,767.0,Denmark
-2022-04-13,Weekly new hospital admissions,745.0,Denmark
-2022-04-14,Weekly new hospital admissions,720.0,Denmark
-2022-04-15,Weekly new hospital admissions,691.0,Denmark
-2022-04-16,Weekly new hospital admissions,676.0,Denmark
-2022-04-17,Weekly new hospital admissions,677.0,Denmark
-2022-04-18,Weekly new hospital admissions,649.0,Denmark
-2022-04-19,Weekly new hospital admissions,641.0,Denmark
-2022-04-20,Weekly new hospital admissions,627.0,Denmark
-2022-04-21,Weekly new hospital admissions,628.0,Denmark
-2022-04-22,Weekly new hospital admissions,625.0,Denmark
-2022-04-23,Weekly new hospital admissions,601.0,Denmark
-2022-04-24,Weekly new hospital admissions,578.0,Denmark
-2022-04-25,Weekly new hospital admissions,571.0,Denmark
-2022-04-26,Weekly new hospital admissions,560.0,Denmark
-2022-04-27,Weekly new hospital admissions,509.0,Denmark
+2022-04-11,Weekly new hospital admissions,803.0,Denmark
+2022-04-12,Weekly new hospital admissions,768.0,Denmark
+2022-04-13,Weekly new hospital admissions,747.0,Denmark
+2022-04-14,Weekly new hospital admissions,722.0,Denmark
+2022-04-15,Weekly new hospital admissions,694.0,Denmark
+2022-04-16,Weekly new hospital admissions,680.0,Denmark
+2022-04-17,Weekly new hospital admissions,680.0,Denmark
+2022-04-18,Weekly new hospital admissions,651.0,Denmark
+2022-04-19,Weekly new hospital admissions,643.0,Denmark
+2022-04-20,Weekly new hospital admissions,628.0,Denmark
+2022-04-21,Weekly new hospital admissions,629.0,Denmark
+2022-04-22,Weekly new hospital admissions,630.0,Denmark
+2022-04-23,Weekly new hospital admissions,602.0,Denmark
+2022-04-24,Weekly new hospital admissions,584.0,Denmark
+2022-04-25,Weekly new hospital admissions,580.0,Denmark
+2022-04-26,Weekly new hospital admissions,569.0,Denmark
+2022-04-27,Weekly new hospital admissions,525.0,Denmark
+2022-04-28,Weekly new hospital admissions,495.0,Denmark
 2020-02-24,Daily ICU occupancy,0.0,Denmark
 2020-02-25,Daily ICU occupancy,0.0,Denmark
 2020-02-26,Daily ICU occupancy,0.0,Denmark
@@ -2326,3 +2328,5 @@ date,indicator,value,entity
 2022-04-25,Daily ICU occupancy,15.0,Denmark
 2022-04-26,Daily ICU occupancy,13.0,Denmark
 2022-04-27,Daily ICU occupancy,13.0,Denmark
+2022-04-28,Daily ICU occupancy,10.0,Denmark
+2022-04-29,Daily ICU occupancy,10.0,Denmark

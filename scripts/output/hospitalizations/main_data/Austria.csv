@@ -757,6 +757,9 @@ date,indicator,value,entity
 2022-04-26,Daily hospital occupancy,1478,Austria
 2022-04-27,Daily hospital occupancy,1428,Austria
 2022-04-28,Daily hospital occupancy,1341,Austria
+2022-04-29,Daily hospital occupancy,1314,Austria
+2022-04-30,Daily hospital occupancy,1250,Austria
+2022-05-01,Daily hospital occupancy,1233,Austria
 2020-04-01,Daily ICU occupancy,215,Austria
 2020-04-02,Daily ICU occupancy,219,Austria
 2020-04-03,Daily ICU occupancy,245,Austria
@@ -1515,3 +1518,6 @@ date,indicator,value,entity
 2022-04-26,Daily ICU occupancy,110,Austria
 2022-04-27,Daily ICU occupancy,106,Austria
 2022-04-28,Daily ICU occupancy,110,Austria
+2022-04-29,Daily ICU occupancy,99,Austria
+2022-04-30,Daily ICU occupancy,87,Austria
+2022-05-01,Daily ICU occupancy,83,Austria

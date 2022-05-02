@@ -17,7 +17,6 @@ class XMortalityETL:
             "Excess%20Mortality%20Data%20%E2%80%93%20OWID%20(2022)/"
             "Excess%20Mortality%20Data%20%E2%80%93%20OWID%20(2022).csv"
         )
-        self.timestamp_filename = "owid-covid-data-last-updated-timestamp-xm.txt"
 
     def extract(self):
         return pd.read_csv(self.source_url)
@@ -48,9 +47,11 @@ class XMortalityETL:
         return df.pipe(self.pipeline)
 
     def load(self, df: pd.DataFrame, output_path: str) -> None:
-        # Export data
-        df.to_csv(output_path, index=False)
-        export_timestamp(self.timestamp_filename)
+        df_current = pd.read_csv(output_path)
+        if not df.equals(df_current):
+            # Export data
+            df.to_csv(output_path, index=False)
+            export_timestamp(PATHS.DATA_TIMESTAMP_XM_FILE)
 
     def run(self):
         df = self.extract()

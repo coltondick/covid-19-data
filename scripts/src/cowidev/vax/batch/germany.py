@@ -14,6 +14,7 @@ class Germany(CountryVaxBase):
         "dosen_kumulativ": "total_vaccinations",
         "personen_erst_kumulativ": "people_vaccinated",
         "dosen_dritt_kumulativ": "total_boosters",
+        "dosen_viert_kumulativ": "total_boosters_2",
     }
     vaccine_mapping: str = {
         "dosen_biontech_kumulativ": "Pfizer/BioNTech",
@@ -36,7 +37,7 @@ class Germany(CountryVaxBase):
 
     def _check_vaccines(self, df: pd.DataFrame):
         """Get vaccine columns mapped to Vaccine names."""
-        EXCLUDE = ["kbv", "dim", "erst", "zweit", "dritt"]
+        EXCLUDE = ["kbv", "dim", "erst", "zweit", "dritt", "viert"]
 
         def _is_vaccine_column(column_name: str):
             if re.search(self.regex_doses_colnames, column_name):
@@ -55,9 +56,10 @@ class Germany(CountryVaxBase):
     def translate_vaccine_columns(self, df: pd.DataFrame) -> pd.DataFrame:
         return df.rename(columns=self.vaccine_mapping).rename(columns=self.fully_vaccinated_mapping)
 
-    def calculate_fully_vaccinated(self, df: pd.DataFrame) -> pd.DataFrame:
+    def calculate_metrics(self, df: pd.DataFrame) -> pd.DataFrame:
         return df.assign(
-            people_fully_vaccinated=df.full_biontech + df.full_moderna + df.full_jj + df.full_astra + df.full_nova
+            people_fully_vaccinated=df.full_biontech + df.full_moderna + df.full_jj + df.full_astra + df.full_nova,
+            total_boosters=df.total_boosters + df.total_boosters_2,
         )
 
     def enrich_location(self, df: pd.DataFrame) -> pd.DataFrame:
@@ -68,7 +70,7 @@ class Germany(CountryVaxBase):
             df.pipe(self._check_vaccines)
             .pipe(self.translate_columns)
             .pipe(self.translate_vaccine_columns)
-            .pipe(self.calculate_fully_vaccinated)
+            .pipe(self.calculate_metrics)
             .pipe(self.enrich_location)
         )
 

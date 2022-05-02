@@ -768,9 +768,12 @@ date,indicator,value,entity
 2022-04-20,Daily hospital occupancy,3070.0,Belgium
 2022-04-21,Daily hospital occupancy,2951.0,Belgium
 2022-04-22,Daily hospital occupancy,2820.0,Belgium
-2022-04-23,Daily hospital occupancy,2634.0,Belgium
-2022-04-24,Daily hospital occupancy,2694.0,Belgium
-2022-04-25,Daily hospital occupancy,2742.0,Belgium
+2022-04-23,Daily hospital occupancy,2632.0,Belgium
+2022-04-24,Daily hospital occupancy,2692.0,Belgium
+2022-04-25,Daily hospital occupancy,2740.0,Belgium
+2022-04-26,Daily hospital occupancy,2609.0,Belgium
+2022-04-27,Daily hospital occupancy,2542.0,Belgium
+2022-04-28,Daily hospital occupancy,2427.0,Belgium
 2020-03-15,Daily ICU occupancy,53.0,Belgium
 2020-03-16,Daily ICU occupancy,79.0,Belgium
 2020-03-17,Daily ICU occupancy,100.0,Belgium
@@ -1543,6 +1546,9 @@ date,indicator,value,entity
 2022-04-23,Daily ICU occupancy,148.0,Belgium
 2022-04-24,Daily ICU occupancy,156.0,Belgium
 2022-04-25,Daily ICU occupancy,165.0,Belgium
+2022-04-26,Daily ICU occupancy,154.0,Belgium
+2022-04-27,Daily ICU occupancy,150.0,Belgium
+2022-04-28,Daily ICU occupancy,146.0,Belgium
 2020-03-21,Weekly new hospital admissions,1291.0,Belgium
 2020-03-22,Weekly new hospital admissions,1499.0,Belgium
 2020-03-23,Weekly new hospital admissions,1679.0,Belgium
@@ -2309,3 +2315,6 @@ date,indicator,value,entity
 2022-04-23,Weekly new hospital admissions,1287.0,Belgium
 2022-04-24,Weekly new hospital admissions,1253.0,Belgium
 2022-04-25,Weekly new hospital admissions,1233.0,Belgium
+2022-04-26,Weekly new hospital admissions,1230.0,Belgium
+2022-04-27,Weekly new hospital admissions,1171.0,Belgium
+2022-04-28,Weekly new hospital admissions,1120.0,Belgium

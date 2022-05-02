@@ -783,6 +783,7 @@ date,indicator,value,entity
 2022-04-25,Daily ICU occupancy,81.0,Netherlands
 2022-04-26,Daily ICU occupancy,76.0,Netherlands
 2022-04-28,Daily ICU occupancy,66.0,Netherlands
+2022-04-29,Daily ICU occupancy,65.0,Netherlands
 2020-02-27,Daily hospital occupancy,1.0,Netherlands
 2020-02-28,Daily hospital occupancy,9.0,Netherlands
 2020-02-29,Daily hospital occupancy,10.0,Netherlands
@@ -1567,6 +1568,7 @@ date,indicator,value,entity
 2022-04-25,Daily hospital occupancy,916.0,Netherlands
 2022-04-26,Daily hospital occupancy,906.0,Netherlands
 2022-04-28,Daily hospital occupancy,800.0,Netherlands
+2022-04-29,Daily hospital occupancy,787.0,Netherlands
 2020-10-23,Weekly new ICU admissions,314.0,Netherlands
 2020-10-24,Weekly new ICU admissions,324.0,Netherlands
 2020-10-25,Weekly new ICU admissions,324.0,Netherlands
@@ -2106,6 +2108,7 @@ date,indicator,value,entity
 2022-04-25,Weekly new ICU admissions,52.0,Netherlands
 2022-04-26,Weekly new ICU admissions,48.0,Netherlands
 2022-04-28,Weekly new ICU admissions,41.0,Netherlands
+2022-04-29,Weekly new ICU admissions,39.0,Netherlands
 2020-10-23,Weekly new hospital admissions,1576.0,Netherlands
 2020-10-24,Weekly new hospital admissions,1644.0,Netherlands
 2020-10-25,Weekly new hospital admissions,1629.0,Netherlands
@@ -2645,3 +2648,4 @@ date,indicator,value,entity
 2022-04-25,Weekly new hospital admissions,736.0,Netherlands
 2022-04-26,Weekly new hospital admissions,696.0,Netherlands
 2022-04-28,Weekly new hospital admissions,621.0,Netherlands
+2022-04-29,Weekly new hospital admissions,586.0,Netherlands

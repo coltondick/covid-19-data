@@ -3,12 +3,10 @@ import os
 import sys
 import pandas as pd
 import numpy as np
-import pytz
-from datetime import datetime
 from termcolor import colored
 
-
-from cowidev.megafile.generate import generate_megafile
+from cowidev import PATHS
+from cowidev.utils.utils import export_timestamp
 from cowidev.jhu._parser import _parse_args
 from cowidev.jhu.shared import (
     load_population,
@@ -43,9 +41,12 @@ WARNING = colored("[Warning]", "yellow")
 DATASET_NAME = "COVID-19 - Johns Hopkins University"
 
 LARGE_DATA_CORRECTIONS = [
+    ("Austria", "2022-04-21", "deaths"),
+    ("Austria", "2022-04-22", "deaths"),
     ("Brazil", "2021-09-18", "cases"),
     ("Chile", "2020-07-17", "deaths"),
     ("Chile", "2022-03-21", "deaths"),
+    ("China", "2020-04-17", "deaths"),
     ("Denmark", "2021-12-21", "deaths"),
     ("Ecuador", "2020-09-07", "deaths"),
     ("Ecuador", "2021-07-20", "deaths"),
@@ -388,6 +389,9 @@ def main(logger, skip_download=False):
 
     logger.info("Generating subnational file…")
     create_subnational()
+
+    # Export timestamp
+    export_timestamp(PATHS.DATA_TIMESTAMP_JHU_FILE)
 
 
 def download_csv(logger):

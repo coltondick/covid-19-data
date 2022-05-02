@@ -48,6 +48,7 @@ def click_sweden_grapherdb(ctx):
         domain="Sweden",
         step="grapher-db",
         text_success="Sweden data updated in database.",
+        hide_success=True,
     )
 
 

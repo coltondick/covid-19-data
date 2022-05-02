@@ -79,7 +79,7 @@ class Ireland(CountryVaxBase):
         return df.assign(source_url=self.source_url_ref, location=self.location)
 
     def pipe_filter(self, df: pd.DataFrame) -> pd.DataFrame:
-        msk = df.date == "2022-03-17"
+        msk = df.date.isin(["2022-03-17", "2022-04-16"])
         if (df.loc[msk, ["people_vaccinated", "people_fully_vaccinated"]] == 0).any(axis=None):
             df = df.loc[~msk]
         return df

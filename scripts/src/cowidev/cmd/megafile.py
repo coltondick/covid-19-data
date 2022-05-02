@@ -13,4 +13,5 @@ def click_megafile(ctx):
         server=ctx.obj["server"],
         domain="Megafile",
         text_success="Public data files generated.",
+        hide_success=True,
     )

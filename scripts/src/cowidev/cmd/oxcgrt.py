@@ -54,6 +54,7 @@ def click_oxcgrt_db(ctx):
         domain="OxCGRT",
         step="grapher-db",
         text_success="Data correctly uploaded to the database.",
+        hide_success=True,
     )
 
 

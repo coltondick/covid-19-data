@@ -1,9 +1,4 @@
 date,value,entity,indicator
-2022-04-04,23997.0,Russia,Weekly new hospital admissions
-2022-04-05,23353.0,Russia,Weekly new hospital admissions
-2022-04-06,22767.0,Russia,Weekly new hospital admissions
-2022-04-07,21524.0,Russia,Weekly new hospital admissions
-2022-04-08,21397.0,Russia,Weekly new hospital admissions
 2022-04-09,21145.0,Russia,Weekly new hospital admissions
 2022-04-10,20621.0,Russia,Weekly new hospital admissions
 2022-04-11,20440.0,Russia,Weekly new hospital admissions
@@ -24,3 +19,6 @@ date,value,entity,indicator
 2022-04-26,16912.0,Russia,Weekly new hospital admissions
 2022-04-27,16881.0,Russia,Weekly new hospital admissions
 2022-04-28,16549.0,Russia,Weekly new hospital admissions
+2022-04-29,16447.0,Russia,Weekly new hospital admissions
+2022-04-30,16339.0,Russia,Weekly new hospital admissions
+2022-05-01,16429.0,Russia,Weekly new hospital admissions

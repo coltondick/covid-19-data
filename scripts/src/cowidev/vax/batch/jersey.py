@@ -24,6 +24,7 @@ class Jersey(CountryVaxBase):
             "VaccinationsTotalNumberFirstDoseVaccinations": "people_vaccinated",
             "VaccinationsTotalNumberSecondDoseVaccinations": "people_fully_vaccinated",
             "VaccinationsTotalNumberThirdDoseVaccinations": "total_boosters",
+            "VaccinationsTotalNumberFourthDoseVaccinations": "total_boosters_2",
         }
 
     def read(self):
@@ -49,12 +50,16 @@ class Jersey(CountryVaxBase):
     def pipe_enrich_columns(self, df: pd.DataFrame) -> pd.DataFrame:
         return df.assign(location=self.location, source_url=self.source_url)
 
+    def pipe_metrics(self, df: pd.DataFrame) -> pd.DataFrame:
+        return df.assign(total_boosters=df.total_boosters + df.total_boosters_2.fillna(0))
+
     def pipeline(self, df: pd.DataFrame) -> pd.DataFrame:
         return (
             df.pipe(self.pipe_select_columns)
             .pipe(self.pipe_rename_columns)
             .pipe(self.pipe_enrich_vaccine_name)
             .pipe(self.pipe_enrich_columns)
+            .pipe(self.pipe_metrics)
             .sort_values("date")[
                 [
                     "location",
@@ -70,6 +75,7 @@ class Jersey(CountryVaxBase):
         )
 
     def pipe_age_select_columns(self, df: pd.DataFrame) -> pd.DataFrame:
+        # print(df.columns[-15:])
         return df[
             [
                 "Date",
@@ -84,7 +90,9 @@ class Jersey(CountryVaxBase):
                 "VaccinationsPercentagePopulationVaccinatedFirstDose30to39years",
                 "VaccinationsPercentagePopulationVaccinatedFirstDose18to29years",
                 "VaccinationsPercentagePopulationVaccinatedFirstDose16to17years",
-                "VaccinationsPercentagePopulationVaccinatedFirstDose0to15years",
+                "VaccinationsPercentagePopulationVaccinatedFirstDose12to15years",
+                "VaccinationsPercentagePopulationVaccinatedFirstDose5to11years",
+                # "VaccinationsPercentagePopulationVaccinatedFirstDose0to5years",
                 "VaccinationsPercentagePopulationVaccinatedSecondDose80yearsandover",
                 "VaccinationsPercentagePopulationVaccinatedSecondDose75to79years",
                 "VaccinationsPercentagePopulationVaccinatedSecondDose70to74years",
@@ -96,7 +104,9 @@ class Jersey(CountryVaxBase):
                 "VaccinationsPercentagePopulationVaccinatedSecondDose30to39years",
                 "VaccinationsPercentagePopulationVaccinatedSecondDose18to29years",
                 "VaccinationsPercentagePopulationVaccinatedSecondDose16to17years",
-                "VaccinationsPercentagePopulationVaccinatedSecondDose0to15years",
+                "VaccinationsPercentagePopulationVaccinatedSecondDose12to15years",
+                "VaccinationsPercentagePopulationVaccinatedSecondDose5to11years",
+                # "VaccinationsPercentagePopulationVaccinatedSecondDose0to5years",
                 "VaccinationsPercentagePopulationVaccinatedThirdDose80yearsandover",
                 "VaccinationsPercentagePopulationVaccinatedThirdDose75to79years",
                 "VaccinationsPercentagePopulationVaccinatedThirdDose70to74years",
@@ -108,14 +118,29 @@ class Jersey(CountryVaxBase):
                 "VaccinationsPercentagePopulationVaccinatedThirdDose30to39years",
                 "VaccinationsPercentagePopulationVaccinatedThirdDose18to29years",
                 "VaccinationsPercentagePopulationVaccinatedThirdDose16to17years",
-                "VaccinationsPercentagePopulationVaccinatedThirdDose0to15years",
+                "VaccinationsPercentagePopulationVaccinatedThirdDose12to15years",
+                "VaccinationsPercentagePopulationVaccinatedThirdDose5to11years",
+                # "VaccinationsPercentagePopulationVaccinatedThirdDose0to5years",
+                "VaccinationsPercentagePopulationVaccinatedFourthDose80yearsandover",
+                "VaccinationsPercentagePopulationVaccinatedFourthDose75to79years",
+                "VaccinationsPercentagePopulationVaccinatedFourthDose70to74years",
+                "VaccinationsPercentagePopulationVaccinatedFourthDose65to69years",
+                "VaccinationsPercentagePopulationVaccinatedFourthDose60to64years",
+                "VaccinationsPercentagePopulationVaccinatedFourthDose55to59years",
+                "VaccinationsPercentagePopulationVaccinatedFourthDose50to54years",
+                "VaccinationsPercentagePopulationVaccinatedFourthDose40to49years",
+                "VaccinationsPercentagePopulationVaccinatedFourthDose30to39years",
+                "VaccinationsPercentagePopulationVaccinatedFourthDose18to29years",
+                "VaccinationsPercentagePopulationVaccinatedFourthDose16to17years",
+                "VaccinationsPercentagePopulationVaccinatedFourthDose12to15years",
+                "VaccinationsPercentagePopulationVaccinatedFourthDose5to11years",
             ]
         ]
 
     def _extract_age_group(self, age_group_raw):
         # regex_17 = r"VaccinationsPercentagePopulationVaccinated(?:First|Second|Third)Dose17yearsandunder"
-        regex_80 = r"VaccinationsPercentagePopulationVaccinated(?:First|Second|Third)Dose80yearsandover"
-        regex = r"VaccinationsPercentagePopulationVaccinated(?:First|Second|Third)Dose(\d+)to(\d+)years"
+        regex_80 = r"VaccinationsPercentagePopulationVaccinated(?:First|Second|Third|Fourth)Dose80yearsandover"
+        regex = r"VaccinationsPercentagePopulationVaccinated(?:First|Second|Third|Fourth)Dose(\d+)to(\d+)years"
         # if re.match(regex_17, age_group_raw):
         #     age_group = "0-17"
         if re.match(regex_80, age_group_raw):
@@ -129,6 +154,7 @@ class Jersey(CountryVaxBase):
         df1 = df.filter(regex=r"Date|VaccinationsPercentagePopulationVaccinatedFirstDose.*")
         df2 = df.filter(regex=r"Date|VaccinationsPercentagePopulationVaccinatedSecondDose.*")
         df3 = df.filter(regex=r"Date|VaccinationsPercentagePopulationVaccinatedThirdDose.*")
+        df4 = df.filter(regex=r"Date|VaccinationsPercentagePopulationVaccinatedFourthDose.*")
         # Melt dataframes
         df1 = df1.melt(
             id_vars="Date",
@@ -145,10 +171,16 @@ class Jersey(CountryVaxBase):
             var_name="age_group",
             value_name="people_with_booster_per_hundred",
         )
+        df4 = df4.melt(
+            id_vars="Date",
+            var_name="age_group",
+            value_name="people_with_booster_2_per_hundred",
+        )
         # Process and merge dataframes
         df1 = df1.assign(age_group=df1.age_group.apply(self._extract_age_group))
         df2 = df2.assign(age_group=df2.age_group.apply(self._extract_age_group))
         df3 = df3.assign(age_group=df3.age_group.apply(self._extract_age_group))
+        df4 = df4.assign(age_group=df4.age_group.apply(self._extract_age_group))
         df = df1.merge(df2, on=["Date", "age_group"]).dropna(subset=["Date"])
         df = df.merge(df3, on=["Date", "age_group"]).dropna(subset=["Date"])
         return df
@@ -199,7 +231,7 @@ class Jersey(CountryVaxBase):
             .pipe(self.pipe_age_minmax_values)
             .pipe(self.pipe_enrich_columns)
             .pipe(self.pipe_metrics_scale_100)
-            .pipe(self.pipe_age_fix_dp)
+            # .pipe(self.pipe_age_fix_dp)
             .pipe(self.pipe_age_filter)
             .sort_values(["date", "age_group_min"])[
                 [
@@ -214,9 +246,16 @@ class Jersey(CountryVaxBase):
             ]
         )
 
+    def pipeline_base(self, df: pd.DataFrame) -> pd.DataFrame:
+        return (
+            df.drop_duplicates()
+            .sort_values(["Date", "VaccinationsPercentagePopulationVaccinatedFirstDose80yearsandover"])
+            .drop_duplicates("Date", keep="last")
+        )
+
     def export(self):
         """Generalized."""
-        df_base = self.read()
+        df_base = self.read().pipe(self.pipeline_base)
         # Main data
         df = df_base.pipe(self.pipeline)
         # Age data

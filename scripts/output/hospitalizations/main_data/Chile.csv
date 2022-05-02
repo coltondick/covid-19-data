@@ -757,6 +757,9 @@ date,indicator,value,entity
 2022-04-26,Daily ICU occupancy,266.0,Chile
 2022-04-27,Daily ICU occupancy,255.0,Chile
 2022-04-28,Daily ICU occupancy,239.0,Chile
+2022-04-29,Daily ICU occupancy,231.0,Chile
+2022-04-30,Daily ICU occupancy,221.0,Chile
+2022-05-01,Daily ICU occupancy,211.0,Chile
 2020-04-01,Weekly new ICU admissions,,Chile
 2020-04-02,Weekly new ICU admissions,,Chile
 2020-04-03,Weekly new ICU admissions,,Chile
@@ -1507,14 +1510,17 @@ date,indicator,value,entity
 2022-04-18,Weekly new ICU admissions,60.0,Chile
 2022-04-19,Weekly new ICU admissions,69.0,Chile
 2022-04-20,Weekly new ICU admissions,58.0,Chile
-2022-04-21,Weekly new ICU admissions,,Chile
-2022-04-22,Weekly new ICU admissions,,Chile
-2022-04-23,Weekly new ICU admissions,,Chile
-2022-04-24,Weekly new ICU admissions,,Chile
-2022-04-25,Weekly new ICU admissions,,Chile
-2022-04-26,Weekly new ICU admissions,,Chile
-2022-04-27,Weekly new ICU admissions,,Chile
+2022-04-21,Weekly new ICU admissions,57.0,Chile
+2022-04-22,Weekly new ICU admissions,58.0,Chile
+2022-04-23,Weekly new ICU admissions,58.0,Chile
+2022-04-24,Weekly new ICU admissions,59.0,Chile
+2022-04-25,Weekly new ICU admissions,59.0,Chile
+2022-04-26,Weekly new ICU admissions,54.0,Chile
+2022-04-27,Weekly new ICU admissions,54.0,Chile
 2022-04-28,Weekly new ICU admissions,,Chile
+2022-04-29,Weekly new ICU admissions,,Chile
+2022-04-30,Weekly new ICU admissions,,Chile
+2022-05-01,Weekly new ICU admissions,,Chile
 2020-04-01,Weekly new hospital admissions,,Chile
 2020-04-02,Weekly new hospital admissions,,Chile
 2020-04-03,Weekly new hospital admissions,,Chile
@@ -2260,16 +2266,19 @@ date,indicator,value,entity
 2022-04-13,Weekly new hospital admissions,423.0,Chile
 2022-04-14,Weekly new hospital admissions,397.0,Chile
 2022-04-15,Weekly new hospital admissions,384.0,Chile
-2022-04-16,Weekly new hospital admissions,,Chile
-2022-04-17,Weekly new hospital admissions,,Chile
-2022-04-18,Weekly new hospital admissions,,Chile
-2022-04-19,Weekly new hospital admissions,,Chile
-2022-04-20,Weekly new hospital admissions,,Chile
-2022-04-21,Weekly new hospital admissions,,Chile
-2022-04-22,Weekly new hospital admissions,,Chile
+2022-04-16,Weekly new hospital admissions,361.0,Chile
+2022-04-17,Weekly new hospital admissions,356.0,Chile
+2022-04-18,Weekly new hospital admissions,337.0,Chile
+2022-04-19,Weekly new hospital admissions,295.0,Chile
+2022-04-20,Weekly new hospital admissions,267.0,Chile
+2022-04-21,Weekly new hospital admissions,225.0,Chile
+2022-04-22,Weekly new hospital admissions,188.0,Chile
 2022-04-23,Weekly new hospital admissions,,Chile
 2022-04-24,Weekly new hospital admissions,,Chile
 2022-04-25,Weekly new hospital admissions,,Chile
 2022-04-26,Weekly new hospital admissions,,Chile
 2022-04-27,Weekly new hospital admissions,,Chile
 2022-04-28,Weekly new hospital admissions,,Chile
+2022-04-29,Weekly new hospital admissions,,Chile
+2022-04-30,Weekly new hospital admissions,,Chile
+2022-05-01,Weekly new hospital admissions,,Chile

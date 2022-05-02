@@ -756,7 +756,11 @@ date,indicator,value,entity
 2022-04-24,Daily hospital occupancy,3144,Australia
 2022-04-25,Daily hospital occupancy,3291,Australia
 2022-04-26,Daily hospital occupancy,3391,Australia
-2022-04-27,Daily hospital occupancy,3324,Australia
+2022-04-27,Daily hospital occupancy,3284,Australia
+2022-04-28,Daily hospital occupancy,3169,Australia
+2022-04-29,Daily hospital occupancy,3177,Australia
+2022-04-30,Daily hospital occupancy,3099,Australia
+2022-05-01,Daily hospital occupancy,3170,Australia
 2020-03-31,Daily ICU occupancy,82,Australia
 2020-04-01,Daily ICU occupancy,86,Australia
 2020-04-02,Daily ICU occupancy,92,Australia
@@ -1515,3 +1519,7 @@ date,indicator,value,entity
 2022-04-25,Daily ICU occupancy,141,Australia
 2022-04-26,Daily ICU occupancy,142,Australia
 2022-04-27,Daily ICU occupancy,149,Australia
+2022-04-28,Daily ICU occupancy,137,Australia
+2022-04-29,Daily ICU occupancy,139,Australia
+2022-04-30,Daily ICU occupancy,149,Australia
+2022-05-01,Daily ICU occupancy,142,Australia
